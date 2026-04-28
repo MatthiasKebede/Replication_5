@@ -4,23 +4,19 @@ Replication Study Guidelines<br/>
 Dr. Sarah Nadi, NYUAD
 </p>
 
-# Replication Repository README Template -- CS-UH-3260 Software Analytics
+# Replication 5 -- CS-UH-3260 Software Analytics
 
 
 ## Overview
 
-This repo provides a template and and guidelines for creating a README file for your replication study repository. The README serves as the primary documentation for your repository and helps evaluators understand your work, navigate your repository structure, and reproduce your replication. You can create a repo based on this template and modify the README and content as needed.
+This repo contains the scripts and data used for the `Replication 5` assignment, focusing on the paper *Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests*. The scope of our replication includes...
 
-
-## README Structure Template
-
-Your repository README should include the following sections:
 
 ### 1. Project Title and Overview
 
-- **Paper Title**: [Full title of the replicated paper]
-- **Authors**: [Original paper authors]
-- **Replication Team**: [Your team members' names]
+- **Paper Title**: Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests
+- **Authors**: Shamse Tasnim Cynthia, Al Muttakin, Banani Roy
+- **Replication Team**: Matthias Kebede and Muhammad Arhum
 - **Course**: CS-UH 3260 Software Analytics, NYUAD
 - **Brief Description**: 
   - 2-3 sentences summarizing what the original paper is about
