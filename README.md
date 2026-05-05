@@ -19,46 +19,106 @@ This repo contains the scripts and data used for the `Replication 5` assignment,
 - **Replication Team**: Matthias Kebede and Muhammad Arhum
 - **Course**: CS-UH 3260 Software Analytics, NYUAD
 - **Brief Description**: 
-  - 2-3 sentences summarizing what the original paper is about
-  - 2-3 sentences summarizing what this replication study does
+  - *Beyond Bug Fixes* looks at a subset of the **AIDev** dataset in order to assess the quality of Agentic PRs, specifically looking at bugfixes. They specifically look at code quality issues introduced by agents through SonarQube analysis of the *base* and *merged* commits. This reveals patterns in the distribution of issues across severity, type, and agent.
+  - Our replication aims to validate the results of the original paper. We use the included Jupyter Notebooks to run the SonarQube analysis and calculate the final results, then compare them to the claimed findings.
+
 
 ### 2. Repository Structure
 
 Document your repository structure clearly. Organize your repository using the following standard structure:
 
 ```
-README                    # Documentation for your repository
-datasets/                 # Subset of data you used (if any). If you used the whole dataset, include instructions on how to download it
-replication_scripts/      # Scripts used in your replication:
-                          #   - If you used scripts as-is: document which scripts you ran
-                          #   - If you modified scripts: include the modified scripts
-                          #   - If you created new scripts: include all new scripts
-outputs/                  # Your generated results only
-logs/                     # Console output, errors, screenshots
-notes/                    # Optional if you have any notes you took during reproduction (E.g., where you noted discrepencies etc)
+README                              # Documentation
+datasets/                           # The original datasets taken from the package
+  All_PR_Issues_Details_with_LOC.csv    # An extended version of including added/deleted lines (~churn)
+  All_PR_Sonar_Results.json             # Contains all of the info from analyzing the PRs w/ SonarQube
+  python_fix_prs.csv                    # This is the filtered subset of PRs from the AIDev set
+  Security_Hotspot_Details.json         # Shows the distribution of 'Security Hotspot' issues found in SonarQube
+replication_scripts/
+  SonarAnalysis.ipynb                   # Runs SonarQube analysis and prepares necessary CSV/JSON files
+  result-analysis.ipynb                 # Performs the analysis and statistical tests, outputs: CSVs, PNG tables, LaTeX tables
+outputs/
+  Agent_Statistics_Summary.csv          # Shows how many PRs and Issues per Agent
+  Agent_Statistics_Summary.tex
+  issue_density.png                     # Box-and-Whisker plot w/ outliers removed
+  (additional outputs in branch)
+logs/
+  process.log                           # Logs generated during SonarQube analysis
+notes/
+  notes.md                              # General notes
+  Kebede_Task1.md                       # Task 1 analysis (Matthias branch)
 ```
 
-**For each folder and file, provide a brief description of what it contains.**
+For reference, none of the dataset files appear to come directly from the AIDev dataset, although it obviously draws from it as a base to populate its own subset.
+
 
 ### 3. Setup Instructions
 
-- **Prerequisites**: Required software, tools, and versions
-  - OS requirements
-  - Programming language versions (Python, R, etc.)
-  - Required packages/libraries and versions
-  - Any other dependencies
-- **Installation Steps**: Step-by-step instructions to set up the environment
-  - How to install dependencies
-  - How to configure paths or settings
-  - Any environment variables needed
+- **Prerequisites**:
+  - Python 3.8+ and Git
+  - SonarQube Scanner (and SonarQube Cloud if using Google Colab - **Note: has LOC limits depending on plan**)
+  - Jupyter Notebook or JupyterLab
+
+- **Installation Steps (Local)**:
+  - Clone the replication package using `git clone git@github.com:cynthia247/MSR-Mining-2026.git`
+  - Create a `.env` file to pass sensitive values (i.e. GitHub Token, Sonar Token)
+  - Create a virtual environment and install required libraries:
+    - You may also need to install `scikit_posthocs`/`pyarrow` if you encounter a ModuleNotFoundError
+  ```bash
+  python -m venv .venv
+  source .venv/bin/activate              # `.venv/scripts/activate` on Windows)
+  pip install pandas numpy matplotlib seaborn requests python-dotenv       # as per the package's README
+  ```
+
+- **Running Instructions**:
+  - Ensure that SonarQube is running (e.g. `docker run -d --name sonarqube -p 9000:9000 sonarqube:community`) and SonarScanner responds (`sonar-scanner -v`)
+  - Open the `SonarAnalysis.ipynb` file and edit the constants to reflect your environment (e.g. `REPO_DIR=...`)
+  - Simply run the cells in each notebook in order (the file names can be very inconsistent, so be very careful about checking them)
+    - You can try running the Result Analysis using the original dataset files first, otherwise start with the SonarQube Analysis
+  - The Result Analysis should produce any CSVs and tables needed (in PNG and/or LaTeX format)
+
+- **Alternative Setup for Google Colab**:
+  - Open a notebook and set up the repository:
+  ```bash
+  !git clone https://github.com/cynthia247/MSR-Mining-2026.git
+  %cd MSR-Mining-2026
+  !pip install pandas numpy matplotlib seaborn requests python-dotenv
+  ```
+  - Install SonarQube in the Colab environment (cell provided)
+  - Signup/Login to SonarQube Cloud and generate a token
+  - Add GitHub/SonarQube tokens to Google Colab keys & edit constants as needed (i.e. `REPO_DIR`, `SONAR_URL`, `PROJECT_KEY`)
+
+- **Running Instructions (Google Colab)**
+  - Run the included scripts:
+    - We use the `-i` flag in order to pass variables (e.g. those that cause a NameError otherwise)
+    - You can try running the Result Analysis script first to make sure everything is in order
+    - Alternatively, you can open the `.ipynb` files directly in Colab or otherwise transfer the individual cells over --> run step by step
+  ```bash
+  # Sonar analysis
+  %run /content/MSR-Mining-2026/Scripts/SonarAnalysis.ipynb
+  ```
+  ```bash
+  # Result analysis
+  issue_types = ['BUG', 'CODE_SMELL', 'SECURITY_HOTSPOT']
+  rule_col = 'Rule'
+  %run -i /content/MSR-Mining-2026/Scripts/result-analysis.ipynb
+  ```
+  - You may need to rename/move the dataset files to fix any FileNotFound discrepancies (we include a cell to handle all the necessary changes)
+  - Save any files or console output needed
+
 
 ### 4. GenAI Usage
 
-**GenAI Usage**: Briefly document any use of generative AI tools (e.g., ChatGPT, GitHub Copilot, Cursor) during the replication process. Include:
+  - **Gemini** - Used to help with Google Colab syntax & file handling + set up SonarQube
+  - **Copilot** - Used to help w/ LaTeX syntax and resolving inconsistencies in the Jupyter Notebooks
 
-  - Which tools were used
-  - How they were used (e.g., understanding scripts, exploring datasets, understanding data fields, debugging)
-  - Brief description of the assistance provided
+
+
+
+
+
+
+
 
 
 ## Grading Criteria for README
