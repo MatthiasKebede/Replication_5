@@ -1,0 +1,482 @@
+[
+  {
+    "pr_info": {
+      "pr_number": 86,
+      "pr_html_url": "https://github.com/Deep-Learning-Profiling-Tools/triton-viz/pull/86",
+      "owner": "Deep-Learning-Profiling-Tools",
+      "repo": "triton-viz",
+      "agent": "Claude_Code"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "0c4a24d6-03eb-4d75-92f6-b48b839291e9",
+        "component": "PR_triton-viz_86:triton_viz/visualizer/interface.py",
+        "project": "PR_triton-viz_86",
+        "securityCategory": "csrf",
+        "vulnerabilityProbability": "HIGH",
+        "status": "TO_REVIEW",
+        "line": 13,
+        "message": "Make sure disabling CSRF protection is safe here.",
+        "author": "hwu27@gmu.edu",
+        "creationDate": "2026-05-05T07:53:10+0000",
+        "updateDate": "2026-05-05T07:53:10+0000",
+        "textRange": {
+          "startLine": 13,
+          "endLine": 17,
+          "startOffset": 6,
+          "endOffset": 1
+        },
+        "flows": [],
+        "ruleKey": "python:S4502",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 241,
+      "pr_html_url": "https://github.com/basicmachines-co/basic-memory/pull/241",
+      "owner": "basicmachines-co",
+      "repo": "basic-memory",
+      "agent": "Claude_Code"
+    },
+    "hotspots_count": 5,
+    "hotspots": [
+      {
+        "key": "eb6c8b10-b48f-4ae1-9aa7-6cac3d37c6e7",
+        "component": "PR_basic-memory_241:tests/api/test_project_router.py",
+        "project": "PR_basic-memory_241",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 223,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "joe@basicmemory.com",
+        "creationDate": "2026-05-05T08:32:30+0000",
+        "updateDate": "2026-05-05T08:32:30+0000",
+        "textRange": {
+          "startLine": 223,
+          "endLine": 223,
+          "startOffset": 16,
+          "endOffset": 41
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      },
+      {
+        "key": "2ee2cbf9-b86c-42e4-adbd-d0a5ed95c034",
+        "component": "PR_basic-memory_241:tests/api/test_project_router.py",
+        "project": "PR_basic-memory_241",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 295,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "joe@basicmemory.com",
+        "creationDate": "2026-05-05T08:32:30+0000",
+        "updateDate": "2026-05-05T08:32:30+0000",
+        "textRange": {
+          "startLine": 295,
+          "endLine": 295,
+          "startOffset": 22,
+          "endOffset": 37
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      },
+      {
+        "key": "b29148bb-8fad-4553-8702-522a0d8f31e3",
+        "component": "PR_basic-memory_241:tests/api/test_project_router.py",
+        "project": "PR_basic-memory_241",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 310,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "joe@basicmemory.com",
+        "creationDate": "2026-05-05T08:32:30+0000",
+        "updateDate": "2026-05-05T08:32:30+0000",
+        "textRange": {
+          "startLine": 310,
+          "endLine": 310,
+          "startOffset": 16,
+          "endOffset": 43
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      },
+      {
+        "key": "85748fc4-fc00-4ec7-9878-e5ed58b4d15a",
+        "component": "PR_basic-memory_241:tests/api/test_project_router.py",
+        "project": "PR_basic-memory_241",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 340,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "joe@basicmemory.com",
+        "creationDate": "2026-05-05T08:32:30+0000",
+        "updateDate": "2026-05-05T08:32:30+0000",
+        "textRange": {
+          "startLine": 340,
+          "endLine": 340,
+          "startOffset": 16,
+          "endOffset": 44
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      },
+      {
+        "key": "dcb1573e-0443-46a7-82ad-a0bfa9abe5fe",
+        "component": "PR_basic-memory_241:tests/api/test_project_router.py",
+        "project": "PR_basic-memory_241",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 373,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "joe@basicmemory.com",
+        "creationDate": "2026-05-05T08:32:30+0000",
+        "updateDate": "2026-05-05T08:32:30+0000",
+        "textRange": {
+          "startLine": 373,
+          "endLine": 373,
+          "startOffset": 16,
+          "endOffset": 45
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 18363,
+      "pr_html_url": "https://github.com/PrefectHQ/prefect/pull/18363",
+      "owner": "PrefectHQ",
+      "repo": "prefect",
+      "agent": "Claude_Code"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "57e7d319-30d0-468d-85a5-580ff9a5b8ab",
+        "component": "PR_prefect_18363:src/integrations/prefect-dbt/tests/core/test_settings.py",
+        "project": "PR_prefect_18363",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 273,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "146098880+kevingrismore@users.noreply.github.com",
+        "creationDate": "2026-05-05T08:41:35+0000",
+        "updateDate": "2026-05-05T08:41:35+0000",
+        "textRange": {
+          "startLine": 273,
+          "endLine": 273,
+          "startOffset": 63,
+          "endOffset": 77
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 16112,
+      "pr_html_url": "https://github.com/mlflow/mlflow/pull/16112",
+      "owner": "mlflow",
+      "repo": "mlflow",
+      "agent": "Copilot"
+    },
+    "hotspots_count": 7,
+    "hotspots": [
+      {
+        "key": "a7b7a60d-85ef-428c-a88a-ea8e6b5a5dd3",
+        "component": "PR_mlflow_16112:mlflow/utils/rest_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 441,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 441,
+          "endLine": 441,
+          "startOffset": 36,
+          "endOffset": 51
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "3d67a5ae-21b0-478f-8388-4e6521654002",
+        "component": "PR_mlflow_16112:tests/tracking/_model_registry/test_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 143,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 143,
+          "endLine": 143,
+          "startOffset": 23,
+          "endOffset": 56
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "6ea7f02b-7041-42af-b955-f1ce4c36aef6",
+        "component": "PR_mlflow_16112:tests/tracking/_model_registry/test_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 231,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 231,
+          "endLine": 231,
+          "startOffset": 23,
+          "endOffset": 49
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "e80a28f0-0c74-48f6-80bc-6b1f3db2a61c",
+        "component": "PR_mlflow_16112:tests/utils/test_rest_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 654,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 654,
+          "endLine": 654,
+          "startOffset": 33,
+          "endOffset": 53
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "29ec1fac-fe41-4c3b-a228-161cee0a4778",
+        "component": "PR_mlflow_16112:tests/utils/test_rest_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 694,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 694,
+          "endLine": 694,
+          "startOffset": 33,
+          "endOffset": 53
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "d76bf279-d433-489c-a6f2-94720841dc82",
+        "component": "PR_mlflow_16112:tests/utils/test_rest_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 726,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 726,
+          "endLine": 726,
+          "startOffset": 33,
+          "endOffset": 53
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "44f3cf5c-ae4b-4afd-b628-301235c388dd",
+        "component": "PR_mlflow_16112:tests/utils/test_rest_utils.py",
+        "project": "PR_mlflow_16112",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 766,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "39497902+dbczumar@users.noreply.github.com",
+        "creationDate": "2026-05-05T09:47:12+0000",
+        "updateDate": "2026-05-05T09:47:12+0000",
+        "textRange": {
+          "startLine": 766,
+          "endLine": 766,
+          "startOffset": 33,
+          "endOffset": 53
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 278,
+      "pr_html_url": "https://github.com/Ljzd-PRO/KToolBox/pull/278",
+      "owner": "Ljzd-PRO",
+      "repo": "KToolBox",
+      "agent": "Copilot"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "3814f825-5b33-4a85-bc11-49d21104d773",
+        "component": "PR_KToolBox_278:ktoolbox/action/job.py",
+        "project": "PR_KToolBox_278",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 121,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "198982749+copilot@users.noreply.github.com",
+        "creationDate": "2026-05-05T11:44:58+0000",
+        "updateDate": "2026-05-05T11:44:58+0000",
+        "textRange": {
+          "startLine": 121,
+          "endLine": 121,
+          "startOffset": 38,
+          "endOffset": 47
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 11601,
+      "pr_html_url": "https://github.com/gradio-app/gradio/pull/11601",
+      "owner": "gradio-app",
+      "repo": "gradio",
+      "agent": "Copilot"
+    },
+    "hotspots_count": 2,
+    "hotspots": [
+      {
+        "key": "2cdd9233-9da2-4710-83fd-e1b3e0461e12",
+        "component": "PR_gradio_11601:test/test_external_utils.py",
+        "project": "PR_gradio_11601",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 122,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "abubakar@huggingface.co",
+        "creationDate": "2026-05-05T13:11:42+0000",
+        "updateDate": "2026-05-05T13:11:42+0000",
+        "textRange": {
+          "startLine": 122,
+          "endLine": 122,
+          "startOffset": 8,
+          "endOffset": 32
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "b0b0db00-3f8c-4b72-9119-b55b254a56a0",
+        "component": "PR_gradio_11601:test/test_external_utils.py",
+        "project": "PR_gradio_11601",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 144,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "abubakar@huggingface.co",
+        "creationDate": "2026-05-05T13:11:42+0000",
+        "updateDate": "2026-05-05T13:11:42+0000",
+        "textRange": {
+          "startLine": 144,
+          "endLine": 144,
+          "startOffset": 39,
+          "endOffset": 63
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 16878,
+      "pr_html_url": "https://github.com/mlflow/mlflow/pull/16878",
+      "owner": "mlflow",
+      "repo": "mlflow",
+      "agent": "Copilot"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "40381a7b-c91a-4ae5-9469-6ec00c43b3d6",
+        "component": "PR_mlflow_16878:tests/store/artifact/test_runs_artifact_repo.py",
+        "project": "PR_mlflow_16878",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 123,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "198982749+copilot@users.noreply.github.com",
+        "creationDate": "2026-05-05T13:51:07+0000",
+        "updateDate": "2026-05-05T13:51:07+0000",
+        "textRange": {
+          "startLine": 123,
+          "endLine": 123,
+          "startOffset": 25,
+          "endOffset": 59
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  }
+]

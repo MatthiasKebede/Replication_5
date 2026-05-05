@@ -1,0 +1,2014 @@
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+Analysis of base commit completed.
+
+Checked out to branch merged_86 at a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #391 from repository numbagg/numbagg (Index: 1)
+
+-------------------------------
+Base SHA: 16488e826e328af4240f28e724f76d219b2deea4, Merged SHA: 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Project PR_numbagg_391 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_391 at 16488e826e328af4240f28e724f76d219b2deea4
+Analysis of base commit completed.
+
+Checked out to branch merged_391 at 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7 from repository haasonsaas/ocode (Index: 2)
+
+-------------------------------
+Base SHA: 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412, Merged SHA: ae74b194f36178027090334733a77faf58f5012b
+Project PR_ocode_7 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_7 at 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412
+Analysis of base commit completed.
+
+Checked out to branch merged_7 at ae74b194f36178027090334733a77faf58f5012b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1185 from repository jlowin/fastmcp (Index: 3)
+
+-------------------------------
+Base SHA: c02be184eefacea9f50621dcb081fe60e62b3f0e, Merged SHA: ea54851736605b3b0b62e05c9a5638fc9dc53fe8
+Project PR_fastmcp_1185 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1185 at c02be184eefacea9f50621dcb081fe60e62b3f0e
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+
+================================================================================
+Processing PR #391 from repository numbagg/numbagg (Index: 1)
+Repository numbagg already cloned.
+
+-------------------------------
+Base SHA: 16488e826e328af4240f28e724f76d219b2deea4, Merged SHA: 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Project PR_numbagg_391 already exists. Deleting it...
+Project PR_numbagg_391 deleted. Recreating it...
+
+---------------------------------
+
+================================================================================
+Processing PR #7 from repository haasonsaas/ocode (Index: 2)
+Repository ocode already cloned.
+
+-------------------------------
+Base SHA: 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412, Merged SHA: ae74b194f36178027090334733a77faf58f5012b
+Project PR_ocode_7 already exists. Deleting it...
+Project PR_ocode_7 deleted. Recreating it...
+
+---------------------------------
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+Analysis of base commit completed.
+
+Checked out to branch merged_86 at a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #391 from repository numbagg/numbagg (Index: 1)
+Repository numbagg already cloned.
+
+-------------------------------
+Base SHA: 16488e826e328af4240f28e724f76d219b2deea4, Merged SHA: 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Project PR_numbagg_391 already exists. Deleting it...
+Project PR_numbagg_391 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_391 at 16488e826e328af4240f28e724f76d219b2deea4
+Analysis of base commit completed.
+
+Checked out to branch merged_391 at 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7 from repository haasonsaas/ocode (Index: 2)
+Repository ocode already cloned.
+
+-------------------------------
+Base SHA: 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412, Merged SHA: ae74b194f36178027090334733a77faf58f5012b
+Project PR_ocode_7 already exists. Deleting it...
+Project PR_ocode_7 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_7 at 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412
+Analysis of base commit completed.
+
+Checked out to branch merged_7 at ae74b194f36178027090334733a77faf58f5012b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+Analysis of base commit completed.
+
+Checked out to branch merged_86 at a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+
+================================================================================
+Processing PR #11601 from repository gradio-app/gradio (Index: 96)
+
+-------------------------------
+Base SHA: 801f2887b95393c406aef57f0b0c7344753b03c6, Merged SHA: 7d5a7629794146b33217e0cf34a289d35d1e36da
+Project PR_gradio_11601 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_11601 at 801f2887b95393c406aef57f0b0c7344753b03c6
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+Analysis of base commit completed.
+
+Checked out to branch merged_86 at a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+
+================================================================================
+Processing PR #86 from repository Deep-Learning-Profiling-Tools/triton-viz (Index: 0)
+Repository triton-viz already cloned.
+
+-------------------------------
+Base SHA: bef2e72a7fb4e539b2056d10e3e2e7fda78af933, Merged SHA: a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Project PR_triton-viz_86 already exists. Deleting it...
+Project PR_triton-viz_86 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_86 at bef2e72a7fb4e539b2056d10e3e2e7fda78af933
+Analysis of base commit completed.
+
+Checked out to branch merged_86 at a4002cb05e3db4ee1d4938bee58fb68e72b358d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #391 from repository numbagg/numbagg (Index: 1)
+Repository numbagg already cloned.
+
+-------------------------------
+Base SHA: 16488e826e328af4240f28e724f76d219b2deea4, Merged SHA: 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Project PR_numbagg_391 already exists. Deleting it...
+Project PR_numbagg_391 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_391 at 16488e826e328af4240f28e724f76d219b2deea4
+Analysis of base commit completed.
+
+Checked out to branch merged_391 at 603b62f4f8dd42c3a50745fb9e8bebecc6963dfc
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7 from repository haasonsaas/ocode (Index: 2)
+Repository ocode already cloned.
+
+-------------------------------
+Base SHA: 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412, Merged SHA: ae74b194f36178027090334733a77faf58f5012b
+Project PR_ocode_7 already exists. Deleting it...
+Project PR_ocode_7 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_7 at 59877d0fb5b46b64ca23e03a447f8bd3ac8c6412
+Analysis of base commit completed.
+
+Checked out to branch merged_7 at ae74b194f36178027090334733a77faf58f5012b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1185 from repository jlowin/fastmcp (Index: 3)
+Repository fastmcp already cloned.
+
+-------------------------------
+Base SHA: c02be184eefacea9f50621dcb081fe60e62b3f0e, Merged SHA: ea54851736605b3b0b62e05c9a5638fc9dc53fe8
+Project PR_fastmcp_1185 already exists. Deleting it...
+Project PR_fastmcp_1185 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_1185 at c02be184eefacea9f50621dcb081fe60e62b3f0e
+Analysis of base commit completed.
+
+Checked out to branch merged_1185 at ea54851736605b3b0b62e05c9a5638fc9dc53fe8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #42 from repository meilisearch/meilisearch-mcp (Index: 4)
+
+-------------------------------
+Base SHA: 332c0ab6b528f62d395525bf2a255d40ce89960a, Merged SHA: 280d880fd83a56c23ebf45fdf6d1e84407c4797c
+Project PR_meilisearch-mcp_42 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_42 at 332c0ab6b528f62d395525bf2a255d40ce89960a
+Analysis of base commit completed.
+
+Checked out to branch merged_42 at 280d880fd83a56c23ebf45fdf6d1e84407c4797c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3575 from repository pdm-project/pdm (Index: 5)
+
+-------------------------------
+Base SHA: 94c6cf25c613b52a15225861073d16be185b98f2, Merged SHA: a14f86efc0aaac9eb535f599b103323a29adb534
+Project PR_pdm_3575 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3575 at 94c6cf25c613b52a15225861073d16be185b98f2
+Analysis of base commit completed.
+
+Checked out to branch merged_3575 at a14f86efc0aaac9eb535f599b103323a29adb534
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16449 from repository mlflow/mlflow (Index: 6)
+
+-------------------------------
+Base SHA: 39a26815c059e352c6bc09fa23d1f5d3a99e545d, Merged SHA: a05c8bfeb79593d5afe8951379e0396131045028
+Project PR_mlflow_16449 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16449 at 39a26815c059e352c6bc09fa23d1f5d3a99e545d
+Analysis of base commit completed.
+
+Checked out to branch merged_16449 at a05c8bfeb79593d5afe8951379e0396131045028
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1729 from repository 567-labs/instructor (Index: 7)
+
+-------------------------------
+Base SHA: e4262e7956528ace495b3b4f293403d2f90e93c6, Merged SHA: 3b0c2227567f13879b2844483d276a85ea81250f
+Project PR_instructor_1729 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1729 at e4262e7956528ace495b3b4f293403d2f90e93c6
+Analysis of base commit completed.
+
+Checked out to branch merged_1729 at 3b0c2227567f13879b2844483d276a85ea81250f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #10483 from repository Significant-Gravitas/AutoGPT (Index: 8)
+
+-------------------------------
+Base SHA: b9c7642cfc25d8c475d23b6332fb3286dfcfa584, Merged SHA: a37fac31b5e4d12a4a0ebf9098cd9f9b59325408
+Project PR_AutoGPT_10483 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_10483 at b9c7642cfc25d8c475d23b6332fb3286dfcfa584
+Analysis of base commit completed.
+
+Checked out to branch merged_10483 at a37fac31b5e4d12a4a0ebf9098cd9f9b59325408
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #62 from repository BeehiveInnovations/zen-mcp-server (Index: 9)
+
+-------------------------------
+Base SHA: c3d44525b6cf8dcc4755b89d9b2fed63e6a72bc5, Merged SHA: f55f2b0a0f0e479571eda6cade36a8742d1f2b19
+Project PR_zen-mcp-server_62 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_62 at c3d44525b6cf8dcc4755b89d9b2fed63e6a72bc5
+Analysis of base commit completed.
+
+Checked out to branch merged_62 at f55f2b0a0f0e479571eda6cade36a8742d1f2b19
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #62941 from repository airbytehq/airbyte (Index: 10)
+
+-------------------------------
+Base SHA: 0694a6b2a9f4cf41b4c1fbc60a176eaefb55ce3c, Merged SHA: 49e734dda69056a64ca6f091b58a3480c568a021
+Project PR_airbyte_62941 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_62941 at 0694a6b2a9f4cf41b4c1fbc60a176eaefb55ce3c
+Analysis of base commit completed.
+
+Checked out to branch merged_62941 at 49e734dda69056a64ca6f091b58a3480c568a021
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #241 from repository basicmachines-co/basic-memory (Index: 11)
+
+-------------------------------
+Base SHA: 24a1d6195d611577d02ee20bffab8212f703fd98, Merged SHA: a4a3b1b6899abe4ba0e158dc84a13178ea8b8109
+Project PR_basic-memory_241 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_241 at 24a1d6195d611577d02ee20bffab8212f703fd98
+Analysis of base commit completed.
+
+Checked out to branch merged_241 at a4a3b1b6899abe4ba0e158dc84a13178ea8b8109
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #33 from repository rinadelph/Agent-MCP (Index: 12)
+
+-------------------------------
+Base SHA: 36b9e89a71b34b484a687c1d51ed01c259fb4058, Merged SHA: 42fd2ae22e7d7a19c9bdb5d7e957f921d62fc8f3
+Project PR_Agent-MCP_33 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_33 at 36b9e89a71b34b484a687c1d51ed01c259fb4058
+Analysis of base commit completed.
+
+Checked out to branch merged_33 at 42fd2ae22e7d7a19c9bdb5d7e957f921d62fc8f3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #837 from repository INCATools/ontology-access-kit (Index: 13)
+
+-------------------------------
+Base SHA: a3baa519d76adb14d2f9f893844aa234ed2270f0, Merged SHA: 1b99d04d6ce460f33f71c35db25b801a9a6a8962
+Project PR_ontology-access-kit_837 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_837 at a3baa519d76adb14d2f9f893844aa234ed2270f0
+Analysis of base commit completed.
+
+Checked out to branch merged_837 at 1b99d04d6ce460f33f71c35db25b801a9a6a8962
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #18363 from repository PrefectHQ/prefect (Index: 14)
+
+-------------------------------
+Base SHA: dd106a9ad7251b98f05e77e3fafb5771273533e3, Merged SHA: 95e0c8dae6fd48c71803a68a5f15cf27ef71a591
+Project PR_prefect_18363 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_18363 at dd106a9ad7251b98f05e77e3fafb5771273533e3
+Analysis of base commit completed.
+
+Checked out to branch merged_18363 at 95e0c8dae6fd48c71803a68a5f15cf27ef71a591
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6752 from repository microsoft/autogen (Index: 15)
+
+-------------------------------
+Base SHA: c23b9454a87d2d8e019154dc9fe37681634115d4, Merged SHA: e10767421f62b32ca1efb1a8be183d4546cec75a
+Project PR_autogen_6752 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6752 at c23b9454a87d2d8e019154dc9fe37681634115d4
+Analysis of base commit completed.
+
+Checked out to branch merged_6752 at e10767421f62b32ca1efb1a8be183d4546cec75a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16909 from repository mlflow/mlflow (Index: 16)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 504d1196ecb3fe8f367eda96843e8e4ae088e35d, Merged SHA: 590b15937f12db9e628ba5b89e2c394ca44fed3c
+Project PR_mlflow_16909 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16909 at 504d1196ecb3fe8f367eda96843e8e4ae088e35d
+Analysis of base commit completed.
+
+Checked out to branch merged_16909 at 590b15937f12db9e628ba5b89e2c394ca44fed3c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16014 from repository mlflow/mlflow (Index: 17)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 7afab096ac42f81664b4892f996fdc3bf0e2f513, Merged SHA: 886971903f9ab7c28f287a37b899619aa19486d8
+Project PR_mlflow_16014 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16014 at 7afab096ac42f81664b4892f996fdc3bf0e2f513
+Analysis of base commit completed.
+
+Checked out to branch merged_16014 at 886971903f9ab7c28f287a37b899619aa19486d8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16389 from repository mlflow/mlflow (Index: 18)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: c684d91056277b7f021ad4995ae7be386193a73d, Merged SHA: 94db78c2c8f2ff0495320ca3e4ca24a03ddfcff2
+Project PR_mlflow_16389 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16389 at c684d91056277b7f021ad4995ae7be386193a73d
+Analysis of base commit completed.
+
+Checked out to branch merged_16389 at 94db78c2c8f2ff0495320ca3e4ca24a03ddfcff2
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #591 from repository jeroenterheerdt/HAsmartirrigation (Index: 19)
+
+-------------------------------
+Base SHA: 3f6edb64bc3c85ff32af800beb9c42fe79c2ba56, Merged SHA: d01806f899302c26b6c2a08e81a6ef4203d7c809
+Project PR_HAsmartirrigation_591 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_591 at 3f6edb64bc3c85ff32af800beb9c42fe79c2ba56
+Analysis of base commit completed.
+
+Checked out to branch merged_591 at d01806f899302c26b6c2a08e81a6ef4203d7c809
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3811 from repository microsoft/lisa (Index: 20)
+
+-------------------------------
+Base SHA: 64175926af6f45974a9065f1bf3f1b121728165c, Merged SHA: 9306bf3b724af032ed42417215bfaa44028b8507
+Project PR_lisa_3811 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3811 at 64175926af6f45974a9065f1bf3f1b121728165c
+Analysis of base commit completed.
+
+Checked out to branch merged_3811 at 9306bf3b724af032ed42417215bfaa44028b8507
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #500 from repository NewFuture/DDNS (Index: 21)
+
+-------------------------------
+Base SHA: 43fe2792c607f276f15cf6b15083f3581f33aa1b, Merged SHA: 33a0c295c10d5d45e6196465e3638189cf32441f
+Project PR_DDNS_500 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_500 at 43fe2792c607f276f15cf6b15083f3581f33aa1b
+Analysis of base commit completed.
+
+Checked out to branch merged_500 at 33a0c295c10d5d45e6196465e3638189cf32441f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16533 from repository mlflow/mlflow (Index: 22)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 111488eb276d523d483ebcef97f4794d2195e847, Merged SHA: 22ddd6f24df5a98f9c681553f5901f93ff3552e3
+Project PR_mlflow_16533 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16533 at 111488eb276d523d483ebcef97f4794d2195e847
+Analysis of base commit completed.
+
+Checked out to branch merged_16533 at 22ddd6f24df5a98f9c681553f5901f93ff3552e3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15996 from repository mlflow/mlflow (Index: 23)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848, Merged SHA: b914ebbdad2275c38bb06dec8aa4f9f57231816f
+Project PR_mlflow_15996 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15996 at 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848
+Analysis of base commit completed.
+
+Checked out to branch merged_15996 at b914ebbdad2275c38bb06dec8aa4f9f57231816f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #149 from repository microsoft/mssql-python (Index: 24)
+
+-------------------------------
+Base SHA: de72919316d25773e3ed991d1d121cbb560b3c72, Merged SHA: f278d60a6c58beb5be4fffd7e56f8d3e264e2867
+Project PR_mssql-python_149 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_149 at de72919316d25773e3ed991d1d121cbb560b3c72
+Analysis of base commit completed.
+
+Checked out to branch merged_149 at f278d60a6c58beb5be4fffd7e56f8d3e264e2867
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #495 from repository NewFuture/DDNS (Index: 25)
+Repository DDNS already cloned.
+
+-------------------------------
+Base SHA: f1a764d3c2e2c6aade66f85162964e6ce9248fee, Merged SHA: 0653b687507587f90f91cbcefed1debafd5f6193
+Project PR_DDNS_495 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_495 at f1a764d3c2e2c6aade66f85162964e6ce9248fee
+Analysis of base commit completed.
+
+Checked out to branch merged_495 at 0653b687507587f90f91cbcefed1debafd5f6193
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #129 from repository microsoft/debug-gym (Index: 26)
+
+-------------------------------
+Base SHA: feaabdbe9f6500ab3cfb30d44f9dfb3c506df957, Merged SHA: fdc33b5e9e0f390b977e05edc7ae39a2677c298d
+Project PR_debug-gym_129 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_129 at feaabdbe9f6500ab3cfb30d44f9dfb3c506df957
+Analysis of base commit completed.
+
+Checked out to branch merged_129 at fdc33b5e9e0f390b977e05edc7ae39a2677c298d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1939 from repository microsoft/graphrag (Index: 27)
+
+-------------------------------
+Base SHA: 24018c6155effed428cfd17b2389d8fbe574e1db, Merged SHA: f5a472ab1426f98150ddf405902ffdde11f4bc9b
+Project PR_graphrag_1939 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1939 at 24018c6155effed428cfd17b2389d8fbe574e1db
+Analysis of base commit completed.
+
+Checked out to branch merged_1939 at f5a472ab1426f98150ddf405902ffdde11f4bc9b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #104 from repository Azure-Samples/aisearch-openai-rag-audio (Index: 28)
+
+-------------------------------
+Base SHA: 36ef213205ee440a771bce6a6c27fb51e07b307a, Merged SHA: 9cfdcbce072744f19520c9748c79c8c9b59da988
+Project PR_aisearch-openai-rag-audio_104 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_104 at 36ef213205ee440a771bce6a6c27fb51e07b307a
+Analysis of base commit completed.
+
+Checked out to branch merged_104 at 9cfdcbce072744f19520c9748c79c8c9b59da988
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7240 from repository microsoft/Qcodes (Index: 29)
+
+-------------------------------
+Base SHA: 4533e6a732430d4471328214d9eec65829a72435, Merged SHA: 77fde1343c5ddf9cfe14be0fd0b415165247a9b9
+Project PR_Qcodes_7240 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_7240 at 4533e6a732430d4471328214d9eec65829a72435
+Analysis of base commit completed.
+
+Checked out to branch merged_7240 at 77fde1343c5ddf9cfe14be0fd0b415165247a9b9
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #29 from repository bmander/graphserver (Index: 30)
+
+-------------------------------
+Base SHA: 9ccd0f3302350d78cbd3437fab2db5ba552f93d7, Merged SHA: 8393a178ea105498c836acaa5b68e00d116e4a6b
+Project PR_graphserver_29 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_29 at 9ccd0f3302350d78cbd3437fab2db5ba552f93d7
+Analysis of base commit completed.
+
+Checked out to branch merged_29 at 8393a178ea105498c836acaa5b68e00d116e4a6b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4559 from repository microsoft/AzureTRE (Index: 31)
+
+-------------------------------
+Base SHA: 448ee7e972b0329d2fdf283f0cbf37dd7f6c369a, Merged SHA: 1b6f9e09e9b5ae512b6ba9ec9e1939702f731d48
+Project PR_AzureTRE_4559 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4559 at 448ee7e972b0329d2fdf283f0cbf37dd7f6c369a
+Analysis of base commit completed.
+
+Checked out to branch merged_4559 at 1b6f9e09e9b5ae512b6ba9ec9e1939702f731d48
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16112 from repository mlflow/mlflow (Index: 32)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: a40c3768cff2eda2ae77400a96fe99c6866b95fe, Merged SHA: 946dbae9951803a1fe67e9025cf98478f7cc9c09
+Project PR_mlflow_16112 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16112 at a40c3768cff2eda2ae77400a96fe99c6866b95fe
+Analysis of base commit completed.
+
+Checked out to branch merged_16112 at 946dbae9951803a1fe67e9025cf98478f7cc9c09
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15987 from repository mlflow/mlflow (Index: 33)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848, Merged SHA: b1efe0ea05e50c2b515abd584358c86d930d6ac9
+Project PR_mlflow_15987 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15987 at 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848
+Analysis of base commit completed.
+
+Checked out to branch merged_15987 at b1efe0ea05e50c2b515abd584358c86d930d6ac9
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15989 from repository mlflow/mlflow (Index: 34)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: fe21ad0047991d349100f8a4333c50ea2d8d6513, Merged SHA: 68ff383080e7caf32dbdf794b4aaecafbcf7cb83
+Project PR_mlflow_15989 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15989 at fe21ad0047991d349100f8a4333c50ea2d8d6513
+Analysis of base commit completed.
+
+Checked out to branch merged_15989 at 68ff383080e7caf32dbdf794b4aaecafbcf7cb83
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15991 from repository mlflow/mlflow (Index: 35)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 68ff383080e7caf32dbdf794b4aaecafbcf7cb83, Merged SHA: 0615d8c12ffe34a2a1aba3d76029162a0da4aeda
+Project PR_mlflow_15991 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15991 at 68ff383080e7caf32dbdf794b4aaecafbcf7cb83
+Analysis of base commit completed.
+
+Checked out to branch merged_15991 at 0615d8c12ffe34a2a1aba3d76029162a0da4aeda
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15993 from repository mlflow/mlflow (Index: 36)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 0615d8c12ffe34a2a1aba3d76029162a0da4aeda, Merged SHA: 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848
+Project PR_mlflow_15993 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15993 at 0615d8c12ffe34a2a1aba3d76029162a0da4aeda
+Analysis of base commit completed.
+
+Checked out to branch merged_15993 at 5a51f4736d2e73fb9e07fa1ab1d9475c2d426848
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #604 from repository jeroenterheerdt/HAsmartirrigation (Index: 37)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: 756ce647cb4f2edb682af1b2849d6c056a7a18c8, Merged SHA: ae26b475f5b8b53895e038d878f442e882cee47a
+Project PR_HAsmartirrigation_604 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_604 at 756ce647cb4f2edb682af1b2849d6c056a7a18c8
+Analysis of base commit completed.
+
+Checked out to branch merged_604 at ae26b475f5b8b53895e038d878f442e882cee47a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #161 from repository microsoft/debug-gym (Index: 38)
+Repository debug-gym already cloned.
+
+-------------------------------
+Base SHA: f4f001d5496ad115d642dff17de2329d121ff827, Merged SHA: 1682335927ece674a610ae029055d0d0fdd2d223
+Project PR_debug-gym_161 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_161 at f4f001d5496ad115d642dff17de2329d121ff827
+Analysis of base commit completed.
+
+Checked out to branch merged_161 at 1682335927ece674a610ae029055d0d0fdd2d223
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15863 from repository mlflow/mlflow (Index: 39)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: af867687d26bbaca9580e0f65a1905a6b91f410d, Merged SHA: 177ae67c9d4cd43461d1efd37cfdf057566f26c6
+Project PR_mlflow_15863 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15863 at af867687d26bbaca9580e0f65a1905a6b91f410d
+Analysis of base commit completed.
+
+Checked out to branch merged_15863 at 177ae67c9d4cd43461d1efd37cfdf057566f26c6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3834 from repository microsoft/lisa (Index: 40)
+Repository lisa already cloned.
+
+-------------------------------
+Base SHA: ecea995792cd0d295423e682773be027c884e448, Merged SHA: dfcc53abf3cfea4564597a2066668c78a136c36d
+Project PR_lisa_3834 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3834 at ecea995792cd0d295423e682773be027c884e448
+Analysis of base commit completed.
+
+Checked out to branch merged_3834 at dfcc53abf3cfea4564597a2066668c78a136c36d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15909 from repository mlflow/mlflow (Index: 41)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 13543537b99cb599b0df087d4986e522cf959c8e, Merged SHA: e448dbd81fe44430d2991c66048c77985de1645e
+Project PR_mlflow_15909 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15909 at 13543537b99cb599b0df087d4986e522cf959c8e
+Analysis of base commit completed.
+
+Checked out to branch merged_15909 at e448dbd81fe44430d2991c66048c77985de1645e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #382 from repository microsoft/fabric-cicd (Index: 44)
+
+-------------------------------
+Base SHA: f3da14d5806b1fccd700255bfff26b33459f7c74, Merged SHA: add2d26ff527fe239632a466d2f0a156b4d2f371
+Project PR_fabric-cicd_382 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_382 at f3da14d5806b1fccd700255bfff26b33459f7c74
+Analysis of base commit completed.
+
+Checked out to branch merged_382 at add2d26ff527fe239632a466d2f0a156b4d2f371
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #383 from repository microsoft/fabric-cicd (Index: 45)
+Repository fabric-cicd already cloned.
+
+-------------------------------
+Base SHA: add2d26ff527fe239632a466d2f0a156b4d2f371, Merged SHA: ff5394cb6f4bfbed7dbc6110dee87c174a547c1a
+Project PR_fabric-cicd_383 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_383 at add2d26ff527fe239632a466d2f0a156b4d2f371
+Analysis of base commit completed.
+
+Checked out to branch merged_383 at ff5394cb6f4bfbed7dbc6110dee87c174a547c1a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #975 from repository microsoft/RD-Agent (Index: 46)
+
+-------------------------------
+Base SHA: 1ba754853ce2010ce1cb0bbd217b67689fa1ebdf, Merged SHA: 05cf094913e48c903c8a4476d6c609d8bfa10681
+Project PR_RD-Agent_975 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_975 at 1ba754853ce2010ce1cb0bbd217b67689fa1ebdf
+Analysis of base commit completed.
+
+Checked out to branch merged_975 at 05cf094913e48c903c8a4476d6c609d8bfa10681
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #151 from repository microsoft/mssql-python (Index: 47)
+Repository mssql-python already cloned.
+
+-------------------------------
+Base SHA: f278d60a6c58beb5be4fffd7e56f8d3e264e2867, Merged SHA: 627328ce2dac80324f913ae585f6527d16321293
+Project PR_mssql-python_151 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_151 at f278d60a6c58beb5be4fffd7e56f8d3e264e2867
+Analysis of base commit completed.
+
+Checked out to branch merged_151 at 627328ce2dac80324f913ae585f6527d16321293
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1925 from repository docling-project/docling (Index: 48)
+
+-------------------------------
+Base SHA: 2b8616d6d5e2b4ca1de587cd7a0746d3fe8e227b, Merged SHA: c5fb353f109dfe79b51c201ebb1ff33fceeae34a
+Project PR_docling_1925 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1925 at 2b8616d6d5e2b4ca1de587cd7a0746d3fe8e227b
+Analysis of base commit completed.
+
+Checked out to branch merged_1925 at c5fb353f109dfe79b51c201ebb1ff33fceeae34a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1926 from repository docling-project/docling (Index: 49)
+Repository docling already cloned.
+
+-------------------------------
+Base SHA: cc6193b3b9907a0c40837cb0c1a9ad574546ff12, Merged SHA: 95e70962f1d7cf1f339a88fde9c907111e194726
+Project PR_docling_1926 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1926 at cc6193b3b9907a0c40837cb0c1a9ad574546ff12
+Analysis of base commit completed.
+
+Checked out to branch merged_1926 at 95e70962f1d7cf1f339a88fde9c907111e194726
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #179 from repository microsoft/debug-gym (Index: 50)
+Repository debug-gym already cloned.
+
+-------------------------------
+Base SHA: 14d215863630dfd432cd848ee195774bf53b9bc8, Merged SHA: 27efbe8fc2ed2307416f9bcdb8486616a74c0395
+Project PR_debug-gym_179 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_179 at 14d215863630dfd432cd848ee195774bf53b9bc8
+Analysis of base commit completed.
+
+Checked out to branch merged_179 at 27efbe8fc2ed2307416f9bcdb8486616a74c0395
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #236 from repository Azure-Samples/rag-postgres-openai-python (Index: 51)
+
+-------------------------------
+Base SHA: 64672ca5125f428a4633d3ba8474b7381417ee74, Merged SHA: 6fae6389d81ba6b39993baf40287de0e7e6e328c
+Project PR_rag-postgres-openai-python_236 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_236 at 64672ca5125f428a4633d3ba8474b7381417ee74
+Analysis of base commit completed.
+
+Checked out to branch merged_236 at 6fae6389d81ba6b39993baf40287de0e7e6e328c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #389 from repository microsoft/fabric-cicd (Index: 52)
+Repository fabric-cicd already cloned.
+
+-------------------------------
+Base SHA: ff5394cb6f4bfbed7dbc6110dee87c174a547c1a, Merged SHA: 349c6e38b536d30aaae6059d4d4aa979dcb1f6d6
+Project PR_fabric-cicd_389 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_389 at ff5394cb6f4bfbed7dbc6110dee87c174a547c1a
+Analysis of base commit completed.
+
+Checked out to branch merged_389 at 349c6e38b536d30aaae6059d4d4aa979dcb1f6d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16367 from repository mlflow/mlflow (Index: 53)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 3a2ca851dcace5dce7fdd954af9b4d0908dabd64, Merged SHA: 88af5dc12973c303e80333e19ba588126af8c647
+Project PR_mlflow_16367 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16367 at 3a2ca851dcace5dce7fdd954af9b4d0908dabd64
+Analysis of base commit completed.
+
+Checked out to branch merged_16367 at 88af5dc12973c303e80333e19ba588126af8c647
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #234 from repository Azure-Samples/rag-postgres-openai-python (Index: 54)
+Repository rag-postgres-openai-python already cloned.
+
+-------------------------------
+Base SHA: bb16fcfdc488d8a32e1c34047ba4ef474ae12abf, Merged SHA: 64672ca5125f428a4633d3ba8474b7381417ee74
+Project PR_rag-postgres-openai-python_234 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_234 at bb16fcfdc488d8a32e1c34047ba4ef474ae12abf
+Analysis of base commit completed.
+
+Checked out to branch merged_234 at 64672ca5125f428a4633d3ba8474b7381417ee74
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16265 from repository mlflow/mlflow (Index: 56)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 9a70d99a59ab76a76716dcd35c5da26cc2a1a077, Merged SHA: f1e22cecdb3b1fd2918af65099e7f3bb05991379
+Project PR_mlflow_16265 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16265 at 9a70d99a59ab76a76716dcd35c5da26cc2a1a077
+Analysis of base commit completed.
+
+Checked out to branch merged_16265 at f1e22cecdb3b1fd2918af65099e7f3bb05991379
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15852 from repository mlflow/mlflow (Index: 57)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 1431cec3bac51862c9ef086169fb3369fa6d3920, Merged SHA: 3a25101d8bd66b86253f5f76967cf1eab9ba681c
+Project PR_mlflow_15852 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15852 at 1431cec3bac51862c9ef086169fb3369fa6d3920
+Analysis of base commit completed.
+
+Checked out to branch merged_15852 at 3a25101d8bd66b86253f5f76967cf1eab9ba681c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15854 from repository mlflow/mlflow (Index: 58)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 1431cec3bac51862c9ef086169fb3369fa6d3920, Merged SHA: af867687d26bbaca9580e0f65a1905a6b91f410d
+Project PR_mlflow_15854 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15854 at 1431cec3bac51862c9ef086169fb3369fa6d3920
+Analysis of base commit completed.
+
+Checked out to branch merged_15854 at af867687d26bbaca9580e0f65a1905a6b91f410d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16053 from repository mlflow/mlflow (Index: 59)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 7685fbde34f7795878dcf9ca95e35da25e739748, Merged SHA: 9a658d9a499bca3de9b40fc0d22658ea90a8825a
+Project PR_mlflow_16053 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16053 at 7685fbde34f7795878dcf9ca95e35da25e739748
+Analysis of base commit completed.
+
+Checked out to branch merged_16053 at 9a658d9a499bca3de9b40fc0d22658ea90a8825a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #347 from repository microsoft/fabric-cicd (Index: 60)
+Repository fabric-cicd already cloned.
+
+-------------------------------
+Base SHA: 83c45544d0cc2fb36a933efc76ba2ecff7541c9d, Merged SHA: ae22a637d46a1e3b5f8af8dd81b2e6115a9bc501
+Project PR_fabric-cicd_347 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_347 at 83c45544d0cc2fb36a933efc76ba2ecff7541c9d
+Analysis of base commit completed.
+
+Checked out to branch merged_347 at ae22a637d46a1e3b5f8af8dd81b2e6115a9bc501
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #59 from repository microsoft/magentic-ui (Index: 61)
+
+-------------------------------
+Base SHA: 2db233281a20b6df46a5be8340bcd585dfe1599c, Merged SHA: 04751f919480b27ac4a75d17f48d52c768aa9c0a
+Project PR_magentic-ui_59 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_59 at 2db233281a20b6df46a5be8340bcd585dfe1599c
+Analysis of base commit completed.
+
+Checked out to branch merged_59 at 04751f919480b27ac4a75d17f48d52c768aa9c0a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #62 from repository microsoft/magentic-ui (Index: 62)
+Repository magentic-ui already cloned.
+
+-------------------------------
+Base SHA: 04751f919480b27ac4a75d17f48d52c768aa9c0a, Merged SHA: 98c2392a9cdfa303cd933fd59ec3573a06a108e7
+Project PR_magentic-ui_62 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_62 at 04751f919480b27ac4a75d17f48d52c768aa9c0a
+Analysis of base commit completed.
+
+Checked out to branch merged_62 at 98c2392a9cdfa303cd933fd59ec3573a06a108e7
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #56 from repository microsoft/mcp-for-beginners (Index: 63)
+
+-------------------------------
+Base SHA: 7785ba64f5b907902cdf86cc595058a31d6bd302, Merged SHA: 95cabfea1e58cd8f2780682e43e19c7ab2ea8ba3
+Project PR_mcp-for-beginners_56 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_56 at 7785ba64f5b907902cdf86cc595058a31d6bd302
+Analysis of base commit completed.
+
+Checked out to branch merged_56 at 95cabfea1e58cd8f2780682e43e19c7ab2ea8ba3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16369 from repository mlflow/mlflow (Index: 64)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 88af5dc12973c303e80333e19ba588126af8c647, Merged SHA: 4a4c860a6dfe1055f56208322a8cf823ad2e4d16
+Project PR_mlflow_16369 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16369 at 88af5dc12973c303e80333e19ba588126af8c647
+Analysis of base commit completed.
+
+Checked out to branch merged_16369 at 4a4c860a6dfe1055f56208322a8cf823ad2e4d16
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #30 from repository pamelafox/python-openai-demos (Index: 65)
+
+-------------------------------
+Base SHA: 1c9cc58fc15287979fc877ee8b7255ddb75c8009, Merged SHA: 83cfaaa3c92518842f70d91e05052e7637ea7433
+Project PR_python-openai-demos_30 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_30 at 1c9cc58fc15287979fc877ee8b7255ddb75c8009
+Analysis of base commit completed.
+
+Checked out to branch merged_30 at 83cfaaa3c92518842f70d91e05052e7637ea7433
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #278 from repository Ljzd-PRO/KToolBox (Index: 66)
+
+-------------------------------
+Base SHA: e6b8176a5f89ec4b20367271413874c33839d9e1, Merged SHA: 6f01cd5f300dc257d7796ad4cd3ee29edca82128
+Project PR_KToolBox_278 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_278 at e6b8176a5f89ec4b20367271413874c33839d9e1
+Analysis of base commit completed.
+
+Checked out to branch merged_278 at 6f01cd5f300dc257d7796ad4cd3ee29edca82128
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #583 from repository Azure/azure-kusto-python (Index: 67)
+
+-------------------------------
+Base SHA: 7f76fb8536d7ab7920fc223218a15eff89cd9d2c, Merged SHA: d5fcedfdf160f1fb3f267e5ca7732277dde59d11
+Project PR_azure-kusto-python_583 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_583 at 7f76fb8536d7ab7920fc223218a15eff89cd9d2c
+Analysis of base commit completed.
+
+Checked out to branch merged_583 at d5fcedfdf160f1fb3f267e5ca7732277dde59d11
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4551 from repository microsoft/AzureTRE (Index: 68)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: 85f2fa27bcbe89d8af65e256feccdd3d69dceb02, Merged SHA: dea84ef0dcc80361ce49f36bcb55b08ed5eb91bf
+Project PR_AzureTRE_4551 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4551 at 85f2fa27bcbe89d8af65e256feccdd3d69dceb02
+Analysis of base commit completed.
+
+Checked out to branch merged_4551 at dea84ef0dcc80361ce49f36bcb55b08ed5eb91bf
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4552 from repository microsoft/AzureTRE (Index: 69)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: 0819afd148f6ac86c55d5544dab64992729d65c5, Merged SHA: 5de47582e7a5380e5d7cb1fa2a1e1ef286f54062
+Project PR_AzureTRE_4552 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4552 at 0819afd148f6ac86c55d5544dab64992729d65c5
+Analysis of base commit completed.
+
+Checked out to branch merged_4552 at 5de47582e7a5380e5d7cb1fa2a1e1ef286f54062
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16472 from repository mlflow/mlflow (Index: 70)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 3376f4272c6429d42f93dac8bc59e00d1a3fa9cb, Merged SHA: ebba0fa367fb3545cdbdd941da22dc9cb6bc4dbd
+Project PR_mlflow_16472 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16472 at 3376f4272c6429d42f93dac8bc59e00d1a3fa9cb
+Analysis of base commit completed.
+
+Checked out to branch merged_16472 at ebba0fa367fb3545cdbdd941da22dc9cb6bc4dbd
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2861 from repository microsoft/torchgeo (Index: 71)
+
+-------------------------------
+Base SHA: fd170aefd4e9929a55cacbb167dee58a4e37627a, Merged SHA: 7522ec9d5e3ddb24304644be0fbaf338a7915602
+Project PR_torchgeo_2861 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2861 at fd170aefd4e9929a55cacbb167dee58a4e37627a
+Analysis of base commit completed.
+
+Checked out to branch merged_2861 at 7522ec9d5e3ddb24304644be0fbaf338a7915602
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16191 from repository mlflow/mlflow (Index: 72)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: c44e13ffb9d533948a6569c878916072875517fb, Merged SHA: fc0d077f20c15c9bc51694375e8b5adc571a240f
+Project PR_mlflow_16191 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16191 at c44e13ffb9d533948a6569c878916072875517fb
+Analysis of base commit completed.
+
+Checked out to branch merged_16191 at fc0d077f20c15c9bc51694375e8b5adc571a240f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #544 from repository a16z/halmos (Index: 73)
+
+-------------------------------
+Base SHA: 92f02d7025c70b4db462633067ba0217c4aa68de, Merged SHA: 9118199020c46c0f4d0f56d1a9b62a45d8b45895
+Project PR_halmos_544 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_544 at 92f02d7025c70b4db462633067ba0217c4aa68de
+Analysis of base commit completed.
+
+Checked out to branch merged_544 at 9118199020c46c0f4d0f56d1a9b62a45d8b45895
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #279 from repository python-cachier/cachier (Index: 74)
+
+-------------------------------
+Base SHA: bd455dadd20a9d3882a2fb1716ecfe78f8bbdcb2, Merged SHA: 6f2127f9b944f18e0e1361fa6cc8073e02c24a54
+Project PR_cachier_279 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_279 at bd455dadd20a9d3882a2fb1716ecfe78f8bbdcb2
+Analysis of base commit completed.
+
+Checked out to branch merged_279 at 6f2127f9b944f18e0e1361fa6cc8073e02c24a54
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15877 from repository mlflow/mlflow (Index: 75)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: a79b99c00e13cf6bf01797c2e92ee5f48bb22e51, Merged SHA: d9843b4643eb01549144ce940c48b7616aab303c
+Project PR_mlflow_15877 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15877 at a79b99c00e13cf6bf01797c2e92ee5f48bb22e51
+Analysis of base commit completed.
+
+Checked out to branch merged_15877 at d9843b4643eb01549144ce940c48b7616aab303c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #15926 from repository mlflow/mlflow (Index: 76)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 45827c9b3772941a5694e288f3d6f3cd2430fa14, Merged SHA: e0bc38e6181b23b8b7777b8f7a43186706159da6
+Project PR_mlflow_15926 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_15926 at 45827c9b3772941a5694e288f3d6f3cd2430fa14
+Analysis of base commit completed.
+
+Checked out to branch merged_15926 at e0bc38e6181b23b8b7777b8f7a43186706159da6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #585 from repository jeroenterheerdt/HAsmartirrigation (Index: 77)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: 7279315ba588aea38f33ad0c2be47fb25843bc75, Merged SHA: 52c613409af5e3b81157f6421b2fd8485c9d6cf1
+Project PR_HAsmartirrigation_585 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_585 at 7279315ba588aea38f33ad0c2be47fb25843bc75
+Analysis of base commit completed.
+
+Checked out to branch merged_585 at 52c613409af5e3b81157f6421b2fd8485c9d6cf1
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #644 from repository zfit/zfit (Index: 78)
+
+-------------------------------
+Base SHA: abcb2a8a342e2d7ad81e7e77a04c8ff9aea4e33a, Merged SHA: 4e6d9a7a22f6b5ebb5263bad056d78c1e93dfd69
+Project PR_zfit_644 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_644 at abcb2a8a342e2d7ad81e7e77a04c8ff9aea4e33a
+Analysis of base commit completed.
+
+Checked out to branch merged_644 at 4e6d9a7a22f6b5ebb5263bad056d78c1e93dfd69
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #593 from repository jeroenterheerdt/HAsmartirrigation (Index: 79)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: 4535ed9a4294a2feec34577eaad132f62f304a90, Merged SHA: 161c94752f2f0c11000f2393029fbfd0f8bdf1f2
+Project PR_HAsmartirrigation_593 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_593 at 4535ed9a4294a2feec34577eaad132f62f304a90
+Analysis of base commit completed.
+
+Checked out to branch merged_593 at 161c94752f2f0c11000f2393029fbfd0f8bdf1f2
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16221 from repository mlflow/mlflow (Index: 80)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: cb1b5796642fc98df75c20bb60499f9eab1d9646, Merged SHA: 20d785517fa2fd50db5d7d49664995b94cadb577
+Project PR_mlflow_16221 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16221 at cb1b5796642fc98df75c20bb60499f9eab1d9646
+Analysis of base commit completed.
+
+Checked out to branch merged_16221 at 20d785517fa2fd50db5d7d49664995b94cadb577
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2431 from repository microsoft/onnxscript (Index: 82)
+
+-------------------------------
+Base SHA: f4534eef669e479bf01e6e6f1b5f910875f57d21, Merged SHA: 138cb30a7689a5085cc04836e9415ed7a9dc2e1e
+Project PR_onnxscript_2431 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2431 at f4534eef669e479bf01e6e6f1b5f910875f57d21
+Analysis of base commit completed.
+
+Checked out to branch merged_2431 at 138cb30a7689a5085cc04836e9415ed7a9dc2e1e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7055 from repository onnx/onnx (Index: 83)
+
+-------------------------------
+Base SHA: d5d3123d7dfae5790258cca0044773b3707e6076, Merged SHA: a0e90be2942cfd557e84f626451d016e4901b52a
+Project PR_onnx_7055 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_7055 at d5d3123d7dfae5790258cca0044773b3707e6076
+Analysis of base commit completed.
+
+Checked out to branch merged_7055 at a0e90be2942cfd557e84f626451d016e4901b52a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1975 from repository docling-project/docling (Index: 84)
+Repository docling already cloned.
+
+-------------------------------
+Base SHA: 8d50a59d4887caac1c214add8037ed0b5250f68c, Merged SHA: 98e2fcff63660c158bafb9a1b5584c1439d7a533
+Project PR_docling_1975 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1975 at 8d50a59d4887caac1c214add8037ed0b5250f68c
+Analysis of base commit completed.
+
+Checked out to branch merged_1975 at 98e2fcff63660c158bafb9a1b5584c1439d7a533
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16093 from repository mlflow/mlflow (Index: 85)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: db340aa8978331971e992bbbc447cc92281623c1, Merged SHA: 23595f4df843fdb57e59cd36c68cabcdf18952cb
+Project PR_mlflow_16093 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16093 at db340aa8978331971e992bbbc447cc92281623c1
+Analysis of base commit completed.
+
+Checked out to branch merged_16093 at 23595f4df843fdb57e59cd36c68cabcdf18952cb
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3901 from repository microsoft/lisa (Index: 86)
+Repository lisa already cloned.
+
+-------------------------------
+Base SHA: ff4d2a69547fa2c5e3bf184d00f1dfca9c191873, Merged SHA: 46fdf285414dd60a939b653b724ed4ab8456a2eb
+Project PR_lisa_3901 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3901 at ff4d2a69547fa2c5e3bf184d00f1dfca9c191873
+Analysis of base commit completed.
+
+Checked out to branch merged_3901 at 46fdf285414dd60a939b653b724ed4ab8456a2eb
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4554 from repository microsoft/AzureTRE (Index: 87)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: 5de47582e7a5380e5d7cb1fa2a1e1ef286f54062, Merged SHA: c34418837261a8c32ac8a467e9649018d71140f3
+Project PR_AzureTRE_4554 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4554 at 5de47582e7a5380e5d7cb1fa2a1e1ef286f54062
+Analysis of base commit completed.
+
+Checked out to branch merged_4554 at c34418837261a8c32ac8a467e9649018d71140f3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #620 from repository jeroenterheerdt/HAsmartirrigation (Index: 88)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: 8654cae6e5f120acc838ccc5fd3501f40a60d009, Merged SHA: c3e72099f0b018b050bce4de8d13c85026ecadc1
+Project PR_HAsmartirrigation_620 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_620 at 8654cae6e5f120acc838ccc5fd3501f40a60d009
+Analysis of base commit completed.
+
+Checked out to branch merged_620 at c3e72099f0b018b050bce4de8d13c85026ecadc1
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #551 from repository a16z/halmos (Index: 89)
+Repository halmos already cloned.
+
+-------------------------------
+Base SHA: acc4ab73d1358962b3f26422950bba50952a531a, Merged SHA: 9b4f2415fddacfa01c394f9b8e7ec41f9ff60c06
+Project PR_halmos_551 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_551 at acc4ab73d1358962b3f26422950bba50952a531a
+Analysis of base commit completed.
+
+Checked out to branch merged_551 at 9b4f2415fddacfa01c394f9b8e7ec41f9ff60c06
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7222 from repository microsoft/Qcodes (Index: 90)
+Repository Qcodes already cloned.
+
+-------------------------------
+Base SHA: 57cd9667f1e4084e9878b9d5d2658607347be212, Merged SHA: 33f262d55d39680745f5c07a483f26deb8f30e38
+Project PR_Qcodes_7222 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_7222 at 57cd9667f1e4084e9878b9d5d2658607347be212
+Analysis of base commit completed.
+
+Checked out to branch merged_7222 at 33f262d55d39680745f5c07a483f26deb8f30e38
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #252 from repository microsoft/magentic-ui (Index: 91)
+Repository magentic-ui already cloned.
+
+-------------------------------
+Base SHA: 1504d23b187fea17de3320698c5e145bcb2a3de1, Merged SHA: c65c815a5c0dc0313f4ca8f33d35c6d8bce43abf
+Project PR_magentic-ui_252 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_252 at 1504d23b187fea17de3320698c5e145bcb2a3de1
+Analysis of base commit completed.
+
+Checked out to branch merged_252 at c65c815a5c0dc0313f4ca8f33d35c6d8bce43abf
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #70 from repository microsoft/magentic-ui (Index: 92)
+Repository magentic-ui already cloned.
+
+-------------------------------
+Base SHA: 70e0565f81e4b6531420c9d13c4a6fc909a2ece5, Merged SHA: 4d818b1a0ffa6ccafe734be9b5124cb93a4544d6
+Project PR_magentic-ui_70 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_70 at 70e0565f81e4b6531420c9d13c4a6fc909a2ece5
+Analysis of base commit completed.
+
+Checked out to branch merged_70 at 4d818b1a0ffa6ccafe734be9b5124cb93a4544d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4599 from repository microsoft/AzureTRE (Index: 93)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: d1f2532dd3f132112cb2028fc255e8553b357251, Merged SHA: 3490072071237c6c1253788a1dbdcff9ad070e9a
+Project PR_AzureTRE_4599 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4599 at d1f2532dd3f132112cb2028fc255e8553b357251
+Analysis of base commit completed.
+
+Checked out to branch merged_4599 at 3490072071237c6c1253788a1dbdcff9ad070e9a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1928 from repository docling-project/docling (Index: 94)
+Repository docling already cloned.
+
+-------------------------------
+Base SHA: ec971bbe684fe504ca3a2c3a3f2939c5236af051, Merged SHA: 8d50a59d4887caac1c214add8037ed0b5250f68c
+Project PR_docling_1928 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1928 at ec971bbe684fe504ca3a2c3a3f2939c5236af051
+Analysis of base commit completed.
+
+Checked out to branch merged_1928 at 8d50a59d4887caac1c214add8037ed0b5250f68c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #64 from repository quantalogic/quantalogic (Index: 95)
+
+-------------------------------
+Base SHA: e4a246485cfdeaa79fa5b7e3e22dbf7420b0010d, Merged SHA: 6dc83e7fd433994b2ebe129092953342db5a7179
+Project PR_quantalogic_64 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_64 at e4a246485cfdeaa79fa5b7e3e22dbf7420b0010d
+Analysis of base commit completed.
+
+Checked out to branch merged_64 at 6dc83e7fd433994b2ebe129092953342db5a7179
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #11601 from repository gradio-app/gradio (Index: 96)
+Repository gradio already cloned.
+
+-------------------------------
+Base SHA: 801f2887b95393c406aef57f0b0c7344753b03c6, Merged SHA: 7d5a7629794146b33217e0cf34a289d35d1e36da
+Project PR_gradio_11601 already exists. Deleting it...
+Project PR_gradio_11601 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_11601 at 801f2887b95393c406aef57f0b0c7344753b03c6
+Analysis of base commit completed.
+
+Checked out to branch merged_11601 at 7d5a7629794146b33217e0cf34a289d35d1e36da
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1187 from repository nearai/nearai (Index: 97)
+
+-------------------------------
+Base SHA: 3cf4c71943aaa26d0ab60272759d9218ff1fc773, Merged SHA: a0ec5b25f7f3e4807818e3fa773830d996d65334
+Project PR_nearai_1187 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1187 at 3cf4c71943aaa26d0ab60272759d9218ff1fc773
+Analysis of base commit completed.
+
+Checked out to branch merged_1187 at a0ec5b25f7f3e4807818e3fa773830d996d65334
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1323 from repository TorchIO-project/torchio (Index: 98)
+
+-------------------------------
+Base SHA: 3b75b5134c33ac452037de51dce68ad32daa11d0, Merged SHA: 9d1b3b234380940725db82747a15fb0b73d26249
+Project PR_torchio_1323 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1323 at 3b75b5134c33ac452037de51dce68ad32daa11d0
+Analysis of base commit completed.
+
+Checked out to branch merged_1323 at 9d1b3b234380940725db82747a15fb0b73d26249
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6747 from repository microsoft/autogen (Index: 99)
+Repository autogen already cloned.
+
+-------------------------------
+Base SHA: aa0d835f4dd966f45bcd5d0fa354f88993ee70bc, Merged SHA: c23b9454a87d2d8e019154dc9fe37681634115d4
+Project PR_autogen_6747 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6747 at aa0d835f4dd966f45bcd5d0fa354f88993ee70bc
+Analysis of base commit completed.
+
+Checked out to branch merged_6747 at c23b9454a87d2d8e019154dc9fe37681634115d4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #394 from repository microsoft/fabric-cicd (Index: 100)
+Repository fabric-cicd already cloned.
+
+-------------------------------
+Base SHA: b19fd6f51356985c99682a8783b42234188156fc, Merged SHA: bcc380efd94c5200fe13dc832ec24359ad745023
+Project PR_fabric-cicd_394 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_394 at b19fd6f51356985c99682a8783b42234188156fc
+Analysis of base commit completed.
+
+Checked out to branch merged_394 at bcc380efd94c5200fe13dc832ec24359ad745023
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #643 from repository zfit/zfit (Index: 101)
+Repository zfit already cloned.
+
+-------------------------------
+Base SHA: 13d78f22ddb0a5407ddf5ce1b17d4286abf7affe, Merged SHA: abcb2a8a342e2d7ad81e7e77a04c8ff9aea4e33a
+Project PR_zfit_643 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_643 at 13d78f22ddb0a5407ddf5ce1b17d4286abf7affe
+Analysis of base commit completed.
+
+Checked out to branch merged_643 at abcb2a8a342e2d7ad81e7e77a04c8ff9aea4e33a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #622 from repository jeroenterheerdt/HAsmartirrigation (Index: 102)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: c3e72099f0b018b050bce4de8d13c85026ecadc1, Merged SHA: a9fd8de9c770cac8e54d976fe29d130da3f7a3fd
+Project PR_HAsmartirrigation_622 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_622 at c3e72099f0b018b050bce4de8d13c85026ecadc1
+Analysis of base commit completed.
+
+Checked out to branch merged_622 at a9fd8de9c770cac8e54d976fe29d130da3f7a3fd
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6797 from repository microsoft/autogen (Index: 103)
+Repository autogen already cloned.
+
+-------------------------------
+Base SHA: f45adde638f143424f194f4d8f42dd825c937fac, Merged SHA: ca39adc35830d948179b4df357efa8d708b283ab
+Project PR_autogen_6797 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6797 at f45adde638f143424f194f4d8f42dd825c937fac
+Analysis of base commit completed.
+
+Checked out to branch merged_6797 at ca39adc35830d948179b4df357efa8d708b283ab
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6799 from repository microsoft/autogen (Index: 104)
+Repository autogen already cloned.
+
+-------------------------------
+Base SHA: ae024e262db48d7a4286439e09fcf9cf399666bb, Merged SHA: 7c536a8c95b9600f7c30e08473148839ecaf57c7
+Project PR_autogen_6799 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6799 at ae024e262db48d7a4286439e09fcf9cf399666bb
+Analysis of base commit completed.
+
+Checked out to branch merged_6799 at 7c536a8c95b9600f7c30e08473148839ecaf57c7
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #10 from repository fabriziosalmi/certmate (Index: 105)
+
+-------------------------------
+Base SHA: 16dfd203cbf9106b98d6fb81219196101c2335c5, Merged SHA: c57d967fd06757beb0ebb91385fdf2125ceea8c0
+Project PR_certmate_10 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_10 at 16dfd203cbf9106b98d6fb81219196101c2335c5
+Analysis of base commit completed.
+
+Checked out to branch merged_10 at c57d967fd06757beb0ebb91385fdf2125ceea8c0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #84 from repository InamuraJIN/ActionRecorder (Index: 106)
+
+-------------------------------
+Base SHA: 53a59586af570a5e141ba64f580378bc413199d3, Merged SHA: 6751eea4b1b6e0296cd27e63ed52c5f8833c3b49
+Project PR_ActionRecorder_84 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_84 at 53a59586af570a5e141ba64f580378bc413199d3
+Analysis of base commit completed.
+
+Checked out to branch merged_84 at 6751eea4b1b6e0296cd27e63ed52c5f8833c3b49
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4604 from repository microsoft/AzureTRE (Index: 107)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: dea84ef0dcc80361ce49f36bcb55b08ed5eb91bf, Merged SHA: 4e8442b689a05c85303aadf81b4fd605e6183b99
+Project PR_AzureTRE_4604 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4604 at dea84ef0dcc80361ce49f36bcb55b08ed5eb91bf
+Analysis of base commit completed.
+
+Checked out to branch merged_4604 at 4e8442b689a05c85303aadf81b4fd605e6183b99
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16196 from repository mlflow/mlflow (Index: 108)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: bd2f7aeaaafeab285d10f36fd4e1b6425f647c75, Merged SHA: 2c5ea18fadebd032c605315dc0d1b4d00a08a35d
+Project PR_mlflow_16196 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16196 at bd2f7aeaaafeab285d10f36fd4e1b6425f647c75
+Analysis of base commit completed.
+
+Checked out to branch merged_16196 at 2c5ea18fadebd032c605315dc0d1b4d00a08a35d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16915 from repository mlflow/mlflow (Index: 109)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 36a3375a323e9cf8dce1bba34daa81a0970159f6, Merged SHA: 3e094f8e8b6a14fb10aa1936cd5324b0ffe27a2b
+Project PR_mlflow_16915 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16915 at 36a3375a323e9cf8dce1bba34daa81a0970159f6
+Analysis of base commit completed.
+
+Checked out to branch merged_16915 at 3e094f8e8b6a14fb10aa1936cd5324b0ffe27a2b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #16878 from repository mlflow/mlflow (Index: 110)
+Repository mlflow already cloned.
+
+-------------------------------
+Base SHA: 1ba2870de5e5e305ea8bc61b8e1dc8b9bfaec879, Merged SHA: e9d34c0f6e79377c93508573d465db6817b9b522
+Project PR_mlflow_16878 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_16878 at 1ba2870de5e5e305ea8bc61b8e1dc8b9bfaec879
+Analysis of base commit completed.
+
+Checked out to branch merged_16878 at e9d34c0f6e79377c93508573d465db6817b9b522
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #386 from repository microsoft/fabric-cicd (Index: 111)
+Repository fabric-cicd already cloned.
+
+-------------------------------
+Base SHA: b95805b79c2da8b979e5fde799f6b1db8157f9e2, Merged SHA: b19fd6f51356985c99682a8783b42234188156fc
+Project PR_fabric-cicd_386 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_386 at b95805b79c2da8b979e5fde799f6b1db8157f9e2
+Analysis of base commit completed.
+
+Checked out to branch merged_386 at b19fd6f51356985c99682a8783b42234188156fc
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3045 from repository DeepLabCut/DeepLabCut (Index: 112)
+
+-------------------------------
+Base SHA: 63929e8b60586b1c6fdba3cacf22a420129e32e9, Merged SHA: 92866993443fece9f5399a105e0e597494c39be8
+Project PR_DeepLabCut_3045 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3045 at 63929e8b60586b1c6fdba3cacf22a420129e32e9
+Analysis of base commit completed.
+
+Checked out to branch merged_3045 at 92866993443fece9f5399a105e0e597494c39be8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3047 from repository DeepLabCut/DeepLabCut (Index: 113)
+Repository DeepLabCut already cloned.
+
+-------------------------------
+Base SHA: 92866993443fece9f5399a105e0e597494c39be8, Merged SHA: 2dbeea68b8a0cea05d7b42317850698b367a17a0
+Project PR_DeepLabCut_3047 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3047 at 92866993443fece9f5399a105e0e597494c39be8
+Analysis of base commit completed.
+
+Checked out to branch merged_3047 at 2dbeea68b8a0cea05d7b42317850698b367a17a0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4591 from repository microsoft/AzureTRE (Index: 114)
+Repository AzureTRE already cloned.
+
+-------------------------------
+Base SHA: d514e7b0325d9e9a4a169cf48dc71d034152547b, Merged SHA: 85f2fa27bcbe89d8af65e256feccdd3d69dceb02
+Project PR_AzureTRE_4591 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4591 at d514e7b0325d9e9a4a169cf48dc71d034152547b
+Analysis of base commit completed.
+
+Checked out to branch merged_4591 at 85f2fa27bcbe89d8af65e256feccdd3d69dceb02
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #975 from repository frenck/spook (Index: 115)
+
+-------------------------------
+Base SHA: 03cce25da8b361d366e073cccda1e587343238a9, Merged SHA: 4b1806b3729f519735f5458cfe012d48301132c8
+Project PR_spook_975 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_975 at 03cce25da8b361d366e073cccda1e587343238a9
+Analysis of base commit completed.
+
+Checked out to branch merged_975 at 4b1806b3729f519735f5458cfe012d48301132c8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #539 from repository a16z/halmos (Index: 116)
+Repository halmos already cloned.
+
+-------------------------------
+Base SHA: 275cbb4c727a7d17d3f66a56ff50dabdc204d23a, Merged SHA: 92f02d7025c70b4db462633067ba0217c4aa68de
+Project PR_halmos_539 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_539 at 275cbb4c727a7d17d3f66a56ff50dabdc204d23a
+Analysis of base commit completed.
+
+Checked out to branch merged_539 at 92f02d7025c70b4db462633067ba0217c4aa68de
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #33 from repository bmander/graphserver (Index: 118)
+Repository graphserver already cloned.
+
+-------------------------------
+Base SHA: a4faf6d4c40eef4a394ad6999673dfa149fb50a2, Merged SHA: bf5b8186d4f268557c66450c8d1e6240c985b9ce
+Project PR_graphserver_33 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_33 at a4faf6d4c40eef4a394ad6999673dfa149fb50a2
+Analysis of base commit completed.
+
+Checked out to branch merged_33 at bf5b8186d4f268557c66450c8d1e6240c985b9ce
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #587 from repository jeroenterheerdt/HAsmartirrigation (Index: 119)
+Repository HAsmartirrigation already cloned.
+
+-------------------------------
+Base SHA: 0f577e60a0bf54db22bb924dd8e3cf728f064bb4, Merged SHA: 3d9451da5d7ee0aedaedec3b7d0a1c614b16a4db
+Project PR_HAsmartirrigation_587 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_587 at 0f577e60a0bf54db22bb924dd8e3cf728f064bb4
+Analysis of base commit completed.
+
+Checked out to branch merged_587 at 3d9451da5d7ee0aedaedec3b7d0a1c614b16a4db
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #95 from repository strnad/CrewAI-Studio (Index: 121)
+
+-------------------------------
+Base SHA: 6b03223810fce42a55b001943123e23da0a7c4a8, Merged SHA: 8360452c85e0934bc0b2b1c3f3f8511ecf4a37d7
+Project PR_CrewAI-Studio_95 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_95 at 6b03223810fce42a55b001943123e23da0a7c4a8
+Analysis of base commit completed.
+
+Checked out to branch merged_95 at 8360452c85e0934bc0b2b1c3f3f8511ecf4a37d7
+Analysis of merged commit completed.
+

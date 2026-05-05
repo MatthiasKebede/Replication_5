@@ -1,0 +1,30 @@
+\begin{table*}[t]
+\centering
+\caption{Top 5 Most Violated SonarQube Rules per Issue Type with Agent Distribution}
+\label{tab:top5_rules_per_type}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lp{1.8cm}p{5cm}cccccc@{}}
+\toprule
+\textbf{Issue Type} & \textbf{Rule ID} & \textbf{Description} & \textbf{Total} & \textbf{Claude\_Code} & \textbf{Copilot} & \textbf{Cursor} & \textbf{Devin} & \textbf{OpenAI\_Codex} \\
+\midrule
+\multirow{5}{*}{BUG} & python:S930 & Description not available & 23 & 16 (69.6\%) & 0 & 0 & 0 & 7 (30.4\%) \\
+ & python:S3862 & Description not available & 15 & 0 & 4 (26.7\%) & 0 & 0 & 11 (73.3\%) \\
+ & python:S3923 & Description not available & 3 & 0 & 0 & 0 & 0 & 3 (100.0\%) \\
+ & python:S905 & Description not available & 1 & 0 & 0 & 0 & 1 (100.0\%) & 0 \\
+ & python:S1763 & Description not available & 1 & 1 (100.0\%) & 0 & 0 & 0 & 0 \\
+\cline{2-9}
+\multirow{5}{*}{CODE_SMELL} & python:S1192 & String literals should not be duplicated & 212 & 22 (10.4\%) & 69 (32.5\%) & 25 (11.8\%) & 33 (15.6\%) & 63 (29.7\%) \\
+ & python:S3776 & Cognitive Complexity of functions should not be too high & 157 & 6 (3.8\%) & 25 (15.9\%) & 53 (33.8\%) & 11 (7.0\%) & 62 (39.5\%) \\
+ & python:S1172 & Unused function parameters should be removed & 114 & 0 & 6 (5.3\%) & 75 (65.8\%) & 2 (1.8\%) & 31 (27.2\%) \\
+ & python:S1135 & "TODO" tags should be handled & 95 & 2 (2.1\%) & 16 (16.8\%) & 8 (8.4\%) & 3 (3.2\%) & 66 (69.5\%) \\
+ & python:S1186 & Methods should not be empty & 82 & 0 & 2 (2.4\%) & 44 (53.7\%) & 1 (1.2\%) & 35 (42.7\%) \\
+\cline{2-9}
+\multirow{5}{*}{SECURITY_HOTSPOT} & encrypt-data & Description not available & 33 & 0 & 10 (30.3\%) & 0 & 7 (21.2\%) & 16 (48.5\%) \\
+ & others & Description not available & 22 & 6 (27.3\%) & 0 & 0 & 10 (45.5\%) & 6 (27.3\%) \\
+ & weak-cryptography & Description not available & 17 & 0 & 1 (5.9\%) & 1 (5.9\%) & 0 & 15 (88.2\%) \\
+ & csrf & Description not available & 6 & 1 (16.7\%) & 0 & 1 (16.7\%) & 0 & 4 (66.7\%) \\
+ & log-injection & Description not available & 4 & 0 & 0 & 0 & 0 & 4 (100.0\%) \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

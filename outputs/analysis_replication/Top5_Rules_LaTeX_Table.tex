@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\caption{Top 5 Most Violated SonarQube Rules per Issue Type with Agent Distribution}
+\label{tab:top5_rules_per_type}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lp{1.8cm}p{5cm}cccc@{}}
+\toprule
+\textbf{Issue Type} & \textbf{Rule ID} & \textbf{Description} & \textbf{Total} & \textbf{Claude\_Code} & \textbf{Copilot} & \textbf{OpenAI\_Codex} \\
+\midrule
+\multirow{5}{*}{BUG} & python:S1244 & Description not available & 5427 & 297 (5.5\%) & 5130 (94.5\%) & 0 \\
+ & python:S1226 & Description not available & 876 & 80 (9.1\%) & 796 (90.9\%) & 0 \\
+ & python:S8411 & Description not available & 567 & 0 & 567 (100.0\%) & 0 \\
+ & python:S7493 & Description not available & 552 & 387 (70.1\%) & 165 (29.9\%) & 0 \\
+ & python:S1764 & Description not available & 437 & 30 (6.9\%) & 407 (93.1\%) & 0 \\
+\cline{2-7}
+\multirow{5}{*}{CODE_SMELL} & python:S3776 & Cognitive Complexity of functions should not be too high & 10190 & 1447 (14.2\%) & 8729 (85.7\%) & 14 (0.1\%) \\
+ & python:S1135 & "TODO" tags should be handled & 8762 & 1078 (12.3\%) & 7682 (87.7\%) & 2 (0.0\%) \\
+ & python:S6711 & Description not available & 5804 & 224 (3.9\%) & 5580 (96.1\%) & 0 \\
+ & python:S117 & Description not available & 5784 & 357 (6.2\%) & 5424 (93.8\%) & 3 (0.1\%) \\
+ & python:S112 & Description not available & 5565 & 488 (8.8\%) & 5077 (91.2\%) & 0 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

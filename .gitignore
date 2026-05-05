@@ -1,0 +1,10 @@
+venv/
+.venv/
+env
+.env
+__pycache__
+
+
+4.All_PR_Sonar_Results.json
+5.All_PR_Sonar_Results.csv
+5.All_PR_Sonar_Results2.csv
