@@ -1,0 +1,31 @@
+\begin{table}[htbp]
+\centering
+\caption{Hierarchical Distribution of Issues by Type, Severity, and Agent}
+\label{tab:hierarchical_issue_distribution}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrr}
+\toprule
+\textbf{Issue Type} & \textbf{Severity} & \textbf{Claude_Code} & \textbf{Copilot} & \textbf{Cursor} & \textbf{OpenAI_Codex} \\
+\midrule
+BUG & BLOCKER & 0 & 4 & 0 & 0 \\
+ & MAJOR & 2 & 14 & 7 & 7 \\
+\textbf{BUG Total} &  & \textbf{2} & \textbf{18} & \textbf{7} & \textbf{7} \\
+\midrule
+CODE_SMELL & BLOCKER & 1 & 0 & 2 & 0 \\
+ & CRITICAL & 9 & 75 & 99 & 31 \\
+ & INFO & 2 & 16 & 3 & 17 \\
+ & MAJOR & 17 & 77 & 49 & 33 \\
+ & MINOR & 9 & 17 & 56 & 57 \\
+\textbf{CODE_SMELL Total} &  & \textbf{38} & \textbf{185} & \textbf{209} & \textbf{138} \\
+\midrule
+SECURITY_HOTSPOT & HIGH & 1 & 0 & 0 & 3 \\
+ & LOW & 6 & 10 & 1 & 5 \\
+ & MEDIUM & 0 & 1 & 2 & 15 \\
+\textbf{SECURITY_HOTSPOT Total} &  & \textbf{7} & \textbf{11} & \textbf{3} & \textbf{23} \\
+\midrule
+\midrule
+\textbf{GRAND TOTAL} &  & \textbf{47} & \textbf{214} & \textbf{219} & \textbf{168} \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

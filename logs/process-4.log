@@ -1,0 +1,3373 @@
+
+================================================================================
+Processing PR #26 from repository wzdavid/ThinkRAG (Index: 1089)
+
+-------------------------------
+Base SHA: 989d6b3d4ea163e75f2dafacf44eccfee7af221c, Merged SHA: 27759519f30d9b3e8180fa4b7dba448000400b3d
+Project PR_ThinkRAG_26 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_26 at 989d6b3d4ea163e75f2dafacf44eccfee7af221c
+Analysis of base commit completed.
+
+Checked out to branch merged_26 at 27759519f30d9b3e8180fa4b7dba448000400b3d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #164 from repository OpenPipe/ART (Index: 1086)
+
+-------------------------------
+Base SHA: 091ca2c192536d40d4bbad6846735f99a40e0508, Merged SHA: 712b9d102687bd3471a923b13e96b228e5dfbaa5
+Project PR_ART_164 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_164 at 091ca2c192536d40d4bbad6846735f99a40e0508
+Analysis of base commit completed.
+
+Checked out to branch merged_164 at 712b9d102687bd3471a923b13e96b228e5dfbaa5
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #5101 from repository keephq/keep (Index: 1085)
+
+-------------------------------
+Base SHA: 33eddb2ba8a950a0abb4b4d21dfc3cac00fb6d20, Merged SHA: a2533b6c7430f30ee5569c697298bc8be3d9ad56
+Project PR_keep_5101 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_5101 at 33eddb2ba8a950a0abb4b4d21dfc3cac00fb6d20
+Analysis of base commit completed.
+
+Checked out to branch merged_5101 at a2533b6c7430f30ee5569c697298bc8be3d9ad56
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #95356 from repository getsentry/sentry (Index: 1096)
+
+-------------------------------
+Base SHA: 837d98f9f8fb09441771a2cb3d4bae238e5a6b89, Merged SHA: da215a6cd71fce0a1a7d74b94deb266364147dd2
+Project PR_sentry_95356 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_95356 at 837d98f9f8fb09441771a2cb3d4bae238e5a6b89
+Analysis of base commit completed.
+
+Checked out to branch merged_95356 at da215a6cd71fce0a1a7d74b94deb266364147dd2
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1627 from repository 567-labs/instructor (Index: 1074)
+Repository instructor already cloned.
+
+-------------------------------
+Base SHA: f6bc63d9d224b9acf490fae7573b5a0d26dcb3bc, Merged SHA: caf0f7a4d0d822119bbb790f97e053858c449121
+Project PR_instructor_1627 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1627 at f6bc63d9d224b9acf490fae7573b5a0d26dcb3bc
+Analysis of base commit completed.
+
+Checked out to branch merged_1627 at caf0f7a4d0d822119bbb790f97e053858c449121
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #95516 from repository getsentry/sentry (Index: 1082)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: af3ab6f3c83e444c0142af6236e1360131447871, Merged SHA: 870d88d0a3dd11d67016f0be81453bc7c95dc201
+Project PR_sentry_95516 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_95516 at af3ab6f3c83e444c0142af6236e1360131447871
+Analysis of base commit completed.
+
+Checked out to branch merged_95516 at 870d88d0a3dd11d67016f0be81453bc7c95dc201
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2161 from repository browser-use/browser-use (Index: 1107)
+
+-------------------------------
+Base SHA: 7a50320016434eb519b83e878e3abe8df02788ea, Merged SHA: 9b614a13b0897d9dfa25134e684fc51055164f8d
+Project PR_browser-use_2161 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2161 at 7a50320016434eb519b83e878e3abe8df02788ea
+Analysis of base commit completed.
+
+Checked out to branch merged_2161 at 9b614a13b0897d9dfa25134e684fc51055164f8d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #5113 from repository keephq/keep (Index: 1097)
+Repository keep already cloned.
+
+-------------------------------
+Base SHA: a33c4f87c9620365d21934cf0b1c370f9064d6ba, Merged SHA: cc66b5b4a385833d2a0285415570564d1e79a88f
+Project PR_keep_5113 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_5113 at a33c4f87c9620365d21934cf0b1c370f9064d6ba
+Analysis of base commit completed.
+
+Checked out to branch merged_5113 at cc66b5b4a385833d2a0285415570564d1e79a88f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #734 from repository EvolvingLMMs-Lab/lmms-eval (Index: 1109)
+
+-------------------------------
+Base SHA: c0c0a97775c2a398f220edfe4f3146a5a50d1b38, Merged SHA: 2dad280d5276e2d6acd1188dc3f47c2ebadc6d13
+Project PR_lmms-eval_734 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_734 at c0c0a97775c2a398f220edfe4f3146a5a50d1b38
+Analysis of base commit completed.
+
+Checked out to branch merged_734 at 2dad280d5276e2d6acd1188dc3f47c2ebadc6d13
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #489 from repository WorkflowAI/WorkflowAI (Index: 1076)
+Repository WorkflowAI already cloned.
+
+-------------------------------
+Base SHA: cf4818f6acb928071b72a21ddeda94cdb10f46fd, Merged SHA: e9af811995035ddee3c71b3c0077724594d8df7e
+Project PR_WorkflowAI_489 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_489 at cf4818f6acb928071b72a21ddeda94cdb10f46fd
+Analysis of base commit completed.
+
+Checked out to branch merged_489 at e9af811995035ddee3c71b3c0077724594d8df7e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4476 from repository getsentry/sentry-python (Index: 1095)
+
+-------------------------------
+Base SHA: 0a2d8585f18f1d135d1f04624b702ef46fd119bb, Merged SHA: 7804260fbf3ed8f797af95d2c0bdfcfeb85b0605
+Project PR_sentry-python_4476 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4476 at 0a2d8585f18f1d135d1f04624b702ef46fd119bb
+Analysis of base commit completed.
+
+Checked out to branch merged_4476 at 7804260fbf3ed8f797af95d2c0bdfcfeb85b0605
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #94261 from repository getsentry/sentry (Index: 1079)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: eb83c8f466e42259a18ce16b9e9c02922bb46a1e, Merged SHA: f04ff1c515865beaf00ae1d872ac8fbc7fd540af
+Project PR_sentry_94261 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_94261 at eb83c8f466e42259a18ce16b9e9c02922bb46a1e
+Analysis of base commit completed.
+
+Checked out to branch merged_94261 at f04ff1c515865beaf00ae1d872ac8fbc7fd540af
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #548 from repository WorkflowAI/WorkflowAI (Index: 1083)
+Repository WorkflowAI already cloned.
+
+-------------------------------
+Base SHA: a6654e795b31b4fd063156fb7b1d1921f5eedee6, Merged SHA: 23b5db69ae1b5f14830a30ebab65bf2fb82387a0
+Project PR_WorkflowAI_548 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_548 at a6654e795b31b4fd063156fb7b1d1921f5eedee6
+Analysis of base commit completed.
+
+Checked out to branch merged_548 at 23b5db69ae1b5f14830a30ebab65bf2fb82387a0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2437 from repository browser-use/browser-use (Index: 1101)
+Repository browser-use already cloned.
+
+-------------------------------
+Base SHA: 5d35a5a4cae394cca9fbf256d4820d12c9850e5b, Merged SHA: e2bebe8552c14ebc39f56039571c65e00ce47465
+Project PR_browser-use_2437 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2437 at 5d35a5a4cae394cca9fbf256d4820d12c9850e5b
+Analysis of base commit completed.
+
+Checked out to branch merged_2437 at e2bebe8552c14ebc39f56039571c65e00ce47465
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4459 from repository getsentry/sentry-python (Index: 1104)
+Repository sentry-python already cloned.
+
+-------------------------------
+Base SHA: 06ef70c7f30c693b737257f6d5c87147396d2188, Merged SHA: 401a003f29b8043cfc87895dc6a9c4ce91f082b0
+Project PR_sentry-python_4459 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4459 at 06ef70c7f30c693b737257f6d5c87147396d2188
+Analysis of base commit completed.
+
+Checked out to branch merged_4459 at 401a003f29b8043cfc87895dc6a9c4ce91f082b0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #94258 from repository getsentry/sentry (Index: 1078)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: 9520960dc4ee1b54575479ecc3fdc22ecf1b09c3, Merged SHA: 3e2fd084aeb33e6b38bd0e5c1ec8b362850d9790
+Project PR_sentry_94258 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_94258 at 9520960dc4ee1b54575479ecc3fdc22ecf1b09c3
+Analysis of base commit completed.
+
+Checked out to branch merged_94258 at 3e2fd084aeb33e6b38bd0e5c1ec8b362850d9790
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4561 from repository jxxghp/MoviePilot (Index: 1087)
+
+-------------------------------
+Base SHA: 277cde8db236b7116714d451412c232708c25ccd, Merged SHA: 6156b9a481df4722e31e7c26818d6d9979bb95cd
+Project PR_MoviePilot_4561 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4561 at 277cde8db236b7116714d451412c232708c25ccd
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #93325 from repository getsentry/sentry (Index: 1094)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: 94d3ce2de2eec87bc5ef1bce8d9126bcf48d956e, Merged SHA: 78b8c02901ec0641bbfcb69a5758591b19fda9e4
+Project PR_sentry_93325 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_93325 at 94d3ce2de2eec87bc5ef1bce8d9126bcf48d956e
+Analysis of base commit completed.
+
+Checked out to branch merged_93325 at 78b8c02901ec0641bbfcb69a5758591b19fda9e4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #11 from repository jean-technologies/jean-memory (Index: 1070)
+
+-------------------------------
+Base SHA: eaee8c6487d3dabddf0efbf613c3a39e5e381b36, Merged SHA: de77c762ed063b5fecc57936bd89cd2b67ebbbe8
+Project PR_jean-memory_11 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_11 at eaee8c6487d3dabddf0efbf613c3a39e5e381b36
+Analysis of base commit completed.
+
+Checked out to branch merged_11 at de77c762ed063b5fecc57936bd89cd2b67ebbbe8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #36 from repository Bandit-HaxUnit/haxunit (Index: 1103)
+
+-------------------------------
+Base SHA: 8b355d32627f912a9e43d35f4971fa4eef4b3fc3, Merged SHA: aac917e385f019e6baeee035dd061e9fbb9edce0
+Project PR_haxunit_36 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_36 at 8b355d32627f912a9e43d35f4971fa4eef4b3fc3
+Analysis of base commit completed.
+
+Checked out to branch merged_36 at aac917e385f019e6baeee035dd061e9fbb9edce0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1209 from repository TracecatHQ/tracecat (Index: 1075)
+
+-------------------------------
+Base SHA: 31c4c8c69e594b67100330e26f97d84522e5acb1, Merged SHA: 54e2bbf367d8f947d215727ebcbab9762dd82f7c
+Project PR_tracecat_1209 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1209 at 31c4c8c69e594b67100330e26f97d84522e5acb1
+Analysis of base commit completed.
+
+Checked out to branch merged_1209 at 54e2bbf367d8f947d215727ebcbab9762dd82f7c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #387 from repository ucbepic/docetl (Index: 1081)
+
+-------------------------------
+Base SHA: 681e18378ae1e6cf55db47e154e9a77a8dac7862, Merged SHA: 4905e6f9db9f0df18b3a81f66fbe4db174c8c0a1
+Project PR_docetl_387 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_387 at 681e18378ae1e6cf55db47e154e9a77a8dac7862
+Analysis of base commit completed.
+
+Checked out to branch merged_387 at 4905e6f9db9f0df18b3a81f66fbe4db174c8c0a1
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #124 from repository willccbb/verifiers (Index: 1071)
+
+-------------------------------
+Base SHA: 4f44d7ea4dae70791dde89aedc8f1747cda01cc0, Merged SHA: e210982f202e30ab9838a25479bb44fa572a7023
+Project PR_verifiers_124 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_124 at 4f44d7ea4dae70791dde89aedc8f1747cda01cc0
+Analysis of base commit completed.
+
+Checked out to branch merged_124 at e210982f202e30ab9838a25479bb44fa572a7023
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2260 from repository browser-use/browser-use (Index: 1099)
+Repository browser-use already cloned.
+
+-------------------------------
+Base SHA: 5bb3bfc03b683dcbc4a976268dd1b0c4b663aa76, Merged SHA: 91c6b95af012a699150537e661bfe7e33144ae02
+Project PR_browser-use_2260 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2260 at 5bb3bfc03b683dcbc4a976268dd1b0c4b663aa76
+Analysis of base commit completed.
+
+Checked out to branch merged_2260 at 91c6b95af012a699150537e661bfe7e33144ae02
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #95114 from repository getsentry/sentry (Index: 1091)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: fd37f4bbcadc8070d14670fb5e7b2e9720549cd5, Merged SHA: 65fbf12b9d277647651bd8b116b9866885aa85cf
+Project PR_sentry_95114 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_95114 at fd37f4bbcadc8070d14670fb5e7b2e9720549cd5
+Analysis of base commit completed.
+
+Checked out to branch merged_95114 at 65fbf12b9d277647651bd8b116b9866885aa85cf
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #93933 from repository getsentry/sentry (Index: 1072)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: bae57cba2384d5f7aede288b15249ca5f4e405da, Merged SHA: 976bb0b4c06258e334229b3121b867dba6ca1c4c
+Project PR_sentry_93933 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_93933 at bae57cba2384d5f7aede288b15249ca5f4e405da
+
+================================================================================
+Processing PR #93933 from repository getsentry/sentry (Index: 1072)
+Repository sentry already cloned.
+
+-------------------------------
+Base SHA: bae57cba2384d5f7aede288b15249ca5f4e405da, Merged SHA: 976bb0b4c06258e334229b3121b867dba6ca1c4c
+Project PR_sentry_93933 already exists. Deleting it...
+Project PR_sentry_93933 deleted. Recreating it...
+
+---------------------------------
+Checked out to branch base_93933 at bae57cba2384d5f7aede288b15249ca5f4e405da
+Analysis of base commit completed.
+
+Checked out to branch merged_93933 at 976bb0b4c06258e334229b3121b867dba6ca1c4c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3033 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 203)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f339be5f8d58578ab2d280f5d6dffa639d298458, Merged SHA: 6875c059ae5084d1700a7a1502f52a8c93a22b74
+Project PR_AGI-Alpha-Agent-v0_3033 already exists. Deleting it...
+
+================================================================================
+Processing PR #594 from repository MervinPraison/PraisonAI (Index: 204)
+
+-------------------------------
+Base SHA: ff8a39c58f1c3ae503a7aab0e6881feb257473d2, Merged SHA: 08b162784edf56af1c4e9492c5e3509bdab1e0c5
+Project PR_PraisonAI_594 already exists. Deleting it...
+
+================================================================================
+Processing PR #2253 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 205)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2a55af36bb42ac09d3f6473a50aa332d04ffb68c, Merged SHA: e815d645ebc0fbdbdc19ab228e07b33ebd9d18e0
+Project PR_AGI-Alpha-Agent-v0_2253 already exists. Deleting it...
+
+================================================================================
+Processing PR #1667 from repository 567-labs/instructor (Index: 206)
+Repository instructor already cloned.
+
+-------------------------------
+Base SHA: bccbd2a72e1a3dfabf7fb90fb8ad880648d05bc1, Merged SHA: 22a5bdce31ae55240b6f494f250312d58772c68c
+Project PR_instructor_1667 already exists. Deleting it...
+
+================================================================================
+Processing PR #3117 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 207)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f80afbf502dcc6ded3e91bf5f47b4d8f723450b3, Merged SHA: 2cd90850ceceda85788afe9add8b396b81c2cb16
+Project PR_AGI-Alpha-Agent-v0_3117 already exists. Deleting it...
+
+================================================================================
+Processing PR #3656 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 208)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 40bff08170dfce0c621f0378caa61479ab4a40d7, Merged SHA: 9cee5caa6e861adbbcaf97ca67d6e75596ba83db
+Project PR_AGI-Alpha-Agent-v0_3656 already exists. Deleting it...
+
+================================================================================
+Processing PR #101 from repository esanchezm/prometheus-qbittorrent-exporter (Index: 209)
+
+-------------------------------
+Base SHA: 06eab35df311c9554809355d75066654c6368a83, Merged SHA: afdb6a1b83f326f1f9c36e0a349a68be92e33b88
+Project PR_prometheus-qbittorrent-exporter_101 already exists. Deleting it...
+
+================================================================================
+Processing PR #3261 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 210)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bfcd128d299a906ced5b6ffca06c82fc738d39d6, Merged SHA: f0c789085749af3e97b9c7dd118b7ed5f07bf1f2
+Project PR_AGI-Alpha-Agent-v0_3261 already exists. Deleting it...
+
+================================================================================
+Processing PR #10009 from repository Significant-Gravitas/AutoGPT (Index: 211)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: 1b81a7c755abfce5e8108877e7f2053d22bf44d3
+Project PR_AutoGPT_10009 already exists. Deleting it...
+
+================================================================================
+Processing PR #10013 from repository Significant-Gravitas/AutoGPT (Index: 212)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: b8ba57262954313c46ca18da6cb1b51054f10d6c
+Project PR_AutoGPT_10013 already exists. Deleting it...
+
+================================================================================
+Processing PR #83 from repository alvinwan/timefhuman (Index: 213)
+
+-------------------------------
+Base SHA: 466fba313929edbaef5977486b42c2b5c4f1eb5c, Merged SHA: c0ed89e93828b117d72a85f90f51c8a3e8074b41
+Project PR_timefhuman_83 already exists. Deleting it...
+
+================================================================================
+Processing PR #84 from repository alvinwan/timefhuman (Index: 214)
+Repository timefhuman already cloned.
+
+-------------------------------
+Base SHA: c0ed89e93828b117d72a85f90f51c8a3e8074b41, Merged SHA: e535db7b6c748ef6082f497964ca9c27e61be858
+Project PR_timefhuman_84 already exists. Deleting it...
+
+================================================================================
+Processing PR #85 from repository alvinwan/timefhuman (Index: 215)
+Repository timefhuman already cloned.
+
+-------------------------------
+Base SHA: e535db7b6c748ef6082f497964ca9c27e61be858, Merged SHA: 7a4940bda39113a1d327bc8342f1ad878520e4c3
+Project PR_timefhuman_85 already exists. Deleting it...
+
+================================================================================
+Processing PR #3729 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 216)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 191229989ec68079f1ca821cb0fc2ce50578fe50, Merged SHA: bdc2b3afd6d7b41720db1ed60cfc08dba8607482
+Project PR_AGI-Alpha-Agent-v0_3729 already exists. Deleting it...
+
+================================================================================
+Processing PR #3546 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 217)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f31f2150db32deffcb7249124a0bff82a22eeae0, Merged SHA: ac126adc274aa7d18ee51785c38a1ac20eef5258
+Project PR_AGI-Alpha-Agent-v0_3546 already exists. Deleting it...
+
+================================================================================
+Processing PR #160 from repository andrewm4894/anomstack (Index: 218)
+
+-------------------------------
+Base SHA: ca33b88b0a4a9fa245d6c8928488b6d8581bd9da, Merged SHA: 2998fa7f1f705ad96a8816459241831115f4c07a
+Project PR_anomstack_160 already exists. Deleting it...
+
+================================================================================
+Processing PR #3726 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 219)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2c15b458fb20cd30ce7aa9f658ba4429dba24183, Merged SHA: 245d33341dd5acb296d437d339298cbc6f32e582
+Project PR_AGI-Alpha-Agent-v0_3726 already exists. Deleting it...
+
+================================================================================
+Processing PR #10002 from repository Significant-Gravitas/AutoGPT (Index: 220)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: 61643e6a47c1ede38efad78fba669c2cf951e706
+Project PR_AutoGPT_10002 already exists. Deleting it...
+
+================================================================================
+Processing PR #793 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 221)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 3b62ac3df07505711c253aebdbc2a8d6d71feb50, Merged SHA: 6067f91ee370d1643ea9d02b18e83da3e7ff5f2a
+Project PR_AGI-Alpha-Agent-v0_793 already exists. Deleting it...
+
+================================================================================
+Processing PR #797 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 222)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 54522de82d77387053088f58639cb609c29241de, Merged SHA: c134e7d16cacf07d937356bfe2550af471fb6018
+Project PR_AGI-Alpha-Agent-v0_797 already exists. Deleting it...
+
+================================================================================
+Processing PR #875 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 223)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bc0218b434b56f20fa3b1ac96baaf39334d162f7, Merged SHA: 5dc7115632cd4ac2b14cdde90f7cf904578a063e
+Project PR_AGI-Alpha-Agent-v0_875 already exists. Deleting it...
+
+================================================================================
+Processing PR #8248 from repository stanfordnlp/dspy (Index: 224)
+Repository dspy already cloned.
+
+-------------------------------
+Base SHA: 195ae05d0f8a835d1f64351e21ce229a3df6675e, Merged SHA: 694534403b0ef6922bd806bce26b2457ce0375b4
+Project PR_dspy_8248 already exists. Deleting it...
+
+================================================================================
+Processing PR #502 from repository defog-ai/introspect (Index: 225)
+
+-------------------------------
+Base SHA: 7b1f0a49efc113b22e3685516b273d48f9f08945, Merged SHA: 0b53b48af622495e50a40428fb9ce1986e0bebdd
+Project PR_introspect_502 already exists. Deleting it...
+
+================================================================================
+Processing PR #1063 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 226)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2f6b9eef0d87b06166c593800563e25e0288d1f0, Merged SHA: eef77204dbfba1a014524b4fcdfe92e12d4685f0
+Project PR_AGI-Alpha-Agent-v0_1063 already exists. Deleting it...
+
+================================================================================
+Processing PR #2260 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 227)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 9e43375e94d7e27ad386eb0d84ed009d157a7144, Merged SHA: bb1d6c0f315b0fc3230816766c77a56e0ea63e80
+Project PR_AGI-Alpha-Agent-v0_2260 already exists. Deleting it...
+
+================================================================================
+Processing PR #1414 from repository julep-ai/julep (Index: 228)
+
+-------------------------------
+Base SHA: b1398a89e8100162531774a27cf031e83bb88765, Merged SHA: 19de3d1d055c5812dd356b3a1aae160db6f6083c
+Project PR_julep_1414 already exists. Deleting it...
+
+================================================================================
+Processing PR #1060 from repository AgentOps-AI/agentops (Index: 229)
+
+-------------------------------
+Base SHA: b1f0b9b2d3d5f705f79d6c5188288e887c310b0c, Merged SHA: f3fd7302710a832681b02fb4a23b50d9569495ee
+Project PR_agentops_1060 already exists. Deleting it...
+
+================================================================================
+Processing PR #1420 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 230)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: cedb6c5e73068fd3eaea6dc3a03687d576b24164, Merged SHA: d0d38929258e6579c83379c1d6426622c6a27424
+Project PR_AGI-Alpha-Agent-v0_1420 already exists. Deleting it...
+
+================================================================================
+Processing PR #3202 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 231)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: aeae09fe3d337da4ca5a9a8d525b0e4574ce3bbf, Merged SHA: 04f590ec0f8a10f887e2e8264eaac16d535d250a
+Project PR_AGI-Alpha-Agent-v0_3202 already exists. Deleting it...
+
+================================================================================
+Processing PR #3203 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 232)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 04f590ec0f8a10f887e2e8264eaac16d535d250a, Merged SHA: be56ce48387dfc759e00fc1cc5375c093e04eb8a
+Project PR_AGI-Alpha-Agent-v0_3203 already exists. Deleting it...
+
+================================================================================
+Processing PR #304 from repository PriorLabs/TabPFN (Index: 233)
+Repository TabPFN already cloned.
+
+-------------------------------
+Base SHA: 229c282e7776edfd29797aa2b955d398263db120, Merged SHA: 1c152ad3395d1420625389bceff26675903f5d60
+Project PR_TabPFN_304 already exists. Deleting it...
+
+================================================================================
+Processing PR #1662 from repository 567-labs/instructor (Index: 234)
+Repository instructor already cloned.
+
+-------------------------------
+Base SHA: 793fd6bbb5cad3c61ea810ebd958edd6d8ff0466, Merged SHA: 1adbe632826cfdf2c2d8aa09c97da9d9e52d1ee8
+Project PR_instructor_1662 already exists. Deleting it...
+
+================================================================================
+Processing PR #188 from repository DogukanUrker/FlaskBlog (Index: 235)
+
+================================================================================
+Processing PR #3033 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 203)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f339be5f8d58578ab2d280f5d6dffa639d298458, Merged SHA: 6875c059ae5084d1700a7a1502f52a8c93a22b74
+Project PR_AGI-Alpha-Agent-v0_3033 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3033 at f339be5f8d58578ab2d280f5d6dffa639d298458
+Analysis of base commit completed.
+
+Checked out to branch merged_3033 at 6875c059ae5084d1700a7a1502f52a8c93a22b74
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #594 from repository MervinPraison/PraisonAI (Index: 204)
+Repository PraisonAI already cloned.
+
+-------------------------------
+Base SHA: ff8a39c58f1c3ae503a7aab0e6881feb257473d2, Merged SHA: 08b162784edf56af1c4e9492c5e3509bdab1e0c5
+Project PR_PraisonAI_594 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_594 at ff8a39c58f1c3ae503a7aab0e6881feb257473d2
+Analysis of base commit completed.
+
+Checked out to branch merged_594 at 08b162784edf56af1c4e9492c5e3509bdab1e0c5
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2253 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 205)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2a55af36bb42ac09d3f6473a50aa332d04ffb68c, Merged SHA: e815d645ebc0fbdbdc19ab228e07b33ebd9d18e0
+Project PR_AGI-Alpha-Agent-v0_2253 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2253 at 2a55af36bb42ac09d3f6473a50aa332d04ffb68c
+Analysis of base commit completed.
+
+Checked out to branch merged_2253 at e815d645ebc0fbdbdc19ab228e07b33ebd9d18e0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1667 from repository 567-labs/instructor (Index: 206)
+Repository instructor already cloned.
+
+-------------------------------
+Base SHA: bccbd2a72e1a3dfabf7fb90fb8ad880648d05bc1, Merged SHA: 22a5bdce31ae55240b6f494f250312d58772c68c
+Project PR_instructor_1667 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1667 at bccbd2a72e1a3dfabf7fb90fb8ad880648d05bc1
+Analysis of base commit completed.
+
+Checked out to branch merged_1667 at 22a5bdce31ae55240b6f494f250312d58772c68c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3117 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 207)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f80afbf502dcc6ded3e91bf5f47b4d8f723450b3, Merged SHA: 2cd90850ceceda85788afe9add8b396b81c2cb16
+Project PR_AGI-Alpha-Agent-v0_3117 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3117 at f80afbf502dcc6ded3e91bf5f47b4d8f723450b3
+Analysis of base commit completed.
+
+Checked out to branch merged_3117 at 2cd90850ceceda85788afe9add8b396b81c2cb16
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3656 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 208)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 40bff08170dfce0c621f0378caa61479ab4a40d7, Merged SHA: 9cee5caa6e861adbbcaf97ca67d6e75596ba83db
+Project PR_AGI-Alpha-Agent-v0_3656 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3656 at 40bff08170dfce0c621f0378caa61479ab4a40d7
+Analysis of base commit completed.
+
+Checked out to branch merged_3656 at 9cee5caa6e861adbbcaf97ca67d6e75596ba83db
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #101 from repository esanchezm/prometheus-qbittorrent-exporter (Index: 209)
+Repository prometheus-qbittorrent-exporter already cloned.
+
+-------------------------------
+Base SHA: 06eab35df311c9554809355d75066654c6368a83, Merged SHA: afdb6a1b83f326f1f9c36e0a349a68be92e33b88
+Project PR_prometheus-qbittorrent-exporter_101 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_101 at 06eab35df311c9554809355d75066654c6368a83
+Analysis of base commit completed.
+
+Checked out to branch merged_101 at afdb6a1b83f326f1f9c36e0a349a68be92e33b88
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3261 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 210)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bfcd128d299a906ced5b6ffca06c82fc738d39d6, Merged SHA: f0c789085749af3e97b9c7dd118b7ed5f07bf1f2
+Project PR_AGI-Alpha-Agent-v0_3261 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3261 at bfcd128d299a906ced5b6ffca06c82fc738d39d6
+Analysis of base commit completed.
+
+Checked out to branch merged_3261 at f0c789085749af3e97b9c7dd118b7ed5f07bf1f2
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #10009 from repository Significant-Gravitas/AutoGPT (Index: 211)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: 1b81a7c755abfce5e8108877e7f2053d22bf44d3
+Project PR_AutoGPT_10009 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_10009 at 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729
+Analysis of base commit completed.
+
+Checked out to branch merged_10009 at 1b81a7c755abfce5e8108877e7f2053d22bf44d3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #10013 from repository Significant-Gravitas/AutoGPT (Index: 212)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: b8ba57262954313c46ca18da6cb1b51054f10d6c
+Project PR_AutoGPT_10013 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_10013 at 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729
+Analysis of base commit completed.
+
+Checked out to branch merged_10013 at b8ba57262954313c46ca18da6cb1b51054f10d6c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #83 from repository alvinwan/timefhuman (Index: 213)
+Repository timefhuman already cloned.
+
+-------------------------------
+Base SHA: 466fba313929edbaef5977486b42c2b5c4f1eb5c, Merged SHA: c0ed89e93828b117d72a85f90f51c8a3e8074b41
+Project PR_timefhuman_83 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_83 at 466fba313929edbaef5977486b42c2b5c4f1eb5c
+Analysis of base commit completed.
+
+Checked out to branch merged_83 at c0ed89e93828b117d72a85f90f51c8a3e8074b41
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #84 from repository alvinwan/timefhuman (Index: 214)
+Repository timefhuman already cloned.
+
+-------------------------------
+Base SHA: c0ed89e93828b117d72a85f90f51c8a3e8074b41, Merged SHA: e535db7b6c748ef6082f497964ca9c27e61be858
+Project PR_timefhuman_84 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_84 at c0ed89e93828b117d72a85f90f51c8a3e8074b41
+Analysis of base commit completed.
+
+Checked out to branch merged_84 at e535db7b6c748ef6082f497964ca9c27e61be858
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #85 from repository alvinwan/timefhuman (Index: 215)
+Repository timefhuman already cloned.
+
+-------------------------------
+Base SHA: e535db7b6c748ef6082f497964ca9c27e61be858, Merged SHA: 7a4940bda39113a1d327bc8342f1ad878520e4c3
+Project PR_timefhuman_85 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_85 at e535db7b6c748ef6082f497964ca9c27e61be858
+Analysis of base commit completed.
+
+Checked out to branch merged_85 at 7a4940bda39113a1d327bc8342f1ad878520e4c3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3729 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 216)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 191229989ec68079f1ca821cb0fc2ce50578fe50, Merged SHA: bdc2b3afd6d7b41720db1ed60cfc08dba8607482
+Project PR_AGI-Alpha-Agent-v0_3729 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3729 at 191229989ec68079f1ca821cb0fc2ce50578fe50
+Analysis of base commit completed.
+
+Checked out to branch merged_3729 at bdc2b3afd6d7b41720db1ed60cfc08dba8607482
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3546 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 217)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f31f2150db32deffcb7249124a0bff82a22eeae0, Merged SHA: ac126adc274aa7d18ee51785c38a1ac20eef5258
+Project PR_AGI-Alpha-Agent-v0_3546 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3546 at f31f2150db32deffcb7249124a0bff82a22eeae0
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #160 from repository andrewm4894/anomstack (Index: 218)
+Repository anomstack already cloned.
+
+-------------------------------
+Base SHA: ca33b88b0a4a9fa245d6c8928488b6d8581bd9da, Merged SHA: 2998fa7f1f705ad96a8816459241831115f4c07a
+Project PR_anomstack_160 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_160 at ca33b88b0a4a9fa245d6c8928488b6d8581bd9da
+Analysis of base commit completed.
+
+Checked out to branch merged_160 at 2998fa7f1f705ad96a8816459241831115f4c07a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3726 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 219)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2c15b458fb20cd30ce7aa9f658ba4429dba24183, Merged SHA: 245d33341dd5acb296d437d339298cbc6f32e582
+Project PR_AGI-Alpha-Agent-v0_3726 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3726 at 2c15b458fb20cd30ce7aa9f658ba4429dba24183
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #10002 from repository Significant-Gravitas/AutoGPT (Index: 220)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729, Merged SHA: 61643e6a47c1ede38efad78fba669c2cf951e706
+Project PR_AutoGPT_10002 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_10002 at 8f1b3eb8ba6f7a5176f90786b2fa8bcaa2372729
+Analysis of base commit completed.
+
+Checked out to branch merged_10002 at 61643e6a47c1ede38efad78fba669c2cf951e706
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #793 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 221)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 3b62ac3df07505711c253aebdbc2a8d6d71feb50, Merged SHA: 6067f91ee370d1643ea9d02b18e83da3e7ff5f2a
+Project PR_AGI-Alpha-Agent-v0_793 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_793 at 3b62ac3df07505711c253aebdbc2a8d6d71feb50
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #797 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 222)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 54522de82d77387053088f58639cb609c29241de, Merged SHA: c134e7d16cacf07d937356bfe2550af471fb6018
+Project PR_AGI-Alpha-Agent-v0_797 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_797 at 54522de82d77387053088f58639cb609c29241de
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #875 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 223)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bc0218b434b56f20fa3b1ac96baaf39334d162f7, Merged SHA: 5dc7115632cd4ac2b14cdde90f7cf904578a063e
+Project PR_AGI-Alpha-Agent-v0_875 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_875 at bc0218b434b56f20fa3b1ac96baaf39334d162f7
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #8248 from repository stanfordnlp/dspy (Index: 224)
+Repository dspy already cloned.
+
+-------------------------------
+Base SHA: 195ae05d0f8a835d1f64351e21ce229a3df6675e, Merged SHA: 694534403b0ef6922bd806bce26b2457ce0375b4
+Project PR_dspy_8248 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_8248 at 195ae05d0f8a835d1f64351e21ce229a3df6675e
+Analysis of base commit completed.
+
+Checked out to branch merged_8248 at 694534403b0ef6922bd806bce26b2457ce0375b4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #502 from repository defog-ai/introspect (Index: 225)
+Repository introspect already cloned.
+
+-------------------------------
+Base SHA: 7b1f0a49efc113b22e3685516b273d48f9f08945, Merged SHA: 0b53b48af622495e50a40428fb9ce1986e0bebdd
+Project PR_introspect_502 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_502 at 7b1f0a49efc113b22e3685516b273d48f9f08945
+Analysis of base commit completed.
+
+Checked out to branch merged_502 at 0b53b48af622495e50a40428fb9ce1986e0bebdd
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1063 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 226)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 2f6b9eef0d87b06166c593800563e25e0288d1f0, Merged SHA: eef77204dbfba1a014524b4fcdfe92e12d4685f0
+Project PR_AGI-Alpha-Agent-v0_1063 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1063 at 2f6b9eef0d87b06166c593800563e25e0288d1f0
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2260 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 227)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 9e43375e94d7e27ad386eb0d84ed009d157a7144, Merged SHA: bb1d6c0f315b0fc3230816766c77a56e0ea63e80
+Project PR_AGI-Alpha-Agent-v0_2260 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2260 at 9e43375e94d7e27ad386eb0d84ed009d157a7144
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1414 from repository julep-ai/julep (Index: 228)
+Repository julep already cloned.
+
+-------------------------------
+Base SHA: b1398a89e8100162531774a27cf031e83bb88765, Merged SHA: 19de3d1d055c5812dd356b3a1aae160db6f6083c
+Project PR_julep_1414 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1414 at b1398a89e8100162531774a27cf031e83bb88765
+Analysis of base commit completed.
+
+Checked out to branch merged_1414 at 19de3d1d055c5812dd356b3a1aae160db6f6083c
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1060 from repository AgentOps-AI/agentops (Index: 229)
+Repository agentops already cloned.
+
+-------------------------------
+Base SHA: b1f0b9b2d3d5f705f79d6c5188288e887c310b0c, Merged SHA: f3fd7302710a832681b02fb4a23b50d9569495ee
+Project PR_agentops_1060 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1060 at b1f0b9b2d3d5f705f79d6c5188288e887c310b0c
+Analysis of base commit completed.
+
+Checked out to branch merged_1060 at f3fd7302710a832681b02fb4a23b50d9569495ee
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1420 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 230)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: cedb6c5e73068fd3eaea6dc3a03687d576b24164, Merged SHA: d0d38929258e6579c83379c1d6426622c6a27424
+Project PR_AGI-Alpha-Agent-v0_1420 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1420 at cedb6c5e73068fd3eaea6dc3a03687d576b24164
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3202 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 231)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: aeae09fe3d337da4ca5a9a8d525b0e4574ce3bbf, Merged SHA: 04f590ec0f8a10f887e2e8264eaac16d535d250a
+Project PR_AGI-Alpha-Agent-v0_3202 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3202 at aeae09fe3d337da4ca5a9a8d525b0e4574ce3bbf
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3203 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 232)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 04f590ec0f8a10f887e2e8264eaac16d535d250a, Merged SHA: be56ce48387dfc759e00fc1cc5375c093e04eb8a
+Project PR_AGI-Alpha-Agent-v0_3203 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3203 at 04f590ec0f8a10f887e2e8264eaac16d535d250a
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #304 from repository PriorLabs/TabPFN (Index: 233)
+Repository TabPFN already cloned.
+
+-------------------------------
+Base SHA: 229c282e7776edfd29797aa2b955d398263db120, Merged SHA: 1c152ad3395d1420625389bceff26675903f5d60
+Project PR_TabPFN_304 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_304 at 229c282e7776edfd29797aa2b955d398263db120
+Analysis of base commit completed.
+
+Checked out to branch merged_304 at 1c152ad3395d1420625389bceff26675903f5d60
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1662 from repository 567-labs/instructor (Index: 234)
+Repository instructor already cloned.
+
+-------------------------------
+Base SHA: 793fd6bbb5cad3c61ea810ebd958edd6d8ff0466, Merged SHA: 1adbe632826cfdf2c2d8aa09c97da9d9e52d1ee8
+Project PR_instructor_1662 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1662 at 793fd6bbb5cad3c61ea810ebd958edd6d8ff0466
+Analysis of base commit completed.
+
+Checked out to branch merged_1662 at 1adbe632826cfdf2c2d8aa09c97da9d9e52d1ee8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #188 from repository DogukanUrker/FlaskBlog (Index: 235)
+Repository FlaskBlog already cloned.
+
+-------------------------------
+Base SHA: 0b2a372eb5dbb1e3c90cae923fe4eef705f33a3c, Merged SHA: 0c0493cf4b0f9a5b57c3060d97ee0f8b8cb2c521
+Project PR_FlaskBlog_188 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_188 at 0b2a372eb5dbb1e3c90cae923fe4eef705f33a3c
+Analysis of base commit completed.
+
+Checked out to branch merged_188 at 0c0493cf4b0f9a5b57c3060d97ee0f8b8cb2c521
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1296 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 236)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 1cf7d3b5b0bdc3451748b1a5e44cbd391972c920, Merged SHA: 5c7a1946b60ce647dd1990a6adf4020ad8060b99
+Project PR_AGI-Alpha-Agent-v0_1296 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1296 at 1cf7d3b5b0bdc3451748b1a5e44cbd391972c920
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #487 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 237)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: befe7738ed1f9db3d626ca0b935ea43323d0be49, Merged SHA: b65c1b105f098d4c4022f012e40d7e91c37aa498
+Project PR_AGI-Alpha-Agent-v0_487 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_487 at befe7738ed1f9db3d626ca0b935ea43323d0be49
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #492 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 238)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bac73421f61facd6784c25c9e5620d501502fb94, Merged SHA: bf20297c1a6b7e8adc9d3fcdcf562dfe7c565504
+Project PR_AGI-Alpha-Agent-v0_492 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_492 at bac73421f61facd6784c25c9e5620d501502fb94
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1575 from repository SirVer/ultisnips (Index: 239)
+
+-------------------------------
+Base SHA: dbc458e110bb49299da76ec53f8b09b4f6dce28a, Merged SHA: b22a86f9dcc5257624bff3c72d8b902eac468aad
+Project PR_ultisnips_1575 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1575 at dbc458e110bb49299da76ec53f8b09b4f6dce28a
+Analysis of base commit completed.
+
+Checked out to branch merged_1575 at b22a86f9dcc5257624bff3c72d8b902eac468aad
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2291 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 240)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 6337b34fde1c3b56bd86050bd416ec31c760b147, Merged SHA: 7232ff830a668d34c21de71df626c2297b55025d
+Project PR_AGI-Alpha-Agent-v0_2291 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2291 at 6337b34fde1c3b56bd86050bd416ec31c760b147
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1613 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 241)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 0384b809b30096161ec5399970b080757ba6d6d7, Merged SHA: c70f0234e01baef3a895ca5d84aa2d42d40124ee
+Project PR_AGI-Alpha-Agent-v0_1613 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1613 at 0384b809b30096161ec5399970b080757ba6d6d7
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1425 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 242)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 7bf36531a5eecb91821487bb8dc2c00eeed88505, Merged SHA: 23305b8e83b2e247ba1a4ff8e150f8e8535b34f8
+Project PR_AGI-Alpha-Agent-v0_1425 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1425 at 7bf36531a5eecb91821487bb8dc2c00eeed88505
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1018 from repository stanford-crfm/levanter (Index: 243)
+
+-------------------------------
+Base SHA: 7dbec2d2f932e0bc19ac009fd96b843187d06d06, Merged SHA: 4c118c9024dd88b12fdb0825baf626637c1315b4
+Project PR_levanter_1018 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1018 at 7dbec2d2f932e0bc19ac009fd96b843187d06d06
+Analysis of base commit completed.
+
+Checked out to branch merged_1018 at 4c118c9024dd88b12fdb0825baf626637c1315b4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1215 from repository openai/openai-agents-python (Index: 244)
+
+-------------------------------
+Base SHA: c5d50109c470ab46813f61a0ba1cc2d1b3890318, Merged SHA: 46101cb5ac0435b460a8d28710a51f4d7fd081dd
+Project PR_openai-agents-python_1215 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1215 at c5d50109c470ab46813f61a0ba1cc2d1b3890318
+Analysis of base commit completed.
+
+Checked out to branch merged_1215 at 46101cb5ac0435b460a8d28710a51f4d7fd081dd
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3733 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 245)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 677c82d2d20b30cb54d1317c07b4133443488287, Merged SHA: 18d8ecb1a67317bf4cb0a8b947ddd3c9bd30c347
+Project PR_AGI-Alpha-Agent-v0_3733 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3733 at 677c82d2d20b30cb54d1317c07b4133443488287
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3880 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 246)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 1aa623b4973daedb9392a0e923255bc6d2cf7988, Merged SHA: 143369b2089aa79b6bec1a856a101d0215ef5e52
+Project PR_AGI-Alpha-Agent-v0_3880 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #1616 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 247)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: b49963bcf782cc46a727d390cc1160eb47301d69, Merged SHA: 62cf974b70b28bc348e46d777eac9404142150fd
+Project PR_AGI-Alpha-Agent-v0_1616 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1616 at b49963bcf782cc46a727d390cc1160eb47301d69
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #675 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 248)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: e838fe539ee64417f41f13023ef83ed14f479d1c, Merged SHA: c38c54c4b2e813ce778dc36ef2b71d39c051dc06
+Project PR_AGI-Alpha-Agent-v0_675 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_675 at e838fe539ee64417f41f13023ef83ed14f479d1c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1656 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 249)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: ea54d4f87ea7fe8f5d1816b6f109324ce485a10a, Merged SHA: ad399dae9143f34b6961025e7f685f35f6cd61a3
+Project PR_AGI-Alpha-Agent-v0_1656 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1656 at ea54d4f87ea7fe8f5d1816b6f109324ce485a10a
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #135 from repository tomquist/b2500-meter (Index: 250)
+
+-------------------------------
+Base SHA: cb0fb633abf40e796735d9d2f4b9de2f6bbb614b, Merged SHA: 4fd5fd3612b3ea495011c81419558891fbe8085f
+Project PR_b2500-meter_135 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_135 at cb0fb633abf40e796735d9d2f4b9de2f6bbb614b
+Analysis of base commit completed.
+
+Checked out to branch merged_135 at 4fd5fd3612b3ea495011c81419558891fbe8085f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2481 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 251)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 10e9c226fd69c7c1426bebdc8f86ef0faad4a849, Merged SHA: 709913e5c207335c35825333835a8355208d4c80
+Project PR_AGI-Alpha-Agent-v0_2481 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2481 at 10e9c226fd69c7c1426bebdc8f86ef0faad4a849
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2230 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 252)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 14ed3337b4a00c2e2daccbe1aad766868969ddb9, Merged SHA: 1a3dadc4a8faa3073c7b4062000f92b2093a3c6d
+Project PR_AGI-Alpha-Agent-v0_2230 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2230 at 14ed3337b4a00c2e2daccbe1aad766868969ddb9
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #463 from repository Kiln-AI/Kiln (Index: 253)
+
+-------------------------------
+Base SHA: 2dd6de17d9e0962040a85e0104536f79db074322, Merged SHA: 5fa0b0ad885aa2e8111557cf940fbf8c364e60fa
+Project PR_Kiln_463 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_463 at 2dd6de17d9e0962040a85e0104536f79db074322
+Analysis of base commit completed.
+
+Checked out to branch merged_463 at 5fa0b0ad885aa2e8111557cf940fbf8c364e60fa
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4 from repository Nativu5/Gemini-FastAPI (Index: 254)
+
+-------------------------------
+Base SHA: ab0396f2338ae7ba097090841bfc75207dca7a87, Merged SHA: a487b1e9a4335027e6925852c1961c085be26420
+Project PR_Gemini-FastAPI_4 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4 at ab0396f2338ae7ba097090841bfc75207dca7a87
+Analysis of base commit completed.
+
+Checked out to branch merged_4 at a487b1e9a4335027e6925852c1961c085be26420
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3536 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 255)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d310c62ceb99415e4765176aa43515eb193ec61c, Merged SHA: d9a3dfeb661c0f728b2e0c3aea731c597f2dd300
+Project PR_AGI-Alpha-Agent-v0_3536 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3536 at d310c62ceb99415e4765176aa43515eb193ec61c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3537 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 256)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d9a3dfeb661c0f728b2e0c3aea731c597f2dd300, Merged SHA: 244e3616dde03dccdf27def880a0e5d098ec786d
+Project PR_AGI-Alpha-Agent-v0_3537 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3537 at d9a3dfeb661c0f728b2e0c3aea731c597f2dd300
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2975 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 257)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: e5da25be87f622076c7a0eebabdde1d9d41a2e4e, Merged SHA: 639efff5ec3b000a47fcff8fdcfe3e71d9694b44
+Project PR_AGI-Alpha-Agent-v0_2975 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2975 at e5da25be87f622076c7a0eebabdde1d9d41a2e4e
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3678 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 258)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d3a21b1793c5877f888593097f8e2bf71defd622, Merged SHA: f5cc28e11fa16c9e4957ec722aa9bc63a9553294
+Project PR_AGI-Alpha-Agent-v0_3678 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3678 at d3a21b1793c5877f888593097f8e2bf71defd622
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3141 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 259)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 48b7045fa33e1ae19ebabc46edf73447f6fee560, Merged SHA: 733d9abe36ec30264aa513b8e50db8f39132e450
+Project PR_AGI-Alpha-Agent-v0_3141 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3141 at 48b7045fa33e1ae19ebabc46edf73447f6fee560
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3622 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 260)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: ee713ac126fb3622c08181285f36d0803a580626, Merged SHA: 009b01b5a0d7fa29225ef51353c7e6d96a899d7a
+Project PR_AGI-Alpha-Agent-v0_3622 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3622 at ee713ac126fb3622c08181285f36d0803a580626
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #5787 from repository skypilot-org/skypilot (Index: 261)
+
+-------------------------------
+Base SHA: 6463031a774ff32d51627b418f2712ec09b74175, Merged SHA: 3ea00c73aa36adb2903e7920ca6d1e47c822a751
+Project PR_skypilot_5787 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_5787 at 6463031a774ff32d51627b418f2712ec09b74175
+Analysis of base commit completed.
+
+Checked out to branch merged_5787 at 3ea00c73aa36adb2903e7920ca6d1e47c822a751
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #169 from repository DannyMac180/meta-agent (Index: 262)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 376e95ec9a3a7f7a7732343c355900e4897753a9, Merged SHA: bae799ef6f72569f599a867ff63fdc6ce17b3ac1
+Project PR_meta-agent_169 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #225 from repository ikamensh/flynt (Index: 263)
+
+-------------------------------
+Base SHA: 62bddb550bc6739800dd4b0a2062b8adef33d725, Merged SHA: 4d068cadea90fb210a914535c992302f75a73a06
+Project PR_flynt_225 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_225 at 62bddb550bc6739800dd4b0a2062b8adef33d725
+Analysis of base commit completed.
+
+Checked out to branch merged_225 at 4d068cadea90fb210a914535c992302f75a73a06
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1110 from repository stanford-crfm/levanter (Index: 264)
+Repository levanter already cloned.
+
+-------------------------------
+Base SHA: 1e420fcc9487c111242d2de0019e47b0b4503a32, Merged SHA: 855c4d0262f54f370e072722134a951b76080f93
+Project PR_levanter_1110 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1110 at 1e420fcc9487c111242d2de0019e47b0b4503a32
+Analysis of base commit completed.
+
+Checked out to branch merged_1110 at 855c4d0262f54f370e072722134a951b76080f93
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3799 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 265)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f3bd654de28e3f569bea798d3c1f074ccd6d4254, Merged SHA: c66bca2342efacf32b105abd80c02729fa1db367
+Project PR_AGI-Alpha-Agent-v0_3799 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #1105 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 266)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: c5aceaed4e2e5c4b98d23d761a5ae7e80056d8a1, Merged SHA: 7f6100ce7fef20fc6cd3e8841faf78ab38eb6504
+Project PR_AGI-Alpha-Agent-v0_1105 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1105 at c5aceaed4e2e5c4b98d23d761a5ae7e80056d8a1
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2438 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 267)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 490ef4d4ac822fb0990b46d1e10a373bd2fd32f8, Merged SHA: 94460b26320ede869accb3ccb4782cff8ae9d54a
+Project PR_AGI-Alpha-Agent-v0_2438 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2438 at 490ef4d4ac822fb0990b46d1e10a373bd2fd32f8
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3335 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 268)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 21a4feb5bca61b70e6bf72dd6177bed3ae013fb2, Merged SHA: 43f1982e83acd950f123f3218dc73a4371710578
+Project PR_AGI-Alpha-Agent-v0_3335 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3335 at 21a4feb5bca61b70e6bf72dd6177bed3ae013fb2
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3836 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 269)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 07ed5a72840bb2ac95ac9b027857565aca676fc0, Merged SHA: 0919998af80816f425f8f5de60d1392957a00599
+Project PR_AGI-Alpha-Agent-v0_3836 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #2896 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 270)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 247804bf7c8d2fd20a0b390e81a56c79091867e1, Merged SHA: 813a60c32a6d491c928d7c7e1bfb4649e8a6503a
+Project PR_AGI-Alpha-Agent-v0_2896 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2896 at 247804bf7c8d2fd20a0b390e81a56c79091867e1
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #496 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 271)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 0e6b715881300567ca7125b480fa419414e373f2, Merged SHA: 5a0f18c9ff3c2c92bda5a54fd5349488c48ead6b
+Project PR_AGI-Alpha-Agent-v0_496 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_496 at 0e6b715881300567ca7125b480fa419414e373f2
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3857 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 272)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 380686d1368b816cb2ab8db2ce695579cdbc9932, Merged SHA: 61f222342e966e0e58228f2851f8eae89af4ada6
+Project PR_AGI-Alpha-Agent-v0_3857 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #2719 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 273)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 7fe887a166f4b998c7791f85341d4be98d0cb33f, Merged SHA: 32af964eba951899ebc39f629725b6a20f4a6e9a
+Project PR_AGI-Alpha-Agent-v0_2719 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2719 at 7fe887a166f4b998c7791f85341d4be98d0cb33f
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #8307 from repository stanfordnlp/dspy (Index: 274)
+Repository dspy already cloned.
+
+-------------------------------
+Base SHA: 2f18c84ae796184824cdcee1497a0948fa79b59b, Merged SHA: 9b2e1c60e52ce6c7b31737e31755d1da556761e4
+Project PR_dspy_8307 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_8307 at 2f18c84ae796184824cdcee1497a0948fa79b59b
+Analysis of base commit completed.
+
+Checked out to branch merged_8307 at 9b2e1c60e52ce6c7b31737e31755d1da556761e4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1575 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 275)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: df789bf074845cf77afe25b4a2a6422b8d523baa, Merged SHA: d7fbf1327234ff4fcaee833b7f677f09bdd4505d
+Project PR_AGI-Alpha-Agent-v0_1575 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1575 at df789bf074845cf77afe25b4a2a6422b8d523baa
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1577 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 276)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: c08f9e3ce86881f4e25be454a63161434671b391, Merged SHA: b9551af9ed14b5e52e4bc6dedf72689c453f4492
+Project PR_AGI-Alpha-Agent-v0_1577 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1577 at c08f9e3ce86881f4e25be454a63161434671b391
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1120 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 277)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 246bfc8a1480674b1eefc09d14ac40c4cd7dec91, Merged SHA: 63db0af6b2ae498899ed7dc7b75df799d3a1d27f
+Project PR_AGI-Alpha-Agent-v0_1120 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1120 at 246bfc8a1480674b1eefc09d14ac40c4cd7dec91
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1883 from repository jaseci-labs/jaseci (Index: 278)
+
+-------------------------------
+Base SHA: 097e75435c060f78629b754046c28a4bb8767995, Merged SHA: fcbf70b1c18b1ea2ec161ee0c989e896abd54063
+Project PR_jaseci_1883 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1883 at 097e75435c060f78629b754046c28a4bb8767995
+Analysis of base commit completed.
+
+Checked out to branch merged_1883 at fcbf70b1c18b1ea2ec161ee0c989e896abd54063
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1297 from repository roboflow/inference (Index: 279)
+
+-------------------------------
+Base SHA: 5ae430c47fd5a9ff2c1fa1e7cba5acb20da7f372, Merged SHA: 7214096193ae64a04a80a812e79c70ca4dd71516
+Project PR_inference_1297 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1297 at 5ae430c47fd5a9ff2c1fa1e7cba5acb20da7f372
+Analysis of base commit completed.
+
+Checked out to branch merged_1297 at 7214096193ae64a04a80a812e79c70ca4dd71516
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #13 from repository briangu/klongpy (Index: 280)
+
+-------------------------------
+Base SHA: 680fa339d1b9b82d4d6fa37b349e2a9159800099, Merged SHA: 0965000afc368387edc4d784cf9251eb36108786
+Project PR_klongpy_13 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_13 at 680fa339d1b9b82d4d6fa37b349e2a9159800099
+Analysis of base commit completed.
+
+Checked out to branch merged_13 at 0965000afc368387edc4d784cf9251eb36108786
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1303 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 281)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f5f98a7c18f55455cbcd0779a9ec216db2a04b5c, Merged SHA: 3680ac2eb27af9acf45cabea8531f6d90095f9ff
+Project PR_AGI-Alpha-Agent-v0_1303 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1303 at f5f98a7c18f55455cbcd0779a9ec216db2a04b5c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #188 from repository DannyMac180/meta-agent (Index: 282)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 2ebc9c55ce3397d5b315ca23aeb8ad403b96e220, Merged SHA: f8893d4621015909295c3148e0b8422c03dcd56b
+Project PR_meta-agent_188 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #93 from repository DannyMac180/meta-agent (Index: 283)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: b5650b698095a3d7c3969f04033372c9095b3066, Merged SHA: 02dc2debe23046c57a8528c33033027890aa72a4
+Project PR_meta-agent_93 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #94 from repository DannyMac180/meta-agent (Index: 284)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 02dc2debe23046c57a8528c33033027890aa72a4, Merged SHA: 979dbc788f35393726a198f4207008c8792ab173
+Project PR_meta-agent_94 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #95 from repository DannyMac180/meta-agent (Index: 285)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 979dbc788f35393726a198f4207008c8792ab173, Merged SHA: ef13bb8fea000fee36b9e424f80d3e488a45e5f1
+Project PR_meta-agent_95 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #227 from repository ikamensh/flynt (Index: 286)
+Repository flynt already cloned.
+
+-------------------------------
+Base SHA: 4d8084334f9a9b7e6aebb220ae38285086bd43f5, Merged SHA: 3ff463d34dd42e5a71780c706a39b901ec6f2b24
+Project PR_flynt_227 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_227 at 4d8084334f9a9b7e6aebb220ae38285086bd43f5
+Analysis of base commit completed.
+
+Checked out to branch merged_227 at 3ff463d34dd42e5a71780c706a39b901ec6f2b24
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3495 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 287)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d017c34a7ec626c879523b7ffcee30c01ad9e5f0, Merged SHA: a2f8d49f200a7f19cfa72335eba386f180d48851
+Project PR_AGI-Alpha-Agent-v0_3495 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3495 at d017c34a7ec626c879523b7ffcee30c01ad9e5f0
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3497 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 288)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 13e8e74d9bfc572aa3e91505b7f62d62ea9fe077, Merged SHA: 6e707f09cdda349984b8470ddac70476078db510
+Project PR_AGI-Alpha-Agent-v0_3497 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3497 at 13e8e74d9bfc572aa3e91505b7f62d62ea9fe077
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3504 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 289)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 76b68a3a1ce728d6615b4d8f504514341abf09e3, Merged SHA: 465cdb3e86781d8f9dd5000fbf97ea288282f02c
+Project PR_AGI-Alpha-Agent-v0_3504 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3504 at 76b68a3a1ce728d6615b4d8f504514341abf09e3
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3505 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 290)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 465cdb3e86781d8f9dd5000fbf97ea288282f02c, Merged SHA: fdfc5c19fb93bc2cc0485a64f65308f3723ac010
+Project PR_AGI-Alpha-Agent-v0_3505 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3505 at 465cdb3e86781d8f9dd5000fbf97ea288282f02c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2479 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 291)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 6d8bb4b5a2a606957cd0701403f3a517b85035ba, Merged SHA: 11d9caee20f0fc8e547d3232bffd25a0a03d9612
+Project PR_AGI-Alpha-Agent-v0_2479 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2479 at 6d8bb4b5a2a606957cd0701403f3a517b85035ba
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #354 from repository Kiln-AI/Kiln (Index: 292)
+Repository Kiln already cloned.
+
+-------------------------------
+Base SHA: 67a1e865c3ff5fb97572eb6c750eb251d98a8f42, Merged SHA: bd8f0269dd0690991dfabd24b3c57a180e537b5d
+Project PR_Kiln_354 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_354 at 67a1e865c3ff5fb97572eb6c750eb251d98a8f42
+Analysis of base commit completed.
+
+Checked out to branch merged_354 at bd8f0269dd0690991dfabd24b3c57a180e537b5d
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3677 from repository zenml-io/zenml (Index: 293)
+
+-------------------------------
+Base SHA: 575f262fc14b41469d63786f9037ce63d6dfcdb3, Merged SHA: 9d5caf23fb58ed632cc249087c27efae91c8cd2f
+Project PR_zenml_3677 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3677 at 575f262fc14b41469d63786f9037ce63d6dfcdb3
+Analysis of base commit completed.
+
+Checked out to branch merged_3677 at 9d5caf23fb58ed632cc249087c27efae91c8cd2f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #358 from repository Kiln-AI/Kiln (Index: 294)
+Repository Kiln already cloned.
+
+-------------------------------
+Base SHA: bd8f0269dd0690991dfabd24b3c57a180e537b5d, Merged SHA: e341517faef8298453fb68a885dc2d0b9b5bbfe9
+Project PR_Kiln_358 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_358 at bd8f0269dd0690991dfabd24b3c57a180e537b5d
+Analysis of base commit completed.
+
+Checked out to branch merged_358 at e341517faef8298453fb68a885dc2d0b9b5bbfe9
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #34 from repository bmander/graphserver (Index: 295)
+Repository graphserver already cloned.
+
+-------------------------------
+Base SHA: 94bf968fe8b020662ec1c70b9462c8d7fa2edefd, Merged SHA: ce8fab8080f0834b886a530bd1732333a32e3541
+Project PR_graphserver_34 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_34 at 94bf968fe8b020662ec1c70b9462c8d7fa2edefd
+Analysis of base commit completed.
+
+Checked out to branch merged_34 at ce8fab8080f0834b886a530bd1732333a32e3541
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1122 from repository unclecode/crawl4ai (Index: 296)
+
+-------------------------------
+Base SHA: ac9981a1f58f62ca2bc7cb15aae23c74892ed8ff, Merged SHA: 754ba731fa78ab891641e7ee1aed5e44d9ed91e6
+Project PR_crawl4ai_1122 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1122 at ac9981a1f58f62ca2bc7cb15aae23c74892ed8ff
+Analysis of base commit completed.
+
+Checked out to branch merged_1122 at 754ba731fa78ab891641e7ee1aed5e44d9ed91e6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #7 from repository Zhangyanbo/diffusion-evolution (Index: 297)
+
+-------------------------------
+Base SHA: 55af652285c6b72d18fc8a073b9f1b6c12e1b81a, Merged SHA: d73ce24f5c5c427f64adb4734bdbede18adbb6ab
+Project PR_diffusion-evolution_7 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_7 at 55af652285c6b72d18fc8a073b9f1b6c12e1b81a
+Analysis of base commit completed.
+
+Checked out to branch merged_7 at d73ce24f5c5c427f64adb4734bdbede18adbb6ab
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #11 from repository briangu/klongpy (Index: 298)
+Repository klongpy already cloned.
+
+-------------------------------
+Base SHA: ae0242b007a1120d304a4a5d254d3dae5cdc0c02, Merged SHA: 680fa339d1b9b82d4d6fa37b349e2a9159800099
+Project PR_klongpy_11 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_11 at ae0242b007a1120d304a4a5d254d3dae5cdc0c02
+Analysis of base commit completed.
+
+Checked out to branch merged_11 at 680fa339d1b9b82d4d6fa37b349e2a9159800099
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #20 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 299)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: c9b0fcc8917e4ac7a3869522518c5026c8ffa016, Merged SHA: 28d5127bbe158a8de0f8cf55dc35754c9e016210
+Project PR_AGI-Alpha-Agent-v0_20 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_20 at c9b0fcc8917e4ac7a3869522518c5026c8ffa016
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #629 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 300)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 34d7f74e7d583e3c525e019f6736676a388cdcdb, Merged SHA: 7adfd361f67fd5d665383afa0ca2b2aebd699c19
+Project PR_AGI-Alpha-Agent-v0_629 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_629 at 34d7f74e7d583e3c525e019f6736676a388cdcdb
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #78 from repository featureform/enrichmcp (Index: 301)
+Repository enrichmcp already cloned.
+
+-------------------------------
+Base SHA: f7611503a7db1cfa905ffe47be8d6e54c615f180, Merged SHA: 85cc26652882c1eccace3db5aa5339194552a519
+Project PR_enrichmcp_78 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_78 at f7611503a7db1cfa905ffe47be8d6e54c615f180
+Analysis of base commit completed.
+
+Checked out to branch merged_78 at 85cc26652882c1eccace3db5aa5339194552a519
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3921 from repository strawberry-graphql/strawberry (Index: 302)
+
+-------------------------------
+Base SHA: 3ea1cfcd88bc31c53729176b40b2aae72ce56d54, Merged SHA: c6c402bb671c797a75150469a4c95a3c0a892c8e
+Project PR_strawberry_3921 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3921 at 3ea1cfcd88bc31c53729176b40b2aae72ce56d54
+Analysis of base commit completed.
+
+Checked out to branch merged_3921 at c6c402bb671c797a75150469a4c95a3c0a892c8e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3507 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 303)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 202fb57e6d3d6e799a338d560eeb723e0422d91c, Merged SHA: 4f89186f25c56f35ab49417ea32802ac79675aa6
+Project PR_AGI-Alpha-Agent-v0_3507 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3507 at 202fb57e6d3d6e799a338d560eeb723e0422d91c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #73 from repository evangelosmeklis/peepdb (Index: 304)
+
+-------------------------------
+Base SHA: ee2c492419727be02764514183f69a1d5e41de88, Merged SHA: 929064ddf3123d2f19bf3dbacca362c5358e2220
+Project PR_peepdb_73 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_73 at ee2c492419727be02764514183f69a1d5e41de88
+Analysis of base commit completed.
+
+Checked out to branch merged_73 at 929064ddf3123d2f19bf3dbacca362c5358e2220
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #39 from repository helme/ecg_ptbxl_benchmarking (Index: 305)
+
+-------------------------------
+Base SHA: 516740dd2964d67c213ab6df9eba5d50b2245d00, Merged SHA: bfe8b1e6011f5a270c6deb74586bd43dd31754fa
+Project PR_ecg_ptbxl_benchmarking_39 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_39 at 516740dd2964d67c213ab6df9eba5d50b2245d00
+Analysis of base commit completed.
+
+Checked out to branch merged_39 at bfe8b1e6011f5a270c6deb74586bd43dd31754fa
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2600 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 306)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 6ea403447673222fd6484e6cea1fd1af56708104, Merged SHA: 44fc73ad5ad694d76c2c4ed3be4000316b2892bf
+Project PR_AGI-Alpha-Agent-v0_2600 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2600 at 6ea403447673222fd6484e6cea1fd1af56708104
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #361 from repository Blaizzy/mlx-vlm (Index: 307)
+
+-------------------------------
+Base SHA: 3d5cbb9dcf27a9eca685efd5a136b469cd0fe13e, Merged SHA: f21e2d5122303fc70173288eb6045f03549bb4c6
+Project PR_mlx-vlm_361 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_361 at 3d5cbb9dcf27a9eca685efd5a136b469cd0fe13e
+Analysis of base commit completed.
+
+Checked out to branch merged_361 at f21e2d5122303fc70173288eb6045f03549bb4c6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #168 from repository DannyMac180/meta-agent (Index: 308)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 8393d23f861abb0710aa5eccc6fd21cb9bb35d89, Merged SHA: 376e95ec9a3a7f7a7732343c355900e4897753a9
+Project PR_meta-agent_168 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #59 from repository featureform/enrichmcp (Index: 309)
+Repository enrichmcp already cloned.
+
+-------------------------------
+Base SHA: 6efee6994c3d224d589e4774d4b759becf2504f4, Merged SHA: d7fe37f82ca30ca642e1b5457deb297cad03863f
+Project PR_enrichmcp_59 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_59 at 6efee6994c3d224d589e4774d4b759becf2504f4
+Analysis of base commit completed.
+
+Checked out to branch merged_59 at d7fe37f82ca30ca642e1b5457deb297cad03863f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3511 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 310)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: fdacbfedb6996b651f53e5f68589053e2fa24e23, Merged SHA: a1343ca071138c8efae36f7b9bb888f2cbeac79f
+Project PR_AGI-Alpha-Agent-v0_3511 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3511 at fdacbfedb6996b651f53e5f68589053e2fa24e23
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2303 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 311)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: a8426a87043276a45d83978d8b4425fa8e3b0181, Merged SHA: ed0a8d8888dc48b0c94bb59747bbd874b21c98b0
+Project PR_AGI-Alpha-Agent-v0_2303 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2303 at a8426a87043276a45d83978d8b4425fa8e3b0181
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3458 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 312)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: e85647f29d523a0a9a14bbb542a4f99c58b8ef15, Merged SHA: b9dd42f3e4552d0d176e562e4ed785f8bc4737a2
+Project PR_AGI-Alpha-Agent-v0_3458 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3458 at e85647f29d523a0a9a14bbb542a4f99c58b8ef15
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #438 from repository aipotheosis-labs/aci (Index: 313)
+
+-------------------------------
+Base SHA: cd603d5a594222fd0398ae0210f1036bcd0f7b93, Merged SHA: 4baf0329111b893ee095d01be54e5331a4816b9e
+Project PR_aci_438 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_438 at cd603d5a594222fd0398ae0210f1036bcd0f7b93
+Analysis of base commit completed.
+
+Checked out to branch merged_438 at 4baf0329111b893ee095d01be54e5331a4816b9e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3753 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 314)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 4978f925907803163fe7b3ae6e6ea8f003464852, Merged SHA: bb2dd8e3acad517e92f4009870383a7e5224fc6d
+Project PR_AGI-Alpha-Agent-v0_3753 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #1292 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 315)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 5b86558093eea5cb8cfbbb5fed6c127b06c74fe6, Merged SHA: ff29bbe8dbaf9d6401a7daa37f449e20a705d7e2
+Project PR_AGI-Alpha-Agent-v0_1292 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1292 at 5b86558093eea5cb8cfbbb5fed6c127b06c74fe6
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3527 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 316)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: e2c84054b0ddd573dbefb8b842e5ce1c5a4b531a, Merged SHA: f13922f4abdf2be6fd8def7115c514765b0a3374
+Project PR_AGI-Alpha-Agent-v0_3527 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3527 at e2c84054b0ddd573dbefb8b842e5ce1c5a4b531a
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3526 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 317)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f1aad0e441adfdc86de79652a9a39e458d477f8e, Merged SHA: e2c84054b0ddd573dbefb8b842e5ce1c5a4b531a
+Project PR_AGI-Alpha-Agent-v0_3526 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3526 at f1aad0e441adfdc86de79652a9a39e458d477f8e
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3525 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 318)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 45f6dc48bed5e793f55a7a38ed2bdb868218dc55, Merged SHA: f1aad0e441adfdc86de79652a9a39e458d477f8e
+Project PR_AGI-Alpha-Agent-v0_3525 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3525 at 45f6dc48bed5e793f55a7a38ed2bdb868218dc55
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #78 from repository johnpaulett/python-hl7 (Index: 319)
+
+-------------------------------
+Base SHA: 27a98e6e0b87bc05d3cab6ed2bd10fbe2b763197, Merged SHA: cd115f12e0d3a4b02f6ebbfe93bb21b119e01c47
+Project PR_python-hl7_78 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_78 at 27a98e6e0b87bc05d3cab6ed2bd10fbe2b763197
+Analysis of base commit completed.
+
+Checked out to branch merged_78 at cd115f12e0d3a4b02f6ebbfe93bb21b119e01c47
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2494 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 320)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 6f14d41c4c7769d645d7b487b4a4f5ca09ba688c, Merged SHA: 0700a47a4deabcd8cff434d4ae971bf10d74cef5
+Project PR_AGI-Alpha-Agent-v0_2494 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2494 at 6f14d41c4c7769d645d7b487b4a4f5ca09ba688c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1556 from repository econ-ark/HARK (Index: 321)
+
+-------------------------------
+Base SHA: fc815b59080de7620ffb0e289f19c318555d1274, Merged SHA: 5e4d77cbef357b4e2379796474bdb241a1f1b6ef
+Project PR_HARK_1556 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1556 at fc815b59080de7620ffb0e289f19c318555d1274
+Analysis of base commit completed.
+
+Checked out to branch merged_1556 at 5e4d77cbef357b4e2379796474bdb241a1f1b6ef
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #179 from repository DannyMac180/meta-agent (Index: 322)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: f86cdddb1a544401d55e979ed91edc6f27c50b17, Merged SHA: a3640e89be48ef41c913f05a670e639f76862f0c
+Project PR_meta-agent_179 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #2070 from repository jaseci-labs/jaseci (Index: 324)
+Repository jaseci already cloned.
+
+-------------------------------
+Base SHA: 368cb3b898a28350d78dc94f4051bc0d53136fb8, Merged SHA: 7307183a0087ab08674904f5486567c75ee2d0d5
+Project PR_jaseci_2070 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2070 at 368cb3b898a28350d78dc94f4051bc0d53136fb8
+Analysis of base commit completed.
+
+Checked out to branch merged_2070 at 7307183a0087ab08674904f5486567c75ee2d0d5
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2873 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 325)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 32a6367d80593d92870df7cffaad02e8e1c31451, Merged SHA: 6daeee3625efdae84051230a4cf8e171fcc45cd7
+Project PR_AGI-Alpha-Agent-v0_2873 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2873 at 32a6367d80593d92870df7cffaad02e8e1c31451
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #9966 from repository Significant-Gravitas/AutoGPT (Index: 326)
+Repository AutoGPT already cloned.
+
+-------------------------------
+Base SHA: 6bb283be842c8d68df772bd39e37122f0e8610d7, Merged SHA: d108a1fda84a11ddc7b3531bc09e11a5655c43b3
+Project PR_AutoGPT_9966 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_9966 at 6bb283be842c8d68df772bd39e37122f0e8610d7
+Analysis of base commit completed.
+
+Checked out to branch merged_9966 at d108a1fda84a11ddc7b3531bc09e11a5655c43b3
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3109 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 327)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 62808fc0a18b573921f444fe4b1e7f8f5506c854, Merged SHA: 31b5751d8019869c2c9e34c1e4d4966d86f4efa6
+Project PR_AGI-Alpha-Agent-v0_3109 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3109 at 62808fc0a18b573921f444fe4b1e7f8f5506c854
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2984 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 328)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 037584d1ca4df9561df50fbaaff50c5108907109, Merged SHA: d9b71d5a80e1a7692e9d192100476a00c23edf7a
+Project PR_AGI-Alpha-Agent-v0_2984 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2984 at 037584d1ca4df9561df50fbaaff50c5108907109
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1856 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 329)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 63d95c907ceee8d15278aa371b41de53a561bb30, Merged SHA: d820a787950ebc63f380dae9074db904c6b1d4d6
+Project PR_AGI-Alpha-Agent-v0_1856 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1856 at 63d95c907ceee8d15278aa371b41de53a561bb30
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3923 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 330)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: dda0b8ce0f96e56bc87d93b6d2ed9d1387b8d7af, Merged SHA: 22f4a0eb26f2afaf3a9d7c201dccb6ac2cf840eb
+Project PR_AGI-Alpha-Agent-v0_3923 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #151 from repository DannyMac180/meta-agent (Index: 331)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: c34734435c52b67ea25c79b795d8f162f792a976, Merged SHA: 5fbc5727ea2b4379b78a54674e7f1faf781db7cb
+Project PR_meta-agent_151 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #30489 from repository dagster-io/dagster (Index: 332)
+
+-------------------------------
+Base SHA: ed985ceb1969e26cae1dcc2b75c4c25ec843dd77, Merged SHA: d6ec86b4762d47055961e7d4773618bd59ffd3f8
+Project PR_dagster_30489 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_30489 at ed985ceb1969e26cae1dcc2b75c4c25ec843dd77
+Analysis of base commit completed.
+
+Checked out to branch merged_30489 at d6ec86b4762d47055961e7d4773618bd59ffd3f8
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1559 from repository econ-ark/HARK (Index: 333)
+Repository HARK already cloned.
+
+-------------------------------
+Base SHA: 1a8132b226a5e7e2965ade69c458b180b13449de, Merged SHA: b472c8eea3fee5481c46536915f3e5485b8c45a0
+Project PR_HARK_1559 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1559 at 1a8132b226a5e7e2965ade69c458b180b13449de
+Analysis of base commit completed.
+
+Checked out to branch merged_1559 at b472c8eea3fee5481c46536915f3e5485b8c45a0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #671 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 334)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: c10a657ef45034e0232c5839bb7f784aa8310123, Merged SHA: aa801da006ef06d99ceb9e619f79b2c7df6c4233
+Project PR_AGI-Alpha-Agent-v0_671 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_671 at c10a657ef45034e0232c5839bb7f784aa8310123
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #686 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 335)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 1116003a0deca02ef9e5decc72260d8a2971ee10, Merged SHA: 9e675aed4d8f4c9efb6391cb6a4613ba4fde3168
+Project PR_AGI-Alpha-Agent-v0_686 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_686 at 1116003a0deca02ef9e5decc72260d8a2971ee10
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1567 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 336)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 8dd63d060df5d2198bad7217ad722d96f707cbe2, Merged SHA: 019cc7a61ac10555eaa671ffbb2486fe93c0f75c
+Project PR_AGI-Alpha-Agent-v0_1567 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1567 at 8dd63d060df5d2198bad7217ad722d96f707cbe2
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #318 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 337)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: ac14479164cd5ee1bcb94e0d921d032c7798062c, Merged SHA: 20144dd95b7bf54c3bb75357f1f174e8db7c1b6b
+Project PR_AGI-Alpha-Agent-v0_318 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_318 at ac14479164cd5ee1bcb94e0d921d032c7798062c
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3545 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 338)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 97b0ed98119f0b292edbed00e7d44a82a68898ed, Merged SHA: f31f2150db32deffcb7249124a0bff82a22eeae0
+Project PR_AGI-Alpha-Agent-v0_3545 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3545 at 97b0ed98119f0b292edbed00e7d44a82a68898ed
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #76 from repository johnpaulett/python-hl7 (Index: 339)
+Repository python-hl7 already cloned.
+
+-------------------------------
+Base SHA: 387d45701290d64c6fda7749df50151583c24b4a, Merged SHA: 27a98e6e0b87bc05d3cab6ed2bd10fbe2b763197
+Project PR_python-hl7_76 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_76 at 387d45701290d64c6fda7749df50151583c24b4a
+Analysis of base commit completed.
+
+Checked out to branch merged_76 at 27a98e6e0b87bc05d3cab6ed2bd10fbe2b763197
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1576 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 340)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d7fbf1327234ff4fcaee833b7f677f09bdd4505d, Merged SHA: c08f9e3ce86881f4e25be454a63161434671b391
+Project PR_AGI-Alpha-Agent-v0_1576 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1576 at d7fbf1327234ff4fcaee833b7f677f09bdd4505d
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #259 from repository winedarksea/AutoTS (Index: 341)
+
+-------------------------------
+Base SHA: dfadb6b47970c149c164f1e4f7fcfb0ee4a8d08f, Merged SHA: 8f50d744da400b5481f3504eaa5822937630b8b0
+Project PR_AutoTS_259 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_259 at dfadb6b47970c149c164f1e4f7fcfb0ee4a8d08f
+Analysis of base commit completed.
+
+Checked out to branch merged_259 at 8f50d744da400b5481f3504eaa5822937630b8b0
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #734 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 342)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d0aa11dc86bc884c35ccbc3a96533a1d85da92cd, Merged SHA: 5b2293508c7ded6e3aff6689f00df0490314d3fa
+Project PR_AGI-Alpha-Agent-v0_734 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_734 at d0aa11dc86bc884c35ccbc3a96533a1d85da92cd
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1506 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 343)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: bc115a119ba9f134d9b9a53f47752d98e686bdde, Merged SHA: db09400e0a0231fd74e2bda4c3ccca22189f3b29
+Project PR_AGI-Alpha-Agent-v0_1506 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1506 at bc115a119ba9f134d9b9a53f47752d98e686bdde
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2383 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 344)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 4af33929f77417dccb0b6ffb480e51bcd786fb46, Merged SHA: a5853415d455f2c961bb2dd3d51dd92f4d4044db
+Project PR_AGI-Alpha-Agent-v0_2383 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2383 at 4af33929f77417dccb0b6ffb480e51bcd786fb46
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2347 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 345)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 668559eb196db79fddf0dd67b1eac4996258d29a, Merged SHA: 2a903bd84ceadf32e808312bdb3f4ef4f5440326
+Project PR_AGI-Alpha-Agent-v0_2347 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2347 at 668559eb196db79fddf0dd67b1eac4996258d29a
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2346 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 346)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: f032a5cb941b776360944cb7a5ff344a5534283b, Merged SHA: 668559eb196db79fddf0dd67b1eac4996258d29a
+Project PR_AGI-Alpha-Agent-v0_2346 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2346 at f032a5cb941b776360944cb7a5ff344a5534283b
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #23 from repository DannyMac180/meta-agent (Index: 347)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: fd1da8ae1dc405f59f3849b0722079b01c96948c, Merged SHA: d246c2e49a092ece09d7d0ab81c31840b3d5010f
+Project PR_meta-agent_23 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #681 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 348)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 6c105eb8bd970314653e5f243a670cb7c3a0dda1, Merged SHA: eead3bb83ac1d9632740c528315b695496133a33
+Project PR_AGI-Alpha-Agent-v0_681 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_681 at 6c105eb8bd970314653e5f243a670cb7c3a0dda1
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #47 from repository joewandy/hlda (Index: 349)
+
+-------------------------------
+Base SHA: f28e2b05d9713936a4f11d73d94688caa0ad78d7, Merged SHA: 42a4a28924e6b2db257a5580fdf6233cbb4f8246
+Project PR_hlda_47 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_47 at f28e2b05d9713936a4f11d73d94688caa0ad78d7
+Analysis of base commit completed.
+
+Checked out to branch merged_47 at 42a4a28924e6b2db257a5580fdf6233cbb4f8246
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #234 from repository ikamensh/flynt (Index: 350)
+Repository flynt already cloned.
+
+-------------------------------
+Base SHA: 9b88b8f6fbc430e935783fda48bb044e0ea84977, Merged SHA: 133a0c3f890d355482d6505c4fd22614e3543f97
+Project PR_flynt_234 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_234 at 9b88b8f6fbc430e935783fda48bb044e0ea84977
+Analysis of base commit completed.
+
+Checked out to branch merged_234 at 133a0c3f890d355482d6505c4fd22614e3543f97
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #167 from repository oraios/serena (Index: 351)
+
+-------------------------------
+Base SHA: 3b04d0b8676b09292d412bdd5e3ecbf372068cb3, Merged SHA: c545f1d46e3cf590fe976d09acfa64cb6780b64f
+Project PR_serena_167 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_167 at 3b04d0b8676b09292d412bdd5e3ecbf372068cb3
+Analysis of base commit completed.
+
+Checked out to branch merged_167 at c545f1d46e3cf590fe976d09acfa64cb6780b64f
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #63 from repository featureform/enrichmcp (Index: 352)
+Repository enrichmcp already cloned.
+
+-------------------------------
+Base SHA: 16893c1e3bcefdd2443a21d3bf0e9c09cf3279d9, Merged SHA: b01a6be8bf90d4720140dfdc1ebc9a3f4162a056
+Project PR_enrichmcp_63 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_63 at 16893c1e3bcefdd2443a21d3bf0e9c09cf3279d9
+Analysis of base commit completed.
+
+Checked out to branch merged_63 at b01a6be8bf90d4720140dfdc1ebc9a3f4162a056
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #380 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 353)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 10a11a8a54c0b6d8093ffd2007d770f2b032557f, Merged SHA: 8ec61ef136339347df17857f2cbc03294d9b5752
+Project PR_AGI-Alpha-Agent-v0_380 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_380 at 10a11a8a54c0b6d8093ffd2007d770f2b032557f
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #381 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 354)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 8ec61ef136339347df17857f2cbc03294d9b5752, Merged SHA: 048a9e42f76f58160f34e1d8c909d9575b76f984
+Project PR_AGI-Alpha-Agent-v0_381 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_381 at 8ec61ef136339347df17857f2cbc03294d9b5752
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #383 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 355)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 4f116e19204047fe1b5df9c1722d7b98fb15bede, Merged SHA: 556db27e357850ee5f95386dcec6bb8456f38339
+Project PR_AGI-Alpha-Agent-v0_383 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_383 at 4f116e19204047fe1b5df9c1722d7b98fb15bede
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #394 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 356)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: b2428850b92fc337a6970d94e9dfa1a525c03285, Merged SHA: 54d9da04069a52a6429c90a8c58e1ee33bdcc96e
+Project PR_AGI-Alpha-Agent-v0_394 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_394 at b2428850b92fc337a6970d94e9dfa1a525c03285
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #409 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 357)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 84055941094f724e1d9a2cfdd9ea39e05c40d39b, Merged SHA: bd62759f22002e71aa306702cceebeec60666998
+Project PR_AGI-Alpha-Agent-v0_409 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_409 at 84055941094f724e1d9a2cfdd9ea39e05c40d39b
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #420 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 358)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: fd8eee410a257afc19f3f2b99654529a535b1e24, Merged SHA: 9e0056cbd3bd35e8b4d28dbbe0ea19313d2636ed
+Project PR_AGI-Alpha-Agent-v0_420 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_420 at fd8eee410a257afc19f3f2b99654529a535b1e24
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #422 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 359)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 9a9eb09f10f2047c9f1fb36294699adea2c03feb, Merged SHA: b72b12361c484e6b6fb20736cda8320f8b7d74c2
+Project PR_AGI-Alpha-Agent-v0_422 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_422 at 9a9eb09f10f2047c9f1fb36294699adea2c03feb
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #885 from repository writer/writer-framework (Index: 360)
+
+-------------------------------
+Base SHA: 9d37b6a5d7f91ae67b5f490658211b951e8eb218, Merged SHA: 203ee28fb2a5e32d8517455b19feff63babfb14e
+Project PR_writer-framework_885 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_885 at 9d37b6a5d7f91ae67b5f490658211b951e8eb218
+Analysis of base commit completed.
+
+Checked out to branch merged_885 at 203ee28fb2a5e32d8517455b19feff63babfb14e
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6059 from repository PolicyEngine/policyengine-us (Index: 361)
+
+-------------------------------
+Base SHA: 81e7edc65004f752e6e299efb1450f82a07c6613, Merged SHA: 47fbb1d84750813b38586309078c26377adaea4b
+Project PR_policyengine-us_6059 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6059 at 81e7edc65004f752e6e299efb1450f82a07c6613
+Analysis of base commit completed.
+
+Checked out to branch merged_6059 at 47fbb1d84750813b38586309078c26377adaea4b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1622 from repository cartography-cncf/cartography (Index: 362)
+
+-------------------------------
+Base SHA: 9fc9af864c78b6aba6044ca5843d77dff330a2c2, Merged SHA: 8699f76eb485b7f62561f95c0f7bc03d6faa5dca
+Project PR_cartography_1622 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1622 at 9fc9af864c78b6aba6044ca5843d77dff330a2c2
+Analysis of base commit completed.
+
+Checked out to branch merged_1622 at 8699f76eb485b7f62561f95c0f7bc03d6faa5dca
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #2618 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 363)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 445f10f48199cf9584f558806e08744d3bacfd0b, Merged SHA: 14aaf61e939bc7d340cebd94f0ce33deb3e39a66
+Project PR_AGI-Alpha-Agent-v0_2618 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2618 at 445f10f48199cf9584f558806e08744d3bacfd0b
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #26 from repository osori/korean-romanizer (Index: 364)
+Repository korean-romanizer already cloned.
+
+-------------------------------
+Base SHA: 3e3533cef8098fda89a3ca8a923d9c149ea1a945, Merged SHA: 278eae3bea60a5381ab42c0b788487c5a995c221
+Project PR_korean-romanizer_26 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_26 at 3e3533cef8098fda89a3ca8a923d9c149ea1a945
+Analysis of base commit completed.
+
+Checked out to branch merged_26 at 278eae3bea60a5381ab42c0b788487c5a995c221
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #537 from repository simonw/simonwillisonblog (Index: 365)
+
+-------------------------------
+Base SHA: ca05a711d6e130286ac24a39b5052ff251f0899d, Merged SHA: 7ea5e8350d50db211cf2d02a3b4cdf24db649567
+Project PR_simonwillisonblog_537 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_537 at ca05a711d6e130286ac24a39b5052ff251f0899d
+Analysis of base commit completed.
+
+Checked out to branch merged_537 at 7ea5e8350d50db211cf2d02a3b4cdf24db649567
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #101 from repository mistralai/mistral-common (Index: 366)
+
+-------------------------------
+Base SHA: 9a38768468fe012aac04bea4d3c33fdd0dd1fd59, Merged SHA: 4b9674a58a29907588afbc477663ea810b0657df
+Project PR_mistral-common_101 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_101 at 9a38768468fe012aac04bea4d3c33fdd0dd1fd59
+Analysis of base commit completed.
+
+Checked out to branch merged_101 at 4b9674a58a29907588afbc477663ea810b0657df
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #158 from repository andrewm4894/anomstack (Index: 367)
+Repository anomstack already cloned.
+
+-------------------------------
+Base SHA: f7256c6b6c22f24b1b4e1bf684949e9467712296, Merged SHA: ca33b88b0a4a9fa245d6c8928488b6d8581bd9da
+Project PR_anomstack_158 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_158 at f7256c6b6c22f24b1b4e1bf684949e9467712296
+Analysis of base commit completed.
+
+Checked out to branch merged_158 at ca33b88b0a4a9fa245d6c8928488b6d8581bd9da
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #174 from repository KenYu910645/MapleStoryAutoLevelUp (Index: 368)
+
+-------------------------------
+Base SHA: edc5efe036ac3919a47ad772cb215cdd98291612, Merged SHA: 6c8806d7c2878d2d91325ad05f7039b7255fb27b
+Project PR_MapleStoryAutoLevelUp_174 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_174 at edc5efe036ac3919a47ad772cb215cdd98291612
+Analysis of base commit completed.
+
+Checked out to branch merged_174 at 6c8806d7c2878d2d91325ad05f7039b7255fb27b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3102 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 369)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 26965280fb59991b12e6c2bfb4fd5ccc91b514d1, Merged SHA: 7b46c09275239d214300dc476d113ea521687bc2
+Project PR_AGI-Alpha-Agent-v0_3102 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3102 at 26965280fb59991b12e6c2bfb4fd5ccc91b514d1
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3108 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 370)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: d7efa7264ae66931da0aef7e1e46dea0bfc37868, Merged SHA: 62808fc0a18b573921f444fe4b1e7f8f5506c854
+Project PR_AGI-Alpha-Agent-v0_3108 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3108 at d7efa7264ae66931da0aef7e1e46dea0bfc37868
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1020 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 371)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 8e10a046b5aaf5ff2dd8480ed4cc876b637f8d63, Merged SHA: a481d9cccb607d95e119a5c6c9fbc20b934730e3
+Project PR_AGI-Alpha-Agent-v0_1020 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1020 at 8e10a046b5aaf5ff2dd8480ed4cc876b637f8d63
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #183 from repository DannyMac180/meta-agent (Index: 372)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 3fdc143f6af77dcae9bbda8b369ad6482a89abc7, Merged SHA: c7e50c2509ed14e0f55175031c1e2f7b779a9a71
+Project PR_meta-agent_183 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #1507 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 373)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: db09400e0a0231fd74e2bda4c3ccca22189f3b29, Merged SHA: b2766bf494e05c031e53d34a9526cca29c6517aa
+Project PR_AGI-Alpha-Agent-v0_1507 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1507 at db09400e0a0231fd74e2bda4c3ccca22189f3b29
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #212 from repository ikamensh/flynt (Index: 374)
+Repository flynt already cloned.
+
+-------------------------------
+Base SHA: a9e89164e2508d9bd278644c95f8a5379c8e33cf, Merged SHA: 203f4195fb8cf3b33bc2652f9bcbb9f6b82dd23a
+Project PR_flynt_212 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_212 at a9e89164e2508d9bd278644c95f8a5379c8e33cf
+Analysis of base commit completed.
+
+Checked out to branch merged_212 at 203f4195fb8cf3b33bc2652f9bcbb9f6b82dd23a
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #11 from repository disler/just-prompt (Index: 375)
+
+-------------------------------
+Base SHA: ff6250f81211a65f6eb2a7c486acaa3192d13f36, Merged SHA: 97e06f1a6bfd034b6983174d373393e33c6f2fcf
+Project PR_just-prompt_11 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_11 at ff6250f81211a65f6eb2a7c486acaa3192d13f36
+Analysis of base commit completed.
+
+Checked out to branch merged_11 at 97e06f1a6bfd034b6983174d373393e33c6f2fcf
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #12 from repository robertmartin8/KindleClippings (Index: 376)
+
+-------------------------------
+Base SHA: 3f270d3e61cf0f385470f89a3cf72aa9469c806d, Merged SHA: 62a6f0d6d6a46ff5fa811722f8cdd2a7819984d6
+Project PR_KindleClippings_12 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_12 at 3f270d3e61cf0f385470f89a3cf72aa9469c806d
+Analysis of base commit completed.
+
+Checked out to branch merged_12 at 62a6f0d6d6a46ff5fa811722f8cdd2a7819984d6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #34 from repository thomasahle/tensorgrad (Index: 377)
+
+-------------------------------
+Base SHA: 0225c1745625b30c5870f5e1b621af44bf1bd3e8, Merged SHA: 616581d698ba34e127036ebb18ef6942388c1f08
+Project PR_tensorgrad_34 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_34 at 0225c1745625b30c5870f5e1b621af44bf1bd3e8
+Analysis of base commit completed.
+
+Checked out to branch merged_34 at 616581d698ba34e127036ebb18ef6942388c1f08
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #58 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 378)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 1dc0cdeba5422fb3f88f433d2c69dbca0581a1c2, Merged SHA: 73c06092d3ab0b948c236fe8b43ccbab105bb5bc
+Project PR_AGI-Alpha-Agent-v0_58 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_58 at 1dc0cdeba5422fb3f88f433d2c69dbca0581a1c2
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3104 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 379)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 9b02e493914287d4ec28a42047dbf5362cc9a249, Merged SHA: 1a01b18e383100493ba551439875a0f6f60de7e7
+Project PR_AGI-Alpha-Agent-v0_3104 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3104 at 9b02e493914287d4ec28a42047dbf5362cc9a249
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #352 from repository llm-workflow-engine/llm-workflow-engine (Index: 380)
+
+-------------------------------
+Base SHA: 1c7ec9b42f8d3846549574ad2cc0e6a5b6fe5c3b, Merged SHA: 43acac87d8a0764ae57c863c6d0aa06591ab1d5b
+Project PR_llm-workflow-engine_352 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_352 at 1c7ec9b42f8d3846549574ad2cc0e6a5b6fe5c3b
+Analysis of base commit completed.
+
+Checked out to branch merged_352 at 43acac87d8a0764ae57c863c6d0aa06591ab1d5b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #74 from repository johnpaulett/python-hl7 (Index: 381)
+Repository python-hl7 already cloned.
+
+-------------------------------
+Base SHA: b002c567a7cfc05d8ecdd4ebb96b589f190e66a5, Merged SHA: 98c8fa6b014d3b86498f4fe95d47285dd78727e6
+Project PR_python-hl7_74 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_74 at b002c567a7cfc05d8ecdd4ebb96b589f190e66a5
+Analysis of base commit completed.
+
+Checked out to branch merged_74 at 98c8fa6b014d3b86498f4fe95d47285dd78727e6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #6 from repository a1600012888/LaCT (Index: 382)
+
+-------------------------------
+Base SHA: 93afe4a556c8051b66deddddbfa14b505429ef29, Merged SHA: be761fdb37d5928eea16d700c83399eb9deb99ae
+Project PR_LaCT_6 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_6 at 93afe4a556c8051b66deddddbfa14b505429ef29
+Analysis of base commit completed.
+
+Checked out to branch merged_6 at be761fdb37d5928eea16d700c83399eb9deb99ae
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3491 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 383)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: a0679332d98cce52be79b01797d625de91e7d06d, Merged SHA: 1a99db5c8a19a4669f4ec0939d82d3b19837f494
+Project PR_AGI-Alpha-Agent-v0_3491 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3491 at a0679332d98cce52be79b01797d625de91e7d06d
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #758 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 384)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: db16f3b7b51c70572ce0f55e18c93dc05cd40784, Merged SHA: 8e18da8f89926d644c25e8889c7a869bbf779248
+Project PR_AGI-Alpha-Agent-v0_758 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_758 at db16f3b7b51c70572ce0f55e18c93dc05cd40784
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2630 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 385)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 4bbdce3752ed39ad78c1bf45f260a236c83154eb, Merged SHA: d7139fe3e457048cc27eb4ab81a4fa91c4a57fa5
+Project PR_AGI-Alpha-Agent-v0_2630 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2630 at 4bbdce3752ed39ad78c1bf45f260a236c83154eb
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #2910 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 386)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 0a00972a9f2222f56fe6b5acd7b0a737213db11f, Merged SHA: 093ffdab028b9cc35711dd0147a2b7a5d6363bb3
+Project PR_AGI-Alpha-Agent-v0_2910 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_2910 at 0a00972a9f2222f56fe6b5acd7b0a737213db11f
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #127 from repository tomquist/b2500-meter (Index: 387)
+Repository b2500-meter already cloned.
+
+-------------------------------
+Base SHA: e5eb53925a3bbc2d484ba09618198c944398b17d, Merged SHA: 5de8aaa7228ed5c8e2bf99028fc30eb84ba2c7ac
+Project PR_b2500-meter_127 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_127 at e5eb53925a3bbc2d484ba09618198c944398b17d
+Analysis of base commit completed.
+
+Checked out to branch merged_127 at 5de8aaa7228ed5c8e2bf99028fc30eb84ba2c7ac
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #126 from repository tomquist/b2500-meter (Index: 388)
+Repository b2500-meter already cloned.
+
+-------------------------------
+Base SHA: e5eb53925a3bbc2d484ba09618198c944398b17d, Merged SHA: 02965ab537e2e8e03bbc2f7eb96c35748d020ea6
+Project PR_b2500-meter_126 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_126 at e5eb53925a3bbc2d484ba09618198c944398b17d
+Analysis of base commit completed.
+
+Checked out to branch merged_126 at 02965ab537e2e8e03bbc2f7eb96c35748d020ea6
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3751 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 389)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: e92a9be4133a4aaff1021408f24b8190270b97c1, Merged SHA: 938631ce3bee6f9d3b7444bc9d13911d89e31952
+Project PR_AGI-Alpha-Agent-v0_3751 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #71 from repository DannyMac180/meta-agent (Index: 390)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: f2f0561cecdb82c3a64f77f3596015718707de91, Merged SHA: 0b289c5e30f3a5a8b452d61d8bb04201d38d0b23
+Project PR_meta-agent_71 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #72 from repository DannyMac180/meta-agent (Index: 391)
+Repository meta-agent already cloned.
+
+-------------------------------
+Base SHA: 0b289c5e30f3a5a8b452d61d8bb04201d38d0b23, Merged SHA: 1728cc0051f96b074cb7fbf486cf5373adda09bd
+Project PR_meta-agent_72 already exists. Deleting it...
+
+---------------------------------
+
+================================================================================
+Processing PR #528 from repository PyLabRobot/pylabrobot (Index: 392)
+Repository pylabrobot already cloned.
+
+-------------------------------
+Base SHA: 6bf5d49d45cad7a8b67dc5f3c161442362a15e87, Merged SHA: d38306d6d531ccd593a734c38661dffe8f8febbe
+Project PR_pylabrobot_528 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_528 at 6bf5d49d45cad7a8b67dc5f3c161442362a15e87
+Analysis of base commit completed.
+
+Checked out to branch merged_528 at d38306d6d531ccd593a734c38661dffe8f8febbe
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #3508 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 393)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 4f89186f25c56f35ab49417ea32802ac79675aa6, Merged SHA: 09239e3b22cf5897988ea3a39e4ef41499d72237
+Project PR_AGI-Alpha-Agent-v0_3508 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3508 at 4f89186f25c56f35ab49417ea32802ac79675aa6
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #3510 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 394)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 8422aafaf0d3cdff8f2bca0b20dd04bccbb244ba, Merged SHA: fdacbfedb6996b651f53e5f68589053e2fa24e23
+Project PR_AGI-Alpha-Agent-v0_3510 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_3510 at 8422aafaf0d3cdff8f2bca0b20dd04bccbb244ba
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #1148 from repository MontrealAI/AGI-Alpha-Agent-v0 (Index: 395)
+Repository AGI-Alpha-Agent-v0 already cloned.
+
+-------------------------------
+Base SHA: 402b0d896afc622a879ec0851bd9a1ad176f5d69, Merged SHA: 47b6272336cf96cb1c61636b6436539708ad43d2
+Project PR_AGI-Alpha-Agent-v0_1148 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1148 at 402b0d896afc622a879ec0851bd9a1ad176f5d69
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #43 from repository maxbbraun/accent (Index: 396)
+
+-------------------------------
+Base SHA: e0f826d6d5da3f34bb88b32424b8979be03863f8, Merged SHA: 34dc8a3f0d79e44301df07e166ebf832aeea91a2
+Project PR_accent_43 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_43 at e0f826d6d5da3f34bb88b32424b8979be03863f8
+Analysis of base commit completed.
+
+Checked out to branch merged_43 at 34dc8a3f0d79e44301df07e166ebf832aeea91a2
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #229 from repository wwood/singlem (Index: 397)
+Repository singlem already cloned.
+
+-------------------------------
+Base SHA: a6c21141c8aa74aa573b4d51e75196b28b4ba8a7, Merged SHA: 53c1262202fdd10e9f8168f6c7c248dd3d406f87
+Project PR_singlem_229 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_229 at a6c21141c8aa74aa573b4d51e75196b28b4ba8a7
+Analysis of base commit completed.
+
+Checked out to branch merged_229 at 53c1262202fdd10e9f8168f6c7c248dd3d406f87
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1306 from repository roboflow/inference (Index: 398)
+Repository inference already cloned.
+
+-------------------------------
+Base SHA: cd256f443fbae11050e5d7be0d79860beef9f763, Merged SHA: 6e535b735767ae31f71e04da4b125ba9ba9141e4
+Project PR_inference_1306 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1306 at cd256f443fbae11050e5d7be0d79860beef9f763
+Analysis of base commit completed.
+
+Checked out to branch merged_1306 at 6e535b735767ae31f71e04da4b125ba9ba9141e4
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #22 from repository briangu/klongpy (Index: 399)
+Repository klongpy already cloned.
+
+-------------------------------
+Base SHA: 50e21299bade1b7f67ee6da977b1ed6f79fe990b, Merged SHA: 23a2f11c5f7762309c2a11ca65fe76ea3e61c0f4
+Project PR_klongpy_22 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_22 at 50e21299bade1b7f67ee6da977b1ed6f79fe990b
+Analysis of base commit completed.
+
+Checked out to branch merged_22 at 23a2f11c5f7762309c2a11ca65fe76ea3e61c0f4
+Analysis of merged commit completed.
+

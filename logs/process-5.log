@@ -1,0 +1,262 @@
+
+================================================================================
+Processing PR #26 from repository wzdavid/ThinkRAG (Index: 1089)
+Repository ThinkRAG already cloned.
+
+-------------------------------
+Base SHA: 989d6b3d4ea163e75f2dafacf44eccfee7af221c, Merged SHA: 27759519f30d9b3e8180fa4b7dba448000400b3d
+Project PR_ThinkRAG_26 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #164 from repository OpenPipe/ART (Index: 1086)
+Repository ART already cloned.
+
+-------------------------------
+Base SHA: 091ca2c192536d40d4bbad6846735f99a40e0508, Merged SHA: 712b9d102687bd3471a923b13e96b228e5dfbaa5
+Project PR_ART_164 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #5101 from repository keephq/keep (Index: 1085)
+Repository keep already cloned.
+
+-------------------------------
+Base SHA: 33eddb2ba8a950a0abb4b4d21dfc3cac00fb6d20, Merged SHA: a2533b6c7430f30ee5569c697298bc8be3d9ad56
+Project PR_keep_5101 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #95356 from repository getsentry/sentry (Index: 1096)
+Repository sentry already cloned.
+
+================================================================================
+Processing PR #26 from repository wzdavid/ThinkRAG (Index: 1089)
+
+-------------------------------
+Base SHA: 989d6b3d4ea163e75f2dafacf44eccfee7af221c, Merged SHA: 27759519f30d9b3e8180fa4b7dba448000400b3d
+Project PR_ThinkRAG_26 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #164 from repository OpenPipe/ART (Index: 1086)
+
+-------------------------------
+Base SHA: 091ca2c192536d40d4bbad6846735f99a40e0508, Merged SHA: 712b9d102687bd3471a923b13e96b228e5dfbaa5
+Project PR_ART_164 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #5101 from repository keephq/keep (Index: 1085)
+
+-------------------------------
+Base SHA: 33eddb2ba8a950a0abb4b4d21dfc3cac00fb6d20, Merged SHA: a2533b6c7430f30ee5569c697298bc8be3d9ad56
+Project PR_keep_5101 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #95356 from repository getsentry/sentry (Index: 1096)
+
+-------------------------------
+Base SHA: 837d98f9f8fb09441771a2cb3d4bae238e5a6b89, Merged SHA: da215a6cd71fce0a1a7d74b94deb266364147dd2
+Project PR_sentry_95356 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #1627 from repository 567-labs/instructor (Index: 1074)
+
+-------------------------------
+Base SHA: f6bc63d9d224b9acf490fae7573b5a0d26dcb3bc, Merged SHA: caf0f7a4d0d822119bbb790f97e053858c449121
+Project PR_instructor_1627 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #95516 from repository getsentry/sentry (Index: 1082)
+
+-------------------------------
+Base SHA: af3ab6f3c83e444c0142af6236e1360131447871, Merged SHA: 870d88d0a3dd11d67016f0be81453bc7c95dc201
+Project PR_sentry_95516 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #2161 from repository browser-use/browser-use (Index: 1107)
+
+-------------------------------
+Base SHA: 7a50320016434eb519b83e878e3abe8df02788ea, Merged SHA: 9b614a13b0897d9dfa25134e684fc51055164f8d
+Project PR_browser-use_2161 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #5113 from repository keephq/keep (Index: 1097)
+
+-------------------------------
+Base SHA: a33c4f87c9620365d21934cf0b1c370f9064d6ba, Merged SHA: cc66b5b4a385833d2a0285415570564d1e79a88f
+Project PR_keep_5113 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #734 from repository EvolvingLMMs-Lab/lmms-eval (Index: 1109)
+
+-------------------------------
+Base SHA: c0c0a97775c2a398f220edfe4f3146a5a50d1b38, Merged SHA: 2dad280d5276e2d6acd1188dc3f47c2ebadc6d13
+Project PR_lmms-eval_734 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #489 from repository WorkflowAI/WorkflowAI (Index: 1076)
+
+-------------------------------
+Base SHA: cf4818f6acb928071b72a21ddeda94cdb10f46fd, Merged SHA: e9af811995035ddee3c71b3c0077724594d8df7e
+Project PR_WorkflowAI_489 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #4476 from repository getsentry/sentry-python (Index: 1095)
+
+-------------------------------
+Base SHA: 0a2d8585f18f1d135d1f04624b702ef46fd119bb, Merged SHA: 7804260fbf3ed8f797af95d2c0bdfcfeb85b0605
+Project PR_sentry-python_4476 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #94261 from repository getsentry/sentry (Index: 1079)
+
+-------------------------------
+Base SHA: eb83c8f466e42259a18ce16b9e9c02922bb46a1e, Merged SHA: f04ff1c515865beaf00ae1d872ac8fbc7fd540af
+Project PR_sentry_94261 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #548 from repository WorkflowAI/WorkflowAI (Index: 1083)
+
+-------------------------------
+Base SHA: a6654e795b31b4fd063156fb7b1d1921f5eedee6, Merged SHA: 23b5db69ae1b5f14830a30ebab65bf2fb82387a0
+Project PR_WorkflowAI_548 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #2437 from repository browser-use/browser-use (Index: 1101)
+
+-------------------------------
+Base SHA: 5d35a5a4cae394cca9fbf256d4820d12c9850e5b, Merged SHA: e2bebe8552c14ebc39f56039571c65e00ce47465
+Project PR_browser-use_2437 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #4459 from repository getsentry/sentry-python (Index: 1104)
+
+-------------------------------
+Base SHA: 06ef70c7f30c693b737257f6d5c87147396d2188, Merged SHA: 401a003f29b8043cfc87895dc6a9c4ce91f082b0
+Project PR_sentry-python_4459 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #94258 from repository getsentry/sentry (Index: 1078)
+
+-------------------------------
+Base SHA: 9520960dc4ee1b54575479ecc3fdc22ecf1b09c3, Merged SHA: 3e2fd084aeb33e6b38bd0e5c1ec8b362850d9790
+Project PR_sentry_94258 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #4561 from repository jxxghp/MoviePilot (Index: 1087)
+
+-------------------------------
+Base SHA: 277cde8db236b7116714d451412c232708c25ccd, Merged SHA: 6156b9a481df4722e31e7c26818d6d9979bb95cd
+Project PR_MoviePilot_4561 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #93325 from repository getsentry/sentry (Index: 1094)
+
+-------------------------------
+Base SHA: 94d3ce2de2eec87bc5ef1bce8d9126bcf48d956e, Merged SHA: 78b8c02901ec0641bbfcb69a5758591b19fda9e4
+Project PR_sentry_93325 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #11 from repository jean-technologies/jean-memory (Index: 1070)
+
+-------------------------------
+Base SHA: eaee8c6487d3dabddf0efbf613c3a39e5e381b36, Merged SHA: de77c762ed063b5fecc57936bd89cd2b67ebbbe8
+Project PR_jean-memory_11 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #36 from repository Bandit-HaxUnit/haxunit (Index: 1103)
+
+-------------------------------
+Base SHA: 8b355d32627f912a9e43d35f4971fa4eef4b3fc3, Merged SHA: aac917e385f019e6baeee035dd061e9fbb9edce0
+Project PR_haxunit_36 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #1209 from repository TracecatHQ/tracecat (Index: 1075)
+
+-------------------------------
+Base SHA: 31c4c8c69e594b67100330e26f97d84522e5acb1, Merged SHA: 54e2bbf367d8f947d215727ebcbab9762dd82f7c
+Project PR_tracecat_1209 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #387 from repository ucbepic/docetl (Index: 1081)
+
+-------------------------------
+Base SHA: 681e18378ae1e6cf55db47e154e9a77a8dac7862, Merged SHA: 4905e6f9db9f0df18b3a81f66fbe4db174c8c0a1
+Project PR_docetl_387 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #124 from repository willccbb/verifiers (Index: 1071)
+
+-------------------------------
+Base SHA: 4f44d7ea4dae70791dde89aedc8f1747cda01cc0, Merged SHA: e210982f202e30ab9838a25479bb44fa572a7023
+Project PR_verifiers_124 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #2260 from repository browser-use/browser-use (Index: 1099)
+
+-------------------------------
+Base SHA: 5bb3bfc03b683dcbc4a976268dd1b0c4b663aa76, Merged SHA: 91c6b95af012a699150537e661bfe7e33144ae02
+Project PR_browser-use_2260 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #95114 from repository getsentry/sentry (Index: 1091)
+
+-------------------------------
+Base SHA: fd37f4bbcadc8070d14670fb5e7b2e9720549cd5, Merged SHA: 65fbf12b9d277647651bd8b116b9866885aa85cf
+Project PR_sentry_95114 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #93933 from repository getsentry/sentry (Index: 1072)
+
+-------------------------------
+Base SHA: bae57cba2384d5f7aede288b15249ca5f4e405da, Merged SHA: 976bb0b4c06258e334229b3121b867dba6ca1c4c
+Project PR_sentry_93933 already exists. Skipping analysis.
+
+================================================================================
+Processing PR #27 from repository wzdavid/ThinkRAG (Index: 1100)
+
+-------------------------------
+Base SHA: 27759519f30d9b3e8180fa4b7dba448000400b3d, Merged SHA: d3270589a49418bbf84992826dac659738cd561b
+Project PR_ThinkRAG_27 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_27 at 27759519f30d9b3e8180fa4b7dba448000400b3d
+Analysis of base commit completed.
+
+Checked out to branch merged_27 at d3270589a49418bbf84992826dac659738cd561b
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #4534 from repository jxxghp/MoviePilot (Index: 1106)
+
+-------------------------------
+Base SHA: 0e3e42b398d1ed3f9fd50b543926a9a204ff4956, Merged SHA: 25a481df1247cc36ed1adc08063163aad975980d
+Project PR_MoviePilot_4534 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_4534 at 0e3e42b398d1ed3f9fd50b543926a9a204ff4956
+Analysis of base commit completed.
+
+
+================================================================================
+Processing PR #93946 from repository getsentry/sentry (Index: 1073)
+
+-------------------------------
+Base SHA: 3a21c06731182e446881dc226f532071198e1de1, Merged SHA: 4f92a941125ab8b85ce7de97390d924abd6be9cb
+Project PR_sentry_93946 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_93946 at 3a21c06731182e446881dc226f532071198e1de1
+Analysis of base commit completed.
+
+Checked out to branch merged_93946 at 4f92a941125ab8b85ce7de97390d924abd6be9cb
+Analysis of merged commit completed.
+
+
+================================================================================
+Processing PR #1857 from repository Arize-ai/openinference (Index: 1105)
+
+-------------------------------
+Base SHA: b06e22e0df413fb2088a0ba9e525a6a5ef0e0e1a, Merged SHA: fc7f97b65696c5df0ff285a81a5f70977689188b
+Project PR_openinference_1857 already exists. Deleting it...
+
+---------------------------------
+Checked out to branch base_1857 at b06e22e0df413fb2088a0ba9e525a6a5ef0e0e1a

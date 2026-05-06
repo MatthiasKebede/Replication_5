@@ -478,5 +478,637 @@
         "messageFormattings": []
       }
     ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 9,
+      "pr_html_url": "https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/9",
+      "owner": "MontrealAI",
+      "repo": "AGI-Alpha-Agent-v0",
+      "agent": "OpenAI_Codex"
+    },
+    "hotspots_count": 18,
+    "hotspots": [
+      {
+        "key": "4c4b60cb-562e-40b0-ba97-8cefe19cb1ef",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/meta_agentic_agi/agents/agent_base.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "csrf",
+        "vulnerabilityProbability": "HIGH",
+        "status": "TO_REVIEW",
+        "line": 283,
+        "message": "Make sure disabling CSRF protection is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 283,
+          "endLine": 283,
+          "startOffset": 10,
+          "endOffset": 39
+        },
+        "flows": [],
+        "ruleKey": "python:S4502",
+        "messageFormattings": []
+      },
+      {
+        "key": "30d2cb63-e76f-43a4-a89a-994745eca864",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/meta_agentic_agi_v2/agents/agent_base.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "csrf",
+        "vulnerabilityProbability": "HIGH",
+        "status": "TO_REVIEW",
+        "line": 283,
+        "message": "Make sure disabling CSRF protection is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 283,
+          "endLine": 283,
+          "startOffset": 10,
+          "endOffset": 39
+        },
+        "flows": [],
+        "ruleKey": "python:S4502",
+        "messageFormattings": []
+      },
+      {
+        "key": "e9ade037-02aa-45e8-a1a6-bcbb815824c4",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/meta_agentic_agi_v3/agents/agent_base.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "csrf",
+        "vulnerabilityProbability": "HIGH",
+        "status": "TO_REVIEW",
+        "line": 283,
+        "message": "Make sure disabling CSRF protection is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 283,
+          "endLine": 283,
+          "startOffset": 10,
+          "endOffset": 39
+        },
+        "flows": [],
+        "ruleKey": "python:S4502",
+        "messageFormattings": []
+      },
+      {
+        "key": "8e3a65d5-c732-4143-bf9d-c7b9bb9e1a51",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 250,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 250,
+          "endLine": 250,
+          "startOffset": 15,
+          "endOffset": 35
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "4693c975-ef48-44cd-82cd-21cb0c20748a",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 252,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 252,
+          "endLine": 252,
+          "startOffset": 42,
+          "endOffset": 69
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "74e04664-68f0-4906-93ab-2ffc5edb48e7",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 252,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 252,
+          "endLine": 252,
+          "startOffset": 13,
+          "endOffset": 40
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "c216bf77-ec5c-4194-878d-4e6ad1e05164",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 253,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 253,
+          "endLine": 253,
+          "startOffset": 27,
+          "endOffset": 50
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "d890d71a-7977-48a1-8a93-b59a77d02606",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 276,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 276,
+          "endLine": 276,
+          "startOffset": 11,
+          "endOffset": 26
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "de164946-d377-48f2-9664-896594dfb4d1",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 277,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 277,
+          "endLine": 277,
+          "startOffset": 19,
+          "endOffset": 38
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "e6c9b03a-d27b-40c7-924b-826ed4d6f453",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 289,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 289,
+          "endLine": 289,
+          "startOffset": 16,
+          "endOffset": 59
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "4b619f16-52ad-4bbb-b319-7ce0df128ce1",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 270,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 270,
+          "endLine": 270,
+          "startOffset": 13,
+          "endOffset": 32
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "126b19cb-75e2-4992-90f4-b0d5ab1caa65",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 271,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 271,
+          "endLine": 271,
+          "startOffset": 45,
+          "endOffset": 69
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "77ce164f-ecbc-424a-942c-adb59be8c6a2",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 271,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 271,
+          "endLine": 271,
+          "startOffset": 20,
+          "endOffset": 44
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "ba9782c8-2f9f-4f6a-825e-a9f8f52ebcfd",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 271,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 271,
+          "endLine": 271,
+          "startOffset": 86,
+          "endOffset": 108
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "2aab9ee0-1a06-42ca-8eb2-025ca6683086",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 288,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 288,
+          "endLine": 288,
+          "startOffset": 11,
+          "endOffset": 26
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "8ff49553-3567-437b-a2da-53f193a9e327",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 289,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 289,
+          "endLine": 289,
+          "startOffset": 19,
+          "endOffset": 38
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "8808d5ad-fa4d-4cb3-9254-fbbf0f0d48c1",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 299,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 299,
+          "endLine": 299,
+          "startOffset": 21,
+          "endOffset": 64
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "c18b6fc7-6107-45dc-9d3b-4dcc47b6e6c3",
+        "component": "PR_AGI-Alpha-Agent-v0_9:alpha_factory_v1/demos/alpha_asi_world_model/alpha_asi_world_model_demo_v4.py",
+        "project": "PR_AGI-Alpha-Agent-v0_9",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 321,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "info@montreal.ai",
+        "creationDate": "2026-05-05T16:54:11+0000",
+        "updateDate": "2026-05-05T16:54:11+0000",
+        "textRange": {
+          "startLine": 321,
+          "endLine": 321,
+          "startOffset": 16,
+          "endOffset": 48
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 442,
+      "pr_html_url": "https://github.com/WorkflowAI/WorkflowAI/pull/442",
+      "owner": "WorkflowAI",
+      "repo": "WorkflowAI",
+      "agent": "OpenAI_Codex"
+    },
+    "hotspots_count": 4,
+    "hotspots": [
+      {
+        "key": "0998e055-e609-4317-a740-e082449eab10",
+        "component": "PR_WorkflowAI_442:api/tests/component/openai_proxy/openai_proxy_test.py",
+        "project": "PR_WorkflowAI_442",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 851,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "guillaume@workflowai.com",
+        "creationDate": "2026-05-05T17:51:58+0000",
+        "updateDate": "2026-05-05T17:51:58+0000",
+        "textRange": {
+          "startLine": 851,
+          "endLine": 851,
+          "startOffset": 29,
+          "endOffset": 44
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "4a3fa9c6-c5d4-469b-9c62-6a679e157e7c",
+        "component": "PR_WorkflowAI_442:api/tests/component/openai_proxy/openai_proxy_test.py",
+        "project": "PR_WorkflowAI_442",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 872,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "guillaume@workflowai.com",
+        "creationDate": "2026-05-05T17:51:58+0000",
+        "updateDate": "2026-05-05T17:51:58+0000",
+        "textRange": {
+          "startLine": 872,
+          "endLine": 872,
+          "startOffset": 68,
+          "endOffset": 83
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "ff04108f-20cf-418e-ad72-d93c24b6dcd1",
+        "component": "PR_WorkflowAI_442:api/tests/component/run/openai_test.py",
+        "project": "PR_WorkflowAI_442",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 86,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "guillaume@workflowai.com",
+        "creationDate": "2026-05-05T17:51:58+0000",
+        "updateDate": "2026-05-05T17:51:58+0000",
+        "textRange": {
+          "startLine": 86,
+          "endLine": 86,
+          "startOffset": 12,
+          "endOffset": 40
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      },
+      {
+        "key": "3ad19ba1-a718-4f90-ae1a-84ef4135e128",
+        "component": "PR_WorkflowAI_442:api/tests/component/run/openai_test.py",
+        "project": "PR_WorkflowAI_442",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 94,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "guillaume@workflowai.com",
+        "creationDate": "2026-05-05T17:51:58+0000",
+        "updateDate": "2026-05-05T17:51:58+0000",
+        "textRange": {
+          "startLine": 94,
+          "endLine": 94,
+          "startOffset": 19,
+          "endOffset": 47
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 361,
+      "pr_html_url": "https://github.com/Blaizzy/mlx-vlm/pull/361",
+      "owner": "Blaizzy",
+      "repo": "mlx-vlm",
+      "agent": "OpenAI_Codex"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "0fa6774f-45c3-4cbd-9895-0466f459e873",
+        "component": "PR_mlx-vlm_361:mlx_vlm/tests/test_utils.py",
+        "project": "PR_mlx-vlm_361",
+        "securityCategory": "others",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 258,
+        "message": "Make sure publicly writable directories are used safely here.",
+        "author": "prince.gdt@gmail.com",
+        "creationDate": "2026-05-06T04:43:41+0000",
+        "updateDate": "2026-05-06T04:43:41+0000",
+        "textRange": {
+          "startLine": 258,
+          "endLine": 258,
+          "startOffset": 48,
+          "endOffset": 60
+        },
+        "flows": [],
+        "ruleKey": "python:S5443",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 95516,
+      "pr_html_url": "https://github.com/getsentry/sentry/pull/95516",
+      "owner": "getsentry",
+      "repo": "sentry",
+      "agent": "Cursor"
+    },
+    "hotspots_count": 2,
+    "hotspots": [
+      {
+        "key": "934fbaac-7a3a-40c1-af7b-bff1f94b9fde",
+        "component": "PR_sentry_95516:src/sentry/grouping/ingest/grouphash_metadata.py",
+        "project": "PR_sentry_95516",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 130,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "katie.byers@sentry.io",
+        "creationDate": "2026-05-05T21:18:16+0000",
+        "updateDate": "2026-05-05T21:18:16+0000",
+        "textRange": {
+          "startLine": 130,
+          "endLine": 130,
+          "startOffset": 17,
+          "endOffset": 32
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      },
+      {
+        "key": "123f05a7-3f35-4c6f-bec4-21a3319e093c",
+        "component": "PR_sentry_95516:tests/sentry/api/endpoints/test_project_artifact_lookup.py",
+        "project": "PR_sentry_95516",
+        "securityCategory": "encrypt-data",
+        "vulnerabilityProbability": "LOW",
+        "status": "TO_REVIEW",
+        "line": 608,
+        "message": "Using http protocol is insecure. Use https instead",
+        "author": "arpad.borsos@sentry.io",
+        "creationDate": "2026-05-05T21:18:16+0000",
+        "updateDate": "2026-05-05T21:18:16+0000",
+        "textRange": {
+          "startLine": 608,
+          "endLine": 608,
+          "startOffset": 17,
+          "endOffset": 52
+        },
+        "flows": [],
+        "ruleKey": "python:S5332",
+        "messageFormattings": []
+      }
+    ]
+  },
+  {
+    "pr_info": {
+      "pr_number": 4459,
+      "pr_html_url": "https://github.com/getsentry/sentry-python/pull/4459",
+      "owner": "getsentry",
+      "repo": "sentry-python",
+      "agent": "Cursor"
+    },
+    "hotspots_count": 1,
+    "hotspots": [
+      {
+        "key": "9a10905e-abaf-42fa-a556-85205517e28d",
+        "component": "PR_sentry-python_4459:sentry_sdk/profiler/transaction_profiler.py",
+        "project": "PR_sentry-python_4459",
+        "securityCategory": "weak-cryptography",
+        "vulnerabilityProbability": "MEDIUM",
+        "status": "TO_REVIEW",
+        "line": 290,
+        "message": "Make sure that using this pseudorandom number generator is safe here.",
+        "author": "neel.shah@sentry.io",
+        "creationDate": "2026-05-05T22:28:24+0000",
+        "updateDate": "2026-05-05T22:28:24+0000",
+        "textRange": {
+          "startLine": 290,
+          "endLine": 290,
+          "startOffset": 23,
+          "endOffset": 38
+        },
+        "flows": [],
+        "ruleKey": "python:S2245",
+        "messageFormattings": []
+      }
+    ]
   }
 ]
